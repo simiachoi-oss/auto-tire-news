@@ -1,6 +1,237 @@
 [
  {
   "c": "car",
+  "o": "Tesla September registrations rise across Europe, extending recovery",
+  "h": "Tesla September registrations rise across Europe, extending recovery",
+  "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbVkxZ3JoeS1uVjF0b2NiNVliRXdJVlN1T2ZvaEg4d1BlaGJ3SlB3em1CTFlOR3dIdHVpbVVNSVdPVWttVUlyRUlrTjFqeFkzSXRXU3ZCckFiYWRZM3R1bE1LQ2hJQUNaUGdubzNHRl91NXc5ZEhJMVpDUi1hWGxkWDhmY3ZOa1dyNjNYRFp5S0R0ajVCVkMzSWxBNnk3T2tFUVRxci15MXI1MlkySDZYQnhVM2JFRVJoR2FHakFqVW1HQkgycjBQUzluSWotZw?oc=5",
+  "src": "Reuters",
+  "r": "global",
+  "ts": "2026-10-01T16:39",
+  "s": "9월 유럽 전역에서 테슬라 등록 수가 증가하면서 회복 추세가 이어지고 있다.",
+  "p": "유럽 전기차 시장의 회복세가 주요 완성차업체의 판매 회복에 영향을 미치고 있는 것으로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "현대차·기아, 서울시와 레벨4 자율주행 시내버스 상용화 추진",
+  "h": "현대차·기아, 서울시와 레벨4 자율주행 시내버스 상용화 추진",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBFYnJRa1prYzFHUVE2aG5JTUVDb3diSkdKdmFDbkY1d25qMzZzXzBwakpzSlVZSV9xcl9hVnB4RHpRWUh5ZU9zZ3lEQlF0bk0tTkJsR2huQzRMNFZxUF91TG1Uano?oc=5",
+  "src": "인더뉴스",
+  "r": "kr",
+  "ts": "2026-10-01T16:37",
+  "s": "현대차와 기아가 서울시와 함께 레벨4 자율주행 시내버스 상용화를 추진한다.",
+  "p": "국내 완성차업체의 고수준 자율주행 기술 상용화 움직임이 가시화되는 것으로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "현대차, 31만대 판매…추석·신차 대기 여파에 전년比 16%↓ [9월 완성차 판매]",
+  "h": "현대차, 31만대 판매…추석·신차 대기 여파에 전년比 16%↓ [9월 완성차 판매]",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11WTFVRGUySnEtenVzMkFZLXRsRXNtT3hjSktyY19QQTJ2enFLSWw3aS1PUHdpRkdiSFpHLWdZRnZZMmRDdmpXcVZZY3duOWN5TjJFRVVR?oc=5",
+  "src": "헤럴드경제",
+  "r": "kr",
+  "ts": "2026-10-01T16:33",
+  "s": "현대차가 9월에 31만대를 판매했으며, 추석과 신차 대기 여파로 전년 대비 16% 감소했다.",
+  "p": "내수 부진이 완성차 판매에 직접적인 영향을 미치고 있는 것으로 보인다."
+ },
+ {
+  "c": "ev",
+  "o": "현대차그룹, 전기차 충전 경험 개선…고장 줄이고 결제는 간편하게",
+  "h": "현대차그룹, 전기차 충전 경험 개선…고장 줄이고 결제는 간편하게",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1OMVNHOFk4T3loZjR2aEZPcjVFVTdGRWVTYUhIcUNRSFBHVXlkelJ1eDdQRjZOakRWaktQcXBkckF6T2hOTEE0cTlRaGNfSWdQUjhxTDg4ZjJzdHFyRDdyWHJya0NjeHY1NmNEdg?oc=5",
+  "src": "아시아투데이",
+  "r": "kr",
+  "ts": "2026-10-01T16:33",
+  "s": "현대차그룹이 전기차 충전 경험 개선을 위해 고장 감소와 결제 편의성을 강화하고 있다.",
+  "p": "전기차 보급 확대 단계에서 충전 인프라 서비스 품질 개선이 업체의 경쟁 과제로 대두되는 것으로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "추석에 멈춘 내수…완성차 5사, 수출이 실적 갈랐다",
+  "h": "추석에 멈춘 내수…완성차 5사, 수출이 실적 갈랐다",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wNEI0MnJlVTRWTUVYQmlRbE9RMVlKZ2huMjZLTG80RkMxZGh5ZWx2aU0xdTE2RzNnVFBGdVI4SGJ4cjFFNzZELTRzSTNnQURiX2NPOHh6SlFkZU1PTC1rNEoydEY?oc=5",
+  "src": "디지털데일리",
+  "r": "kr",
+  "ts": "2026-10-01T16:32",
+  "s": "추석 연휴로 인한 내수 부진 속에서 완성차 5사는 수출 실적으로 판매를 지탱하고 있다.",
+  "p": "국내 완성차업체들이 내수 기반 약화에 따라 수출에 더욱 의존하는 상황이 심화되는 것으로 보인다."
+ },
+ {
+  "c": "part",
+  "o": "車업계 \"대미 투자 프로젝트 환영…통상 불확실성 완화\"",
+  "h": "車업계 \"대미 투자 프로젝트 환영…통상 불확실성 완화\"",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oVGFyTFZnSHFiaG9kOTEwR3lobFJoOXhnX1l2dldPSjA2M0ZJSlJaVVZYc0JVQ0pLUWg2X0x0d1FrYTA1Z1k5VVFYeFJ6NXc?oc=5",
+  "src": "v.daum.net",
+  "r": "kr",
+  "ts": "2026-10-01T16:32",
+  "s": "자동차업계가 미국 대한 투자 프로젝트를 환영하며 통상 불확실성 완화를 기대하고 있다.",
+  "p": "미국 투자 확대를 통해 통상 리스크 경감과 공급망 안정화를 모색하는 부품업계의 움직임으로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "현대차·기아, 서울시 자율주행 시내버스 생태계 구축 外",
+  "h": "현대차·기아, 서울시 자율주행 시내버스 생태계 구축 外",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5DazVxNl8xUG5wS0lIYk9iblEtMXl6Vm91X0hGSEJyclRmaDkxRmViQ2dycWk2WTFmOGJTUUlyLXp5Y2ptcUdwQ3hrQl9lTUR6?oc=5",
+  "src": "톱데일리",
+  "r": "kr",
+  "ts": "2026-10-01T16:31",
+  "s": "현대차와 기아가 서울시의 자율주행 시내버스 생태계 구축에 참여한다.",
+  "p": "완성차업체의 자율주행 기술 상용화 진전이 공공 영역으로 확대되는 것으로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "[뉴스 앤 데이터] 완성차 5사 9월 성적표 ‘희비’...내수보다 수출이 갈랐다",
+  "h": "[뉴스 앤 데이터] 완성차 5사 9월 성적표 ‘희비’...내수보다 수출이 갈랐다",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12Y0ExSlgycVE0UjluTGNzc3BtM2NuQXlPd2k0SkpTcmdwNUdTQzVBNlpkOEdmQUd5c1lZU1RjejJIYkdSWGVRdmV1TFJsMHNkU2Y4czY0THBHY1JJZ0tyNU1LQjRQcnpyNU5F?oc=5",
+  "src": "서울타임즈뉴스",
+  "r": "kr",
+  "ts": "2026-10-01T16:30",
+  "s": "완성차 5사의 9월 실적이 내수 부진과 수출 호조로 엇갈린 성과를 보였다.",
+  "p": "내수 시장의 약세 속에서 수출이 완성차 산업의 주요 성장 동력으로 작용하고 있음을 보여준다."
+ },
+ {
+  "c": "ev",
+  "o": "현대차그룹·기후부, 전기차 충전 자동인증 시연",
+  "h": "현대차그룹·기후부, 전기차 충전 자동인증 시연",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82X0tLWEdtV3RVM09vb0FWb0I5RHhOeU5LQ1BPRm4tZkVheHNGNzVNVkxOMzVVekdON2twdkhOVTJSYm9DNGxTaEZqNXpHTnZyWGZaLWo2OXhyaWNDalpORmpNVnNLakMyMWJFctIBb0FVX3lxTE9UaDd0bHhCdGhhdGlmREZXSkRUUER2UWtXT3Jfa0JiQXFzbXVCeTJSOEZuLUJ1S2wxb1FtSW1rZ24wb0xUc2ZWdWRkaE5pYzUwUTVyRE9ZVlBTaHpFRC00NU1OUHR1RHpGZDhsSWItNA?oc=5",
+  "src": "한스경제",
+  "r": "kr",
+  "ts": "2026-10-01T16:30",
+  "s": "현대차그룹과 기후부가 전기차 충전 자동인증 시연을 진행했다.",
+  "p": "정부와 업체의 협력으로 전기차 충전 인프라의 사용자 경험 개선이 추진되는 것으로 보인다."
+ },
+ {
+  "c": "ev",
+  "o": "기후부·환경공단·현대차그룹, 전기차 충전·결제 한번에…‘국가 PnC’ 첫선",
+  "h": "기후부·환경공단·현대차그룹, 전기차 충전·결제 한번에…‘국가 PnC’ 첫선",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2Qkg4X3hNTTBva3NDRlpVaXNONTFxWGFzdFBOY3psVUt3aDdlalBFYnA1X04zeUpoZGFaam80VktaazEtS09HdWFJcEU3cjV3VExpMmdkSmF1NkNKb2Z3M01LMlAzU1J1eGs5WElR?oc=5",
+  "src": "이코노뉴스",
+  "r": "kr",
+  "ts": "2026-10-01T16:28",
+  "s": "기후부, 환경공단, 현대차그룹이 전기차 충전과 결제를 한 번에 처리하는 국가 PnC(Plug and Charge) 시스템을 첫 선보였다.",
+  "p": "전기차 충전 인프라의 표준화와 통합 결제 시스템 구축이 국가 주도로 진행 중인 것으로 보인다."
+ },
+ {
+  "c": "part",
+  "o": "Stellantis to halt output at four French plants in October – report",
+  "h": "Stellantis to halt output at four French plants in October – report",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSSDdQNWFXb2kwMzV2RGlDWXViYjNrZGplbHJFQ1Z6d25feUVjb0ItbzZzdHVjcG9iSzh1eUJJWEdnRTJKbEZ0NUxZUklFb0tDODhFcEE3Tl9FY3dReHZnWmpva2J1MjNHbV9TRnA5Rk5xV05DR3F3cFJhcl9tZw?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-01T16:26",
+  "s": "스텔란티스가 10월 프랑스 내 4개 생산 공장의 가동을 중단할 것으로 보도되었다.",
+  "p": "완성차 업체의 생산 중단이 부품 공급망과 관련 산업에 영향을 미칠 가능성이 있다."
+ },
+ {
+  "c": "car",
+  "o": "\"中자동차, 올해 해외 판매 1천200만대 전망…전년比 44%↑\"",
+  "h": "\"中자동차, 올해 해외 판매 1천200만대 전망…전년比 44%↑\"",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hTHlOZ1ZhSzVyTm9VcU1ZelR3Wm41RlNKQjdQQ1laOFFpdnFKMXZwOFhacFRzRGdwTU85RUNJbzJadEc4MmczVWdWREVWN3ZvSWc?oc=5",
+  "src": "매일경제 마켓",
+  "r": "kr",
+  "ts": "2026-10-01T16:23",
+  "s": "중국 자동차가 올해 해외 판매량을 1천200만대로 전망하며 전년 대비 44% 증가할 것으로 예상된다.",
+  "p": "중국 자동차의 글로벌 시장 점유 확대가 가속화되면서 국내 완성차업체에 대한 경쟁 압박이 심화될 수 있다."
+ },
+ {
+  "c": "part",
+  "o": "‘아틀라스 훈련 돌입’ 현대모비스, 액추에이터 다음은?…‘손·머리’ 부품서 승부 갈린다",
+  "h": "‘아틀라스 훈련 돌입’ 현대모비스, 액추에이터 다음은?…‘손·머리’ 부품서 승부 갈린다",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1TSHF5eTVyNkszN09LXzd6VEZVUFpNOHhUa2ZoN2RERG5oSVUyd2NJakhUckJtSDhKNGp5dkNsaXdFdDZsR2FfbXlmcXlINDBianR6b0tqajNvVUtGZjc2SGRqUklRSVpXTGtMakhWMA?oc=5",
+  "src": "뉴스퀘스트",
+  "r": "kr",
+  "ts": "2026-10-01T16:07",
+  "s": "현대모비스가 아틀라스 훈련에 이어 손과 머리 부품 개발에서의 승부가 중요해질 것으로 예상된다.",
+  "p": "휴머노이드 로봇 도입 과정에서 고난도 부품 국산화가 향후 핵심 과제로 대두되는 것으로 보인다."
+ },
+ {
+  "c": "part",
+  "o": "현대위아, 슬로바키아 신공장 가동…유럽 완성차 부품 공략 본격화",
+  "h": "현대위아, 슬로바키아 신공장 가동…유럽 완성차 부품 공략 본격화",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zRkI4R0VLcnVNVlltUDBVWEhHdkR2QzExTmVZWGxGWnhrTnNIbXB4cUluUTgtNC1OOXBtUW4yZ2tBNWJ2bnRLbGR0NjlnUmtubkpTWW0zNDBVUUtQaUJJaDhFNjFwUkwzRXpXMW1R?oc=5",
+  "src": "아시아투데이",
+  "r": "kr",
+  "ts": "2026-10-01T16:07",
+  "s": "현대위아가 슬로바키아 신공장을 가동하여 유럽 완성차 부품 공략을 본격화한다.",
+  "p": "부품업체의 유럽 현지 생산 확대를 통해 글로벌 공급망 재편이 진행 중인 것으로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "Turkey manufacturing PMI falls to 47.9 in September, S&P Global says",
+  "h": "Turkey manufacturing PMI falls to 47.9 in September, S&P Global says",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0tOZW91aGYzOEhRcjRLYnByQjdma280VDNfVW5vTHFiZ3dOYVpQcXhoT1hPVW1WU1BRY2NHaDEwYWZkMVBkd2lYelRGbTJwYm9kVnA5NFh1VFBtMEJYR2t1cVhzZVFBSXdXOVdacFY3WjBZOUY0V0dpcjFMU0lwbHE1VFJwRmp6RVk1MUtjZjdBYXJfMXBuempGbFhVeHBnc1JMRWhTbU9uLXVsdnROOUdWcw?oc=5",
+  "src": "Reuters",
+  "r": "global",
+  "ts": "2026-10-01T16:05",
+  "s": "9월 터키 제조업 구매관리자지수(PMI)가 47.9로 하락했다.",
+  "p": "터키의 제조업 경기가 위축되고 있어 자동차 산업의 생산 전망에 부정적 영향을 미칠 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "Angry VW union to ratchet up dispute after labor deals cut short",
+  "h": "Angry VW union to ratchet up dispute after labor deals cut short",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlVaRzBEdFU3dk1DS3FkVDJkaUxZd2hFM3VrMnB2cUpQUTVidmtJNmxpa3dYMmZfS1RRNjZybjA5dUxOU1RqTjU5ckdhb2F3Y3kzNjVNZ3NrV3lVN1ZOUVI0R1E0MHJwWlo0MUFVVGd1elp5MFllVGtmdVlUajVXUVVONU9udy1j?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-01T16:02",
+  "s": "폭스바겐 노조가 노사 협상이 단축된 후 분쟁을 더욱 심화시키려고 준비 중이다.",
+  "p": "완성차 제조사의 노사 갈등 심화가 생산 차질로 이어질 수 있는 상황으로 보인다."
+ },
+ {
+  "c": "part",
+  "o": "현대위아, 슬로바키아 신공장 가동…현대차·기아 유럽 공급망 강화",
+  "h": "현대위아, 슬로바키아 신공장 가동…현대차·기아 유럽 공급망 강화",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlFvSWg0NGtWVGtCTkJ3R1dPcEVLa1VFY2t0QXlFaExpMkt4dUYxS0xmTEdVRktPdElmMm91eVdSNF9IckZrYV94a1BxMUhzbEpWYnJXdEZ1a01jU1FGSW81RGk3TGctcXludEZuR25UZ2lTeW04UnV1NzJ5eFhlNg?oc=5",
+  "src": "edaily.co.kr",
+  "r": "kr",
+  "ts": "2026-10-01T15:58",
+  "s": "현대위아가 슬로바키아 신공장 가동으로 현대차·기아의 유럽 공급망을 강화한다.",
+  "p": "부품사의 해외 직접투자를 통해 그룹사의 유럽 시장 경쟁력을 제고하려는 전략이 가시화되는 것으로 보인다."
+ },
+ {
+  "c": "tire",
+  "o": "한국타이어, WRC 시즌 최종전서 ‘다이나프로 R213’ 공급",
+  "h": "한국타이어, WRC 시즌 최종전서 ‘다이나프로 R213’ 공급",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HU1NHYXVNekN6RnV2RVZoZ3BuNnNTS1NKUlVoQWJuNjRWOUdESmpzcTBRa29veUpaLVVWUm1palZnS2hrcVFlVXZlMVhGQ0tyUUp1ckI4dWNXZUZBcm5TY0I3RC13ZTZ6MWc?oc=5",
+  "src": "한국면세뉴스",
+  "r": "kr",
+  "ts": "2026-10-01T15:55",
+  "s": "한국타이어가 WRC 시즌 최종전에 다이나프로 R213 타이어를 공급한다.",
+  "p": "프리미엄 래리 타이어 공급을 통해 한국타이어의 고성능 타이어 브랜드 가치를 강화하는 것으로 보인다."
+ },
+ {
+  "c": "tire",
+  "o": "SRI sets up divisional sustainability committees and natural rubber taskforce",
+  "h": "SRI sets up divisional sustainability committees and natural rubber taskforce",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckQ1cWV3dktpVWJQSHh5NzR1Y3B6cnZHMWQ1TzBDdXI1bUZGTGlxOUFHcWtTbEZXREFpNmV5RGVBRGtuMmxMOUJFSlpWTFVVaGpNeEZQMjBROWZPOWxzaTNUX1l5akN6VXNxbldOdGN0dEFLU21zSmZiZkdWNzBoNzc0SE1qeEliWngteW9GZFd0Z09zWGpTbklmTy1rQXh4Q3MyWTlBWFNLTGUtcklydXpR?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-01T15:50",
+  "s": "SRI가 지속가능성 관련 부서별 위원회와 천연고무 태스크포스를 구성했다.",
+  "p": "타이어 업계에서 지속가능한 원재료 조달과 환경 책임을 강화하려는 움직임이 확대되고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "\"규제비용 커지면 시장 못 큰다\"…사용후 배터리 기준 고심",
+  "h": "\"규제비용 커지면 시장 못 큰다\"…사용후 배터리 기준 고심",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6b2szdFFEX1NleS1RS2xYXzdGVjU2ZDU5aVp6cmppR3N4V0dBd1M5MWtnZVFQMV9oUnlPZ2FzUzlLZ1ZNQVdiMkxIVG8yTWpSbkFPbEtn?oc=5",
+  "src": "지디넷코리아",
+  "r": "kr",
+  "ts": "2026-10-01T15:29",
+  "s": "사용후 배터리 기준이 강화되면 규제비용이 증가하여 시장 성장에 제약이 될 수 있다는 우려가 제기되고 있다.",
+  "p": "배터리 재활용 기준 수립 과정에서 산업 경쟁력과 규제 간의 균형이 중요한 과제로 대두되고 있는 것으로 보인다."
+ },
+ {
+  "c": "tire",
+  "o": "한국타이어, WRC 최종전 ‘사르데냐 랠리’ 타이어 독점 공급",
+  "h": "한국타이어, WRC 최종전 ‘사르데냐 랠리’ 타이어 독점 공급",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKR0RUT2h4algxb0FjOG53RUh4blZRTnU1NUtVQzdOUURlRS0xR0hKMkFfLV9LSE04cDdzaDN1MXl2ZUdDWGY4a2tGODdNT2R5UHRtUU03d2ZzTmtSTE8yWWt0TmR3VkMwUmg1MVEzVWFOVXRsN2YyaHhB?oc=5",
+  "src": "로이슈",
+  "r": "kr",
+  "ts": "2026-10-01T15:27",
+  "s": "한국타이어가 WRC 최종전 사르데냐 랠리에 타이어를 독점 공급한다.",
+  "p": "글로벌 래리 무대에서의 타이어 독점 공급으로 기술력 입증과 브랜드 인지도 확대를 노리는 것으로 보인다."
+ },
+ {
+  "c": "car",
   "o": "현대차·기아, 레벨4 자율주행 버스 상용화 나선다…서울서 실증",
   "h": "현대차·기아, 레벨4 자율주행 버스 상용화 나선다…서울서 실증",
   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10MzU4X2JwbFJSaWZFQ3JSaHlmMFdVWE5CRV9YREp1blhsWDdVN0JBN3hXUkgyYk9pWGpYNzZMdVU0MU5qV1Fra1lST2JwUFJGYlFRVnAtMlZmMllVNFVKanp3?oc=5",
@@ -163,6 +394,17 @@
   "ts": "2026-10-01T13:39",
   "s": "KGM이 맥스 얼라이언스에 합류하여 SDV와 자율주행 기술을 공동개발한다.",
   "p": "국내 부품업체의 선진 기술 협력 생태계 참여를 통한 경쟁력 강화 추진"
+ },
+ {
+  "c": "car",
+  "o": "2026 Eurostar winner Meredith Kelly of Skoda",
+  "h": "2026 Eurostar winner Meredith Kelly of Skoda",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGdWZzFVSGRGa0htNExGcmwxeWVWUWZMTHhKRVpyOTJqcThwT0E1cldGcE03YmZrZHdVTnZia3V2N3R3TFF2cTNHSGYzWDFFLV9Lalc0UE9NcFZOQVJVT0hNRC1ibU9TSDNYT1pvaENzbVVnRjA3YzhNYWdYZXo3Y290MUZCaXVoVmZJLVpqdw?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-01T13:30",
+  "s": "스코다의 메레디스 켈리가 2026년 오토모티브뉴스 유로스타 상을 수상했다.",
+  "p": "스코다가 업계 혁신 리더로 인정받으며 브랜드 가치 상승의 기회가 될 수 있다."
  },
  {
   "c": "car",
@@ -995,6 +1237,17 @@
   "ts": "2026-09-30T17:45",
   "s": "자동차 화재 중 전기차 비중이 급증하여 5배 이상 높아졌습니다.",
   "p": "전기차 안전성 이슈가 산업 내 주요 과제로 부각되고 있는 것으로 보입니다."
+ },
+ {
+  "c": "trade",
+  "o": "현대모비스, 佛 OP모빌리티와 램프사업 매각 본계약 체결",
+  "h": "현대모비스, 佛 OP모빌리티와 램프사업 매각 본계약 체결",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xdE1ncGZ2eVlkUlF2YnAzc3NxWUJReTA1XzBCWGtiT29XWjNuSkhKajhvVVZDWm5yX0JBazl0MEgycDIxcW1IcFJyclhhQ2FuSG1zMEJQdGRrRjVxX2c1YWMwYVY?oc=5",
+  "src": "MTN 머니투데이방송",
+  "r": "kr",
+  "ts": "2026-09-30T15:47",
+  "s": "현대모비스가 프랑스의 OP모빌리티와 램프사업 매각에 대한 본계약을 체결했다.",
+  "p": "완성차 부품업체의 사업 구조 개편 움직임이 가속화되고 있는 것으로 보인다."
  },
  {
   "c": "ev",
