@@ -1,0 +1,15 @@
+{
+  "name": "Auto & Tire Industry Daily News",
+  "short_name": "Auto&Tire",
+  "description": "자동차·타이어 업계 뉴스를 매일 아침 한눈에",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eceef0",
+  "theme_color": "#1a1f24",
+  "lang": "ko",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
