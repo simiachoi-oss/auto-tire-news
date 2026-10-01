@@ -1,5 +1,115 @@
 [
  {
+  "c": "part",
+  "o": "KGM, 맥스 얼라이언스 합류…SDV·자율주행 기술 공동개발",
+  "h": "KGM, 맥스 얼라이언스 합류…SDV·자율주행 기술 공동개발",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44WDF3X0pBTUt6X3hHRXJxMUNxdjNVejE1Z1pLR2dhNm5qc3V2MlljNjlxQlhCNFRWSEhqeW85Qnh5VDc5QmtORUpNallHVS1wYlA5Sg?oc=5",
+  "src": "데일리안",
+  "r": "kr",
+  "ts": "2026-10-01T13:39",
+  "s": "KGM이 맥스 얼라이언스에 합류하여 SDV와 자율주행 기술을 공동개발한다.",
+  "p": "국내 부품업체의 선진 기술 협력 생태계 참여를 통한 경쟁력 강화 추진"
+ },
+ {
+  "c": "car",
+  "o": "현대차·한국도로공사, 고속도로서 충전 신기술·피지컬 AI 실증",
+  "h": "현대차·한국도로공사, 고속도로서 충전 신기술·피지컬 AI 실증",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBuXzVkYWtkbDR2X0VKSkdWS21QQ3o5M2NrMkhGSFBQdkFlTU5TTkJJRXBfenAyTHZnTWNVXzJVbDBoTkdpbnpfUXRTS2lUU1BySXpuYzJITURKYXFYbUNsbEItTDhVR0hkQXNIYQ?oc=5",
+  "src": "스페셜경제",
+  "r": "kr",
+  "ts": "2026-10-01T13:23",
+  "s": "현대차와 한국도로공사가 고속도로에서 충전 신기술과 피지컬 AI를 함께 실증한다.",
+  "p": "고속도로 충전 인프라 고도화를 통한 전기차 이용 편의성 개선 추진"
+ },
+ {
+  "c": "part",
+  "o": "자동차부품업계 \"대미 투자 환영…통상 불확실성 완화 기대\"",
+  "h": "자동차부품업계 \"대미 투자 환영…통상 불확실성 완화 기대\"",
+  "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOSXlWaTVuRHdjT2ZMU1RxZW83dWZYMkJzb19pWmM2RDlDT2JXc05ZRFF2bjduS09OMkYzNEFvQzNvNVd5bm1kckw2eDBDN0RaN05YNDZfREgtc0thX0xQN0s1U3hZZFpodG10N2pLX3BOYmR5ZEQ5ZWQzSnlaV1loc2dPLW5FRXgzMUJsZ1FsakZ2cU1XMEk2OVhLVzRjcndaV1BXam56MWlBNXlVbkxYd0liaEsxbFhRQ01PN2YxeDYwMm1ubzZtUU1jS1lseS1jNnFtOHpMS2J0T1RfRV9hTUV4Rlh4dElTNDlkMmZuZDRqTWZENjQ5cVJfZzVFdzgtc3doRFdEb3d5U2xmS0I0VmwwXzZBUnRVeTIybmFodkExdTA?oc=5",
+  "src": "데일리안",
+  "r": "kr",
+  "ts": "2026-10-01T13:22",
+  "s": "자동차부품업계가 미국 투자 합의를 환영하며 통상 불확실성 완화를 기대하고 있다.",
+  "p": "한미 통상 불확실성 완화가 부품업계의 해외 투자 및 수출에 긍정적 영향을 미칠 가능성"
+ },
+ {
+  "c": "tire",
+  "o": "한국타이어, WRC 시즌 최종전 ‘사르데냐 랠리’에 타이어 독점 공급",
+  "h": "한국타이어, WRC 시즌 최종전 ‘사르데냐 랠리’에 타이어 독점 공급",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBraEE2OTNuSF9Dd283Z0RHWUhpZmN4VmhGRnVJUEFRMF84cmFyTkljV0xyMVlSVW5uSnlnWDJCekplWkVOWmdoNFhJMFZBOHZVMmJpUUl3QUZ6Uk1LSzc1dVNVTTAybzNrWWY4aW9Kaw?oc=5",
+  "src": "autodaily.co.kr",
+  "r": "kr",
+  "ts": "2026-10-01T13:20",
+  "s": "한국타이어가 WRC 최종전인 사르데냐 랠리에 타이어를 독점 공급한다.",
+  "p": "글로벌 모터스포츠에서의 타이어 공급 입지를 강화하는 계기"
+ },
+ {
+  "c": "part",
+  "o": "완성차·부품업계, 韓美 대미투자 합의 환영 \"불확실성 걷혔다\"",
+  "h": "완성차·부품업계, 韓美 대미투자 합의 환영 \"불확실성 걷혔다\"",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWUU1aQ3FqZVpEY1NlMGhnQlVpNjJwbHdnUkpoN0lBSmNUZjgxRWcyUjNUa3M0bUxUaDdkNVEzQ2FhOHU4UXcyYmg0WXFMS016OVg0bmRVT24wSmtubGJDdA?oc=5",
+  "src": "아시아경제",
+  "r": "kr",
+  "ts": "2026-10-01T13:10",
+  "s": "완성차와 부품업계가 한미 대미투자 합의를 환영하며 불확실성 해소를 언급했다.",
+  "p": "통상 환경 개선이 산업의 투자 심리와 전략 수립에 긍정적 영향을 미칠 것으로 기대"
+ },
+ {
+  "c": "part",
+  "o": "KGM, 산업통상부 주관 맥스 얼라이언스 참여…상생협력 업무협약",
+  "h": "KGM, 산업통상부 주관 맥스 얼라이언스 참여…상생협력 업무협약",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iUjhGZVJDWGh6Z1lQZWNxTlJqMUJvZnBOQk1EM0dYOV9YODB0T1hwamw0T1dFaW9VZDc5Y2xITVkzLUJJdEdBSzRveThlNURBSGYwaWFUN3JfRWxvaVd3RmlxSkxBOTRxc3VYUmRUVktteUE?oc=5",
+  "src": "마켓인",
+  "r": "kr",
+  "ts": "2026-10-01T13:09",
+  "s": "KGM이 산업통상부 주관 맥스 얼라이언스에 참여하여 상생협력 업무협약을 체결했다.",
+  "p": "국내 부품기업의 기술 협력 네트워크 확대를 통한 산업 고도화 움직임"
+ },
+ {
+  "c": "ev",
+  "o": "한국자동차모빌리티안전학회, 사용후 배터리 안전관리·순환체계 법제도 활성화 세미나 성료",
+  "h": "한국자동차모빌리티안전학회, 사용후 배터리 안전관리·순환체계 법제도 활성화 세미나 성료",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LOTVmRGFobkd6R2xIWWltOTdCQURjY25zV3NFbGdOTmFvdFRaM0ZPTHZJTHNxV3BVMlg2dUdjYkR6RzlkWW1VazlKOHdGWWdyNW5aMDFQS3kxeEdQamJ0RHgzSGRCdw?oc=5",
+  "src": "carmgz.kr",
+  "r": "kr",
+  "ts": "2026-10-01T13:06",
+  "s": "한국자동차모빌리티안전학회가 사용후 배터리의 안전관리와 순환체계 법제도 활성화에 대한 세미나를 개최했다.",
+  "p": "배터리 안전관리 및 순환경제 체계 구축이 전기차 산업의 지속가능성 확보에 중요한 과제"
+ },
+ {
+  "c": "car",
+  "o": "기아 스포티지, 자동차 본고장서 일본차 제쳤다..獨 아우토빌트 평가서 CX-5 압도",
+  "h": "기아 스포티지, 자동차 본고장서 일본차 제쳤다..獨 아우토빌트 평가서 CX-5 압도",
+  "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GZ0JaNVZ1UkVvOTJIemMwUjFtQWpFN094ZFRGRlZ5U0tqcm14TTVFOFpwemFkS1BDZ3FfWXRZTEVySUpuQm9hdW5WcFdOZC0waGc?oc=5",
+  "src": "한국정경신문",
+  "r": "kr",
+  "ts": "2026-10-01T13:01",
+  "s": "기아 스포티지가 독일 전문지 아우토빌트의 평가에서 마쓰다 CX-5를 능가했다.",
+  "p": "국내 완성차의 유럽 시장에서의 경쟁력이 강화되는 신호로 보여질 수 있음"
+ },
+ {
+  "c": "ev",
+  "o": "\"사용 후 배터리, 평가 기준 통일…전주기 안전관리 필요\"(종합)",
+  "h": "\"사용 후 배터리, 평가 기준 통일…전주기 안전관리 필요\"(종합)",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUlFwazBiM005WVNnRXhLVFMycm5BVzNFT0tST0dxUXlqTVhWZkZuMEJuUDBULURGX1E5aEMzT1pBQWVjajZSOFNhX2dnQzRDSE1LT1RzS3NyUkJ5eXRWR9IBZkFVX3lxTFBlOXpESmhFTXYxMjRyZXZjYnBSb2xGM3hZOE15eWZfY21pTjlZVFkwNWVDc1NUc0VQbmQyNkZjdllIcE9uRGtoTlZnd1llem9EV0RmQV9NZmRUSGwxUi1vMmtRR2F2Zw?oc=5",
+  "src": "뉴스1",
+  "r": "kr",
+  "ts": "2026-10-01T12:58",
+  "s": "사용 후 배터리에 대한 평가 기준 통일과 전주기 안전관리의 필요성이 제기되었다.",
+  "p": "배터리 산업의 표준화와 안전성 강화를 통한 전기차 산업의 신뢰도 제고 필요"
+ },
+ {
+  "c": "car",
+  "o": "기아 스포티지, 독일 전문지 평가 \"마쓰다 CX-5 제쳐\"",
+  "h": "기아 스포티지, 독일 전문지 평가 \"마쓰다 CX-5 제쳐\"",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92Sm1ZTjE2ZnhuTW9ZN3FzVDRTY3BMa2VNUUEtWEJRMXZoMnc4ZkY5TUUwWGNNY0VSWjVSMl9aR0tRUk9yQzh4bGVIc2JjMUhSLXkxZ3gzTmRlSTN2bEJhMUN0eDdpUnVBcHc?oc=5",
+  "src": "지피코리아",
+  "r": "kr",
+  "ts": "2026-10-01T12:16",
+  "s": "기아 스포티지가 독일 전문지의 평가에서 마쓰다 CX-5를 능가했다.",
+  "p": "국내 완성차의 유럽 시장에서의 경쟁력이 강화되는 신호로 보여질 수 있음"
+ },
+ {
   "c": "tire",
   "o": "한국타이어, WRC 최종전 챔피언 향방 가를 '핵심 키'",
   "h": "한국타이어, WRC 최종전 챔피언 향방 가를 '핵심 키'",
