@@ -1,5 +1,159 @@
 [
  {
+  "c": "car",
+  "o": "현대차·기아, 레벨4 자율주행 버스 상용화 나선다…서울서 실증",
+  "h": "현대차·기아, 레벨4 자율주행 버스 상용화 나선다…서울서 실증",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10MzU4X2JwbFJSaWZFQ3JSaHlmMFdVWE5CRV9YREp1blhsWDdVN0JBN3hXUkgyYk9pWGpYNzZMdVU0MU5qV1Fra1lST2JwUFJGYlFRVnAtMlZmMllVNFVKanp3?oc=5",
+  "src": "디지털데일리",
+  "r": "kr",
+  "ts": "2026-10-01T14:46",
+  "s": "현대차와 기아가 레벨4 자율주행 시내버스의 상용화를 추진하며 서울에서 실증을 진행한다.",
+  "p": "국내 완성차 업계가 고도의 자율주행 기술 실용화 단계로 진입하고 있음을 보여준다."
+ },
+ {
+  "c": "part",
+  "o": "고부가가치 부품 비중 확 바뀐다… 현대모비스, 글로벌 수주 성과에 시장 눈길",
+  "h": "고부가가치 부품 비중 확 바뀐다… 현대모비스, 글로벌 수주 성과에 시장 눈길",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBDUEJ0WDUxOEMzaVBuek8wUWVTTUlVOW9zazg3R2hjSTBPQjg5eXRtX0pBWXIwMDMtM3llVWF0dVktYWFGeXFQMUxXYm80NzdIa05EZ0FaQkZKU2tRX3FOZHpqbVJXYVVNbmFBNkRnME44X1XSAXdBVV95cUxPRmNTWko2Y181bmQ4aUdxT0JhYW1vVU1pOVZwa1hIdWNkWV9zVE9jN2VDNFZqTTZQS3RnMFhfazNtZUVHeVBZN3hObGdhcW5lc3F2QzFSb0twV29LNFBHMk81ZjJZdGtXQ0Fpakd3alptSy1saUtuYw?oc=5",
+  "src": "핀포인트뉴스",
+  "r": "kr",
+  "ts": "2026-10-01T14:34",
+  "s": "현대모비스가 고부가가치 부품의 비중을 확대하며 글로벌 수주 성과를 거두고 있어 시장의 주목을 받고 있다.",
+  "p": "자동차 부품 업계가 저가 경쟁에서 벗어나 고기술 고부가가치 제품으로의 포트폴리오 전환을 추진하고 있다."
+ },
+ {
+  "c": "part",
+  "o": "자동차업계 \"대미투자 프로젝트 발표 환영…통상환경 안정화\"",
+  "h": "자동차업계 \"대미투자 프로젝트 발표 환영…통상환경 안정화\"",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzNk0yOHlscmV0c3RtNjMtSkstRW1KZnp3bWFacDN0VzhVcngzU25XNnBOb2lkQnJCekl2aWlCdTNuQ0ozQkFacDZrZldFb0E?oc=5",
+  "src": "v.daum.net",
+  "r": "kr",
+  "ts": "2026-10-01T14:33",
+  "s": "자동차 업계가 대미 투자 프로젝트를 환영하며 통상 환경의 안정화를 기대하고 있다.",
+  "p": "국내 자동차 산업이 미국 투자를 통해 통상 불확실성 완화와 시장 진출 안정화를 모색하고 있다."
+ },
+ {
+  "c": "car",
+  "o": "\"레벨4 자율주행 시내버스 달린다\"…현대차·기아, 서울시와 업무협약",
+  "h": "\"레벨4 자율주행 시내버스 달린다\"…현대차·기아, 서울시와 업무협약",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUW1rclZBcm9LWlZqc19FZGVRLVlqWDVJWVdzMVdSMWoxVndLT2pHTTZ1NEw5Z0g0QXV1RGsyeWVLRXhnVUxteDVqUGtqWVFJT2tOWW1seTZzNXJuaG5PWNIBeEFVX3lxTE5UNWUxZkI5MVFjZFJYUW5KQjdTV3BTRExVNUxtTEJzdkJSN3puYXN3VFdBeS14SThqdGtlN3BmZDJid3ZjdGNEOVpBTWJQMWdkUjJWcG5wbGJlQ0dIUzA5cHZhVjR4NTlFdDlWUE5YWGxOTkMwY2JZYg?oc=5",
+  "src": "뉴시스",
+  "r": "kr",
+  "ts": "2026-10-01T14:28",
+  "s": "현대차와 기아가 서울시와 업무협약을 체결하여 레벨4 자율주행 시내버스 운영을 추진한다.",
+  "p": "완성차 업체의 자율주행 기술 상용화가 공공 부문과의 협력으로 구체화되고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "현대자동차, 전기차 충전 부담 낮추고 편의성 높인 구독형 ‘마이홈차저’ 서비스 출시",
+  "h": "현대자동차, 전기차 충전 부담 낮추고 편의성 높인 구독형 ‘마이홈차저’ 서비스 출시",
+  "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE01SkdudWJGR0VHUmo4QjRXU24yZ19BOEVZTWNyUzRKTU9nbUU1SGdFeWN4RHBBX0R5TVk3MGpEN3M1YmM?oc=5",
+  "src": "주간현대",
+  "r": "kr",
+  "ts": "2026-10-01T14:27",
+  "s": "현대자동차가 전기차 충전 부담을 낮추고 편의성을 높인 구독형 '마이홈차저' 서비스를 출시했다.",
+  "p": "완성차 업체가 충전 인프라 확충을 넘어 구독형 서비스로 전기차 사용자 편의성 강화를 추진하고 있다."
+ },
+ {
+  "c": "car",
+  "o": "기아 스포티지, 독일 전문지 비교평가서 CX-5 제치며 호평",
+  "h": "기아 스포티지, 독일 전문지 비교평가서 CX-5 제치며 호평",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBOWGxVZllOS25EWXBNYTRiSi1udkxCSm10TTJRMm1hX3h2YlZKSmFZWkRaak9XOW5qd0NFeHUyX1hKQlZsc3ZqbWdOWlRoVFd5d3JNNlRvR3VERHRuNFZaZ3RmZVhFX0Rfa0ctNg?oc=5",
+  "src": "ER 이코노믹리뷰",
+  "r": "kr",
+  "ts": "2026-10-01T14:25",
+  "s": "기아의 스포티지가 독일 전문지의 CX-5와의 비교 평가에서 높은 평가를 받았다.",
+  "p": "국내 완성차의 글로벌 시장 경쟁력이 선진국 기준의 객관적 평가에서도 입증되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "현대차·기아, 서울시 자율주행 시내버스 산업 생태계 구축 나선다 | 뉴스 | 현대자동차그룹",
+  "h": "현대차·기아, 서울시 자율주행 시내버스 산업 생태계 구축 나선다 | 뉴스 | 현대자동차그룹",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnAxSWpwbWNxNmpDcmFTWHQ4WUNnbnp0YjBmVjFpaHlVbnRweTRtbkZkaFFpRmUtbzZ0RlU3RkNzczlNZ0h6RzBzaWl2UnhpS2tVVF9oSDF2ZmFZU3VPS1g3QTRSd2N3NlBaUW1WN1lWSWR0V3g1VXh4a2dsUG1NZ1ZCMTFuYTlxMEgyMQ?oc=5",
+  "src": "Hyundai Motor Group",
+  "r": "kr",
+  "ts": "2026-10-01T14:24",
+  "s": "현대차와 기아가 서울시와 협력하여 레벨4 자율주행 시내버스 산업 생태계 구축을 추진한다.",
+  "p": "완성차 업체의 자율주행 기술이 차량 제조를 넘어 운영 시스템까지 포괄하는 생태계로 확장되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "현대차·기아, 서울서 레벨4 자율주행 버스 상용화 … 차량부터 관제까지 생태계 구축",
+  "h": "현대차·기아, 서울서 레벨4 자율주행 버스 상용화 … 차량부터 관제까지 생태계 구축",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81MF9heEptYjRJZGtTMW1adENoRWhTLVM5MS14T2xNQS16YmpiaDY4cmozYUYyU29xVFR3Smt4aWFVR05jZTNsZHhFQlhmWVR4SDJCZDBpa281U2otdTczSU9ITzhEa0w3R0JYag?oc=5",
+  "src": "worktoday.co.kr",
+  "r": "kr",
+  "ts": "2026-10-01T14:21",
+  "s": "현대차와 기아가 서울에서 레벨4 자율주행 버스를 상용화하며 차량부터 관제까지 전체 생태계를 구축한다.",
+  "p": "완성차 업체의 자율주행 기술 상용화가 인프라와 운영 체계를 포함한 종합적 솔루션 제공으로 진화하고 있다."
+ },
+ {
+  "c": "part",
+  "o": "경제계ㆍ車업계, 대미 전략투자 환영⋯“통상 불확실성 완화 기대”",
+  "h": "경제계ㆍ車업계, 대미 전략투자 환영⋯“통상 불확실성 완화 기대”",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PTUk5SEpORHJFdll0TVVoaHdtd2RYMTgtRm9oZDZuUnhuNExKc28tU1dHMUpTVWVYOUlMZFZjRmN3UHFnaVRVM1UwRjllM1ltVFZVWXQ4MnJ6YzEtd1pBZDhSc0VOcG9ZMHdtMnJvMzhxNVI2?oc=5",
+  "src": "이투데이",
+  "r": "kr",
+  "ts": "2026-10-01T14:04",
+  "s": "경제계와 자동차 업계가 대미 전략투자 프로젝트를 환영하며 통상 불확실성 완화를 기대하고 있다.",
+  "p": "국내 자동차 산업이 미국과의 전략적 투자를 통해 통상 리스크 감소를 시도하고 있다."
+ },
+ {
+  "c": "tire",
+  "o": "한국타이어의 모터스포츠 다큐멘터리 ‘더 퍼스트’, 뉘르부르크링의 도전 담긴 네 번째 스토리 오는 2일 공개",
+  "h": "한국타이어의 모터스포츠 다큐멘터리 ‘더 퍼스트’, 뉘르부르크링의 도전 담긴 네 번째 스토리 오는 2일 공개",
+  "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBvRFdvNGtDLXRPcDZzX0VBVGRsZnlFOENySnFnaVVSbFhBNDdxMXBucnU0MkZFamdqdE52WVJxWQ?oc=5",
+  "src": "웨이브진",
+  "r": "kr",
+  "ts": "2026-10-01T13:58",
+  "s": "한국타이어의 모터스포츠 다큐멘터리 '더 퍼스트' 시리즈 네 번째 편이 공개되며, 뉘르부르크링에서의 도전 과정을 담고 있다.",
+  "p": "타이어 브랜드의 모터스포츠 콘텐츠 마케팅이 고급 기술력 입증의 수단으로 활용되는 추세를 보여준다."
+ },
+ {
+  "c": "part",
+  "o": "車업계, 대미 전략투자 프로젝트 '환영'…\"통상 불확실성 완화\"",
+  "h": "車업계, 대미 전략투자 프로젝트 '환영'…\"통상 불확실성 완화\"",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4temJLVU41WmJnWEpvbllKTDQtTXZzaFpXQ010bkxrbS1mTDBNM0dsSEtLdHBYekZMeTBBdFlNUmFnSDhOcjZNVzhScnNVVnZuWU13YnYwaHk0c0JOa1V2VdIBZkFVX3lxTFBPVURyZVBEVWFHVFEySUhYZUU5aU9GUTh6bXA5cFJ3Wi1MdWVvSmdOLXlqSWNOa1gyMENZMjc3UjFvZjBJMm96YVEyZEFtQmdnaVVIZnlwZmJzUmhvcjJrNW01TVc4dw?oc=5",
+  "src": "뉴스1",
+  "r": "kr",
+  "ts": "2026-10-01T13:56",
+  "s": "자동차 업계가 대미 전략투자 프로젝트를 환영하며 통상 불확실성의 완화를 기대하고 있다.",
+  "p": "국내 자동차 산업이 미국과의 투자 협력을 통해 통상 환경 안정화를 추구하고 있다."
+ },
+ {
+  "c": "part",
+  "o": "자동차업계, 대미 투자 프로젝트 환영…“통상 불확실성 완화 기대”",
+  "h": "자동차업계, 대미 투자 프로젝트 환영…“통상 불확실성 완화 기대”",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQSjJwSV83MTNCUlBwSFVKV0NxWkV6YnVkYThaYjNKWmUtQ2I4M05SOWJLeHJfRnd3OTlwNmtCRmhxbHNFX096bjAyQTRQMmxiN0NEVmFfRmZYcGw0aC1aTXdvQko?oc=5",
+  "src": "디지털데일리",
+  "r": "kr",
+  "ts": "2026-10-01T13:53",
+  "s": "자동차 업계가 대미 투자 프로젝트를 환영하며 통상 불확실성의 완화를 기대하고 있다.",
+  "p": "국내 자동차 산업이 미국 투자를 통해 통상 리스크 저감을 시도하고 있다."
+ },
+ {
+  "c": "part",
+  "o": "자동차 업계 \"한미 전략투자 프로젝트 확정 환영..안정적 美 진출 기여\" - 머니투데이",
+  "h": "자동차 업계 \"한미 전략투자 프로젝트 확정 환영..안정적 美 진출 기여\" - 머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DQ3VvRTF2ZllULU9leGJOSVZPalpwYmdmeG9DaFBrbFVjRkR2VTd3QS1Ha1paRGVUV0lHbUNkQ0RTVElOR1hCSXE0SnFMUXlsLUlEaDl3U0lTMXd1NDhGdHprUC05dzI1dDBFT9IBckFVX3lxTE1sOU5GRV91Z2MxSEd4U2d0alRBU1NaTVJPMGhxUkpLbGhxLVdSYUhRMDhnMGljYzVSOTVsdmw2dXNSWkZZZEtGTS1hVVZrUVNNbUNFa1BGQ1ZfdkJCNXVMeFg5OGdpVXM1MGVYbV9uX2Fqdw?oc=5",
+  "src": "머니투데이",
+  "r": "kr",
+  "ts": "2026-10-01T13:53",
+  "s": "자동차 업계가 한미 전략투자 프로젝트 확정을 환영하며 안정적인 미국 진출에 도움이 될 것으로 기대하고 있다.",
+  "p": "국내 자동차 산업이 한미 전략투자를 통해 미국 시장 진출의 리스크 감소를 모색하고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "[車산업 HOT 뉴스] BYD 돌풍·테슬라 추격에도…렉서스, 자동차 ‘가성비 왕좌’ 수성",
+  "h": "[車산업 HOT 뉴스] BYD 돌풍·테슬라 추격에도…렉서스, 자동차 ‘가성비 왕좌’ 수성",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5STFBVX0xGNU4tcVZmRWNMRXRlOGpNcHhaNHpjU09QUlR3TXNLYzBXbVFQYlNoN1FXTDBRcTNyRXo3VHdSQlBlblZNb295YjBxcjRRVHlKU2tPbGVFOEJDSTZHVXZfN2dxV1E?oc=5",
+  "src": "비즈월드",
+  "r": "kr",
+  "ts": "2026-10-01T13:43",
+  "s": "BYD의 성장과 테슬라의 추격 속에서 렉서스가 자동차 시장의 '가성비 왕좌'를 유지하고 있다.",
+  "p": "글로벌 전기차 시장의 경쟁 구도가 심화되는 가운데 브랜드 가치와 가성비의 균형이 경쟁력의 핵심이 되고 있다."
+ },
+ {
   "c": "part",
   "o": "KGM, 맥스 얼라이언스 합류…SDV·자율주행 기술 공동개발",
   "h": "KGM, 맥스 얼라이언스 합류…SDV·자율주행 기술 공동개발",
@@ -111,6 +265,17 @@
  },
  {
   "c": "tire",
+  "o": "“307.02km서 시즌 챔피언 가린다”…한국타이어, WRC 최종전 사르데냐에 독점 공급",
+  "h": "“307.02km서 시즌 챔피언 가린다”…한국타이어, WRC 최종전 사르데냐에 독점 공급",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45UlBYV21XNDJ3VVZ6cWxoT3pDTWVWZTNrODZVb3ZDWDlibHdiNXBVYTE5MVU1Qy1aZl9JX25zYmRrNFBickJLbDQ4cjBtOXFUQ0dlY1pGVTl1aW1HbGRNakt2N2tqOGJoN3d4MNIBbEFVX3lxTE45UlBYV21XNDJ3VVZ6cWxoT3pDTWVWZTNrODZVb3ZDWDlibHdiNXBVYTE5MVU1Qy1aZl9JX25zYmRrNFBickJLbDQ4cjBtOXFUQ0dlY1pGVTl1aW1HbGRNakt2N2tqOGJoN3d4MA?oc=5",
+  "src": "더게이트",
+  "r": "kr",
+  "ts": "2026-10-01T12:12",
+  "s": "한국타이어가 WRC 최종전 사르데냐 대회에 타이어를 독점 공급하며 시즌 챔피언을 결정짓는 무대에 참여한다.",
+  "p": "국내 타이어 업체의 세계 최고 수준 모터스포츠 무대에서의 입지가 강화되고 있음을 시사한다."
+ },
+ {
+  "c": "tire",
   "o": "한국타이어, WRC 최종전 챔피언 향방 가를 '핵심 키'",
   "h": "한국타이어, WRC 최종전 챔피언 향방 가를 '핵심 키'",
   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44S0NEVGtBZkZTRWhMNXpQdGtTRXMyWjJCQ0xaLTYwSk82RkJzUEQzM29FbFJpYlR0dUZENXJmb0I4alkwb1lxdU1rUmN2dzFRS196NmMtNkdkYzhYcXhoZzd3YlhNOGFGQlHSAW5BVV95cUxPVGkyR25fWTFQVkRtNlY3YVVxRzVrTHMzUWdpbEh2R056aE10SnhsM1VYM096OFB4TDlMb2NJSmxBNkh3QVR0c3Z2R1R4aC1WZnZLRk1Wd0lWcFNzclVZOE9PQ2M0WDdvQUNoRmotUQ?oc=5",
@@ -163,6 +328,17 @@
   "ts": "2026-10-01T11:35",
   "s": "현대차가 중국 전기차 시장에서 경쟁력을 강화하기 위해 시작가를 400만원 낮춰 공격적인 가격 전략을 펼치고 있다.",
   "p": "중국 전기차 시장의 가격 경쟁이 심화되고 있으며 글로벌 완성차 업체들의 가격 조정 압력이 커지는 상황을 보여준다."
+ },
+ {
+  "c": "tire",
+  "o": "넥센타이어, ‘엔케어 명품보증제도’ 개편...보증 대상 7종으로 확대",
+  "h": "넥센타이어, ‘엔케어 명품보증제도’ 개편...보증 대상 7종으로 확대",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VRm1rQzktQW51eW40ZjdUaFFhTUFxY2k0TUkzTTY4SFB2amdvWnJ0a0pjVjYtMjlIUzJDaW1ZSmk4VjROUHk1MDJkdkd2LTNLMk9BSUVLakIwWFZPUGFpWTRMSDljVjBjU20wQU82R1ZuQQ?oc=5",
+  "src": "중앙이코노미뉴스",
+  "r": "kr",
+  "ts": "2026-10-01T11:35",
+  "s": "넥센타이어가 엔케어 명품보증제도를 개편하여 보증 대상 상품을 7종으로 확대했다.",
+  "p": "타이어 제조사의 보증 제도 확대가 고객 만족도 제고에 영향을 미칠 수 있다."
  },
  {
   "c": "tire",
