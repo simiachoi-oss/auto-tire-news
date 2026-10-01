@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>오토·타이어 데일리</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#eceef0;--card:#fff;--ink:#1a1f24;--sub:#5d6670;--line:#d3d8dd;--road:#f2b705;--chip:#e2e6ea;
+--c-tire:#1f6f5c;--c-car:#2f5fb3;--c-part:#8a5a14;--c-ev:#6b3fa0;--c-trade:#b23a3a;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media(prefers-color-scheme:dark){:root{--bg:#14171a;--card:#1e2327;--ink:#eef1f3;--sub:#9aa4ad;--line:#333b42;--chip:#2a3137;
+--c-tire:#5cc4a8;--c-car:#7ea6ec;--c-part:#e0b46a;--c-ev:#b794e6;--c-trade:#ee8a8a}}
+*{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px)}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.65 "Noto Sans KR",system-ui,sans-serif}
+.wrap{max-width:680px;margin:0 auto;padding:28px 16px 64px}
+h1{margin:0;font-size:28px;font-weight:900;letter-spacing:-.02em}
+.lead{margin:4px 0 0;color:var(--sub);font-size:14px}
+.tabs{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;display:flex;gap:6px;overflow-x:auto;padding:12px 0;margin-top:8px;background:var(--bg)}
+.tabs button{flex:none;border:0;border-radius:99px;padding:7px 14px;background:var(--chip);color:var(--ink);font:500 14px "Noto Sans KR",sans-serif;cursor:pointer}
+.tabs button[aria-pressed="true"]{background:var(--ink);color:var(--bg)}
+.tabs button:focus-visible,a:focus-visible{outline:2px solid var(--road);outline-offset:2px}
+.day{margin:26px 0 6px;font-size:15px;font-weight:700}
+.feed{position:relative;margin:0;padding:0 0 0 22px;list-style:none}
+.feed:before{content:"";position:absolute;left:5px;top:6px;bottom:6px;border-left:3px dashed var(--road)}
+.item{position:relative;margin:0 0 14px;padding:14px 16px;background:var(--card);border:1px solid var(--line);border-radius:10px}
+.item:before{content:"";position:absolute;left:-22px;top:20px;width:13px;height:13px;border-radius:50%;background:var(--bg);border:3px solid var(--road)}
+.meta{display:flex;align-items:center;gap:8px;font-size:12.5px;color:var(--sub)}
+.tag{font-weight:700;color:var(--tc)}
+.item h2{margin:6px 0 4px;font-size:17px;line-height:1.45;font-weight:700;letter-spacing:-.01em}
+.item p{margin:0}
+.pt{margin-top:8px!important;padding-left:10px;border-left:3px solid var(--tc);color:var(--sub);font-size:14px}
+.src{display:inline-block;margin-top:8px;font-size:13px;color:var(--sub)}
+.empty{padding:32px 0;text-align:center;color:var(--sub)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>오토·타이어 데일리</h1>
+  <p class="lead">자동차와 타이어 업계 뉴스를 매일 아침 한눈에.</p>
+  <nav class="tabs" id="tabs" aria-label="카테고리"></nav>
+  <div id="out"><p class="empty">불러오는 중입니다.</p></div>
+</div>
+<script>
+var CATS={all:"전체",tire:"타이어",car:"완성차",part:"부품",ev:"전기차",trade:"관세·무역"};
+var COLOR={tire:"--c-tire",car:"--c-car",part:"--c-part",ev:"--c-ev",trade:"--c-trade"};
+var NEWS=[],cur="all",tabs=document.getElementById("tabs"),out=document.getElementById("out");
+function esc(x){return String(x==null?"":x).replace(/[&<>"]/g,function(m){return{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]})}
+function safe(u){return /^https?:\/\//.test(u)?u:"#"}
+function dayLabel(d){var a=d.split("-"),w=["일","월","화","수","목","금","토"][new Date(+a[0],a[1]-1,+a[2]).getDay()];return +a[1]+"월 "+ +a[2]+"일 ("+w+")"}
+function drawTabs(){tabs.innerHTML=Object.keys(CATS).map(function(k){return '<button type="button" data-k="'+k+'" aria-pressed="'+(k===cur)+'">'+CATS[k]+'</button>'}).join("")}
+function draw(){
+  var list=NEWS.filter(function(n){return cur==="all"||n.c===cur});
+  if(!list.length){out.innerHTML='<p class="empty">표시할 뉴스가 아직 없습니다. 매일 아침 새 뉴스가 올라옵니다.</p>';return}
+  var html="",last="";
+  list.forEach(function(n){
+    var d=n.ts.slice(0,10);
+    if(d!==last){if(last)html+="</ul>";html+='<h3 class="day">'+dayLabel(d)+'</h3><ul class="feed">';last=d}
+    html+='<li class="item" style="--tc:var('+(COLOR[n.c]||"--sub")+')"><div class="meta"><span class="tag">'+esc(CATS[n.c])+'</span><span>'+n.ts.slice(11)+'</span></div><h2>'+esc(n.h)+'</h2><p>'+esc(n.s)+'</p><p class="pt">'+esc(n.p)+'</p><a class="src" href="'+esc(safe(n.url))+'" target="_blank" rel="noopener">'+esc(n.src||"출처")+' 원문 보기</a></li>';
+  });
+  out.innerHTML=html+"</ul>";
+}
+tabs.addEventListener("click",function(e){var b=e.target.closest("button");if(!b)return;cur=b.dataset.k;drawTabs();draw()});
+drawTabs();
+fetch("news.json?v="+Date.now()).then(function(r){return r.json()}).then(function(j){NEWS=j;draw()}).catch(function(){out.innerHTML='<p class="empty">뉴스를 불러오지 못했습니다. 잠시 후 다시 열어 주세요.</p>'});
+</script>
+</body>
+</html>
