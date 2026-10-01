@@ -1,6 +1,248 @@
 [
  {
   "c": "car",
+  "o": "지리자동차 9월 판매 29만 대 돌파…수출 162% 급증",
+  "h": "지리자동차 9월 판매 29만 대 돌파…수출 162% 급증",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVHEtaWlDNy1jWlBIZy1HVjBkeHg1VUJVenA4S19jTjVicTNlSVZ3VDVNT0Q2SnhBQl9SVU5hcnF6QmJ1YjgwNGtBWU1PbThoVWlIekVIeW1pMllzVmJjNjY0NUtUZkRUQWo3Sm0tQTNRTmhGa0pESV92ZUNSOXJ6bUlncHB6ZnE3?oc=5",
+  "src": "글로벌이코노믹",
+  "r": "kr",
+  "ts": "2026-10-02T05:46",
+  "s": "지리자동차의 9월 판매량이 29만 대를 돌파했으며 수출이 162% 증가했습니다.",
+  "p": "중국 완성차의 공격적인 판매 확대와 수출 성장이 글로벌 자동차 시장의 구도 변화를 드러냅니다."
+ },
+ {
+  "c": "car",
+  "o": "\"2020년 대비 12배\"… 中 완성차, 2026년 해외 판매 ‘1200만 대 신기록’ 정조준",
+  "h": "\"2020년 대비 12배\"… 中 완성차, 2026년 해외 판매 ‘1200만 대 신기록’ 정조준",
+  "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWEFDU0ljWU5BWEwydzFMUElmMEc5d0VEM0RKMFJEbExWaEQ2U1VjOWZMUFpqaTFLYUQzQmhjXzJ5TmVLZVdUdkNsNkVCdWY0eVJkZFdsZjZUV3ppa01RNzYwUjJXcWNNRWppU0dDcF80WkhXVjdfN25Qc01KVjFqM1FWMGlyRFNP?oc=5",
+  "src": "글로벌이코노믹",
+  "r": "kr",
+  "ts": "2026-10-02T05:45",
+  "s": "중국 완성차가 2026년에 해외 판매량 1200만 대라는 신기록을 달성할 것으로 예상되고 있습니다.",
+  "p": "중국 자동차의 글로벌 확장이 국제 자동차 시장에 중대한 영향을 미칠 가능성을 시사합니다."
+ },
+ {
+  "c": "car",
+  "o": "Ram tops Jeep to become biggest Stellantis brand in Q3; streak of U.S. sales gains ends",
+  "h": "Ram tops Jeep to become biggest Stellantis brand in Q3; streak of U.S. sales gains ends",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaXBwczFLMjBFME9hX1VseGt6Q2hrWHRqYzB5eDBVQVNYQTJMbG0zTXZIOU11X3pYQ3RwR0VUemxjelV5TjhSMGpuXzQxdGszN1VSUWRFZ1Y4US1CTTh5U1pRZ2lnUDFzS3VtQ1hzNGRKQXkyOTZ0S1dRZXdCTlBubw?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-02T05:42",
+  "s": "Stellantis의 Q3 미국 판매에서 Ram 브랜드가 Jeep을 제치고 최대 브랜드가 되었으며, 미국 판매 증가 추세가 끝났다.",
+  "p": "스텔란티스의 주요 브랜드 포트폴리오의 변화와 미국 시장의 판매 둔화 가능성을 시사한다."
+ },
+ {
+  "c": "tire",
+  "o": "굿이어 타이어, 마거릿 스나이더 컨트롤러 사임…후임에 스티븐 섐록 선임",
+  "h": "굿이어 타이어, 마거릿 스나이더 컨트롤러 사임…후임에 스티븐 섐록 선임",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBNakk4NUFVRFM4MUdCbmhZOW4xWlZZOVdvZF80Ty13YWtEUzlMbElvSEpTQUpXZzZpbG5OSVpENDBCRFQ2Vlo4TW81SVM5cW13ZC1YVmxrUHdSQU0zeUM5UDNRZGZuN0hoWGxUSnd1VFZ3djQ?oc=5",
+  "src": "datatooza.com",
+  "r": "kr",
+  "ts": "2026-10-02T05:36",
+  "s": "굿이어 타이어의 컨트롤러가 사임하고 새로운 인물이 그 자리에 임명되었습니다.",
+  "p": "주요 경영진 교체는 회사의 전략 변화나 조직 개편을 시사할 수 있습니다."
+ },
+ {
+  "c": "tire",
+  "o": "굿이어 타이어, 화학 공장 2곳 폐쇄…구조조정 비용 최대 7500만 달러",
+  "h": "굿이어 타이어, 화학 공장 2곳 폐쇄…구조조정 비용 최대 7500만 달러",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZVjBOZEZQZUwwdVNKZldMRGdWcXFoS3MzU1YyUUN5UEZJSmNUeEpTQ1ZGVkRkZXYyZGx4anRxNXV0Vjd2UWdNRXdGTXBiQ3dlcGlhSFJpbXlWWE9iYW9MMkkxN1MtOFhMY2l6TEVNUC01Vk0?oc=5",
+  "src": "datatooza.com",
+  "r": "kr",
+  "ts": "2026-10-02T05:28",
+  "s": "굿이어 타이어가 화학 공장 2곳을 폐쇄하며 대규모 구조조정을 추진하고 있습니다.",
+  "p": "생산 시설 감축은 업체의 비용 구조 개선 또는 시장 축소에 대한 대응으로 보입니다."
+ },
+ {
+  "c": "car",
+  "o": "Leo Michael cartoon: Trump administration eases fuel economy rules",
+  "h": "Leo Michael cartoon: Trump administration eases fuel economy rules",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT1F4Z09Jb05ob3M1TG4zNlVCNVRIUXc1QldYNzhqYXJtWEVzbzNSOGtOYWpLejVQWEF3ZWw5WS1SdHlOaS16RTNqTUxjVy02U1RkdHBFenN3bG92VW9Db0FfQi1UNWtlemdjMU1GZmtIRElfSHZ6eFJqR1RETVl4eG5SdWxyT2FDblpONGlB?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-02T04:34",
+  "s": "Trump 행정부가 연비 규제를 완화했다.",
+  "p": "자동차 업계의 규제 환경 변화가 제품 개발 전략에 영향을 미칠 수 있다."
+ },
+ {
+  "c": "ev",
+  "o": "기후부·환경공단·현대차그룹, ‘국가 플러그 앤 차지(PnC)’ 인증체계 공개",
+  "h": "기후부·환경공단·현대차그룹, ‘국가 플러그 앤 차지(PnC)’ 인증체계 공개",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBfWUtNZFV6VjJRcjB4dXZaQTZIR2FuUms5YlJScXFXQ19SQzBRZFozdVR4dTJTOGhpV3h6a0NwLVo1a0wwanBJUFQzeU1PSGt3X3M5UVU0VzRqNWZVQmk0VFJBbnp0UkFvYmJ0QnBR0gFyQVVfeXFMUEJOeU5DUGZ0WGxsTFhmcG8tR2hhTkczWnZ4RGJEYmF2aVdpSXlVaXA5enNSZk1vaXJyUVpGeVBIMzhjcEJNRldyYjF0T0hTQXpCeHlpRHU2UFNXam5EMk1kU0c0MXNuN2xLcG00OUV4R2d3?oc=5",
+  "src": "잡포스트",
+  "r": "kr",
+  "ts": "2026-10-02T04:30",
+  "s": "기후부·환경공단·현대차그룹이 국가 플러그 앤 차지(PnC) 인증체계를 공개했습니다.",
+  "p": "전기차 충전 표준화 추진은 전기차 인프라 구축과 산업 발전을 가속화할 수 있습니다."
+ },
+ {
+  "c": "car",
+  "o": "현대차·도요타, 하이브리드 앞세워 美 시장서 디트로이트 3사 추격",
+  "h": "현대차·도요타, 하이브리드 앞세워 美 시장서 디트로이트 3사 추격",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfMXJxYzNSQWFhRWFrTks5U01Cc2I3UG5HMU80aU15RXM4RWo2bEpNM1BGWFlLZElWWnAyUjVUcFZ6M0JaT3ZsUDZhN0RLbG1xOXdoLU42WmVLdzZudnFKMFJQbFFzYkNO0gFsQVVfeXFMTWRFLUdpMDZaWndoZGV5UWlPWWRSc3NwamNZYjUwWHVteFVvS29qV0NNYldzVkQ4dE8zRi11dXVuX0pDdEFJSlZiSDZxTTFYOXdNQWNHSktfc0RxLWw5QXdHN0dRV1NHZU9XMUh5?oc=5",
+  "src": "블로터",
+  "r": "kr",
+  "ts": "2026-10-02T04:25",
+  "s": "현대차와 도요타가 하이브리드 전략을 앞세워 미국 시장에서 디트로이트 3사를 추격하고 있습니다.",
+  "p": "하이브리드 중심의 전략이 미국 시장에서 경쟁력을 높이고 있음을 보여줍니다."
+ },
+ {
+  "c": "trade",
+  "o": "Daily 5 report for Oct. 1: Automotive News’ global editors on tariffs, affordability and what sets each market apart",
+  "h": "Daily 5 report for Oct. 1: Automotive News’ global editors on tariffs, affordability and what sets each market apart",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNXItLWxsTGh0QlN3M1h4dV9mTnJpZDFESDRKdXBycG5ZeGlidnFScDVkamdzam9UY1pUU0k0c0dpZ2llcTRMR2FDTm5EV1lrU1NjSWlSWS1HZk1MZ1hvWFM5Y05ZeWNqTFVVUkJGbnQ4RTFLT3l4bnNYc2swTDVMOVNJYW45YklFSm9yWW0tenA0OFI2b0VrZTZmdUZnWklYa0kxY0NrVlFQd0lz?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-02T04:00",
+  "s": "자동차 업계 글로벌 편집자들이 관세, 가격 경쟁력, 시장별 특성 차이에 대해 논평한다.",
+  "p": "국제 관세와 지역별 시장 환경이 자동차 업계의 주요 관심사임을 반영한다."
+ },
+ {
+  "c": "car",
+  "o": "Infiniti’s best quarter since pandemic lifts a flat Nissan",
+  "h": "Infiniti’s best quarter since pandemic lifts a flat Nissan",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43clBwUTY5NXBiRDBndzJnQk9zV3RMamt1LUJuSDhOcTNTX1VsNjhSaEpWeWxaVWxycVllLTRDUUJHVlQwTkI3VXF1UGRjejZlMUtPbTVUQWtmcjlkWjJHMV8yLWZDV3M?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-02T03:52",
+  "s": "Infiniti가 팬데믹 이후 최고의 분기 실적을 기록하여 부진하던 Nissan을 견인했다.",
+  "p": "Nissan 그룹의 실적 회복에 프리미엄 브랜드 Infiniti의 기여도가 증대되고 있다."
+ },
+ {
+  "c": "tire",
+  "o": "California Dealers Find Relief",
+  "h": "California Dealers Find Relief",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVlpoTXp2QWZnVU5TZUM5a0g3WW5IcmZNdzFqYzNIeGVWVnlkV1JTb3ZQdUl3VUFBbkN4Q3dSLVpxUlpWMmJZVUxBNU1KV00wRUJ1MlpqN3d6UVlSaHl4bThfazhiZ1FrQndsMnpqMkdneDJjQll6XzBadFdxWHhSQjNxOGJXaEJtNXFncGUwNkJvSHpaZS1ERlYyR3hOblBZd3U4Rl8zQTZMTDVSUnc?oc=5",
+  "src": "Modern Tire Dealer",
+  "r": "global",
+  "ts": "2026-10-02T03:36",
+  "s": "캘리포니아의 타이어 판매상들이 어려움에서 벗어났다.",
+  "p": "특정 지역 타이어 판매업계의 경영 환경 개선 신호로 해석될 수 있다."
+ },
+ {
+  "c": "tire",
+  "o": "한국타이어 후원 WRC 2026 최종전, 10월 1~4일 이탈리아 사르데냐서 개최",
+  "h": "한국타이어 후원 WRC 2026 최종전, 10월 1~4일 이탈리아 사르데냐서 개최",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsSWloSjRpTm1WaGVsamt1bGlCampNbXgtcS0xY29nYUVFT3l0dkNva2lzZ1FDQnlOSXZRZlBIMjEwV2ItcGpTbFpxOVR1OHhGc2RJVHdLTi0wcWFKalcwa19MXzlIeDhac3c?oc=5",
+  "src": "비즈월드",
+  "r": "kr",
+  "ts": "2026-10-02T03:27",
+  "s": "한국타이어가 후원하는 WRC 2026 최종전이 10월 1~4일 이탈리아 사르데냐에서 개최될 예정입니다.",
+  "p": "글로벌 모터스포츠 후원을 통해 타이어 브랜드의 국제적 위상과 마케팅 기회를 확보하는 것으로 보입니다."
+ },
+ {
+  "c": "car",
+  "o": "GM’s U.S. sales decline for 4th straight quarter as EVs fall",
+  "h": "GM’s U.S. sales decline for 4th straight quarter as EVs fall",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2V2UwOERFTTlxY0hqcWRIbUVISE9oQlM2VzFWeE5obVpEc1U4S3Y1b1FSXzV5Tngxdl9PWWJfY1BLcWxrOVN0NmJ6UmQ3SkkwLUlmTk10TVIzZHk0ZlJXLWJ3YjNkZDFnRnZ3MWw1WTdyX3c?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-02T03:18",
+  "s": "GM의 미국 판매가 4분기 연속 감소했으며, EV 판매도 하락했다.",
+  "p": "주요 완성차 업체의 판매 부진과 EV 시장의 성장 둔화 가능성을 보여준다."
+ },
+ {
+  "c": "car",
+  "o": "GM hangs on to US sales crown, but Toyota closes in",
+  "h": "GM hangs on to US sales crown, but Toyota closes in",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUC1DQkZ0RUxQcENIbnRwaXpudkVSN0tOd0lrZ1ZwWGpPSUJ1Z0FqQWxNcXlNU1VUM25Td0lmaXVNR3ZfTzJxbGxob3YxVkNYaEh1S0pkMEU5VTBuMnlhV0RhaHl5Nk5vQ29POTdBNEJFdFN2Sy0yOTR3dEJ4UnNlMS1iT0xaeURDXzZtX0xscnNxWV9FVUpyRFhxN192dUhCUDhva1RiNVZiM1hDUHdIQldxOHBKV0tqVXZZb24zVTU2M1k?oc=5",
+  "src": "Reuters",
+  "r": "global",
+  "ts": "2026-10-02T02:55",
+  "s": "GM이 미국 판매 1위 자리를 지키고 있지만 Toyota가 따라잡고 있다.",
+  "p": "미국 완성차 시장의 경쟁 구도 변화를 보여주는 동향이다."
+ },
+ {
+  "c": "car",
+  "o": "KG모빌리티 9월 완성차 8803대…전년比 17.2% 감소",
+  "h": "KG모빌리티 9월 완성차 8803대…전년比 17.2% 감소",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fbVBqZDZMY0JnQkYxczA5ZVFfT0ExVlI3SDVicS0yVHJmSFBwTHRTQlBPejIxbUQ4Sk55SGQxYXRBVEgyS3VRTW9iMndLRHpmRFF5OENvNHVoTXNxQmVXR1NzZTU2QQ?oc=5",
+  "src": "비건뉴스",
+  "r": "kr",
+  "ts": "2026-10-02T02:47",
+  "s": "KG모빌리티의 9월 완성차 판매량이 전년 대비 17.2% 감소했습니다.",
+  "p": "국내 완성차 업체의 판매 부진은 시장 경기 악화를 반영할 수 있습니다."
+ },
+ {
+  "c": "tire",
+  "o": "Dunlop Tyre Europe offers 80 euros cashback on tyre purchases",
+  "h": "Dunlop Tyre Europe offers 80 euros cashback on tyre purchases",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONlhwVU16a2c1dmpYMTNVQUtBc2JVSWZ3dlM4aXJYaGctLTAzd2JiNy1yQmVHNkxCaWxQYXIxUTJhTVl1aHhrVFF1MnBIaWVzTzl3Ul9FaEVaM2o1RjhuUU5LOGRRREt6V2Z3bG1fZHpJWDlmb29CVG5xbEtTa1llYV9PcWNubXpPS3VFbDdBT1dUcDJrR3pBd3J0TGk?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-02T02:07",
+  "s": "던롭 타이어 유럽이 타이어 구매 시 80유로의 캐시백을 제공하고 있습니다.",
+  "p": "경쟁 심화 속에서 타이어 업체의 판매 촉진 전략이 강화되고 있습니다."
+ },
+ {
+  "c": "tire",
+  "o": "Bridgestone to Supply Formula E",
+  "h": "Bridgestone to Supply Formula E",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0xkcC02U0tWZTVlNXVaNGctNVp4dTBUWDRYWDF4OWFyVjUyMTRqLUJoN0lITlhVQ3RIVE9QVmFmaHRLOEZnb3JMUzF6YUxLTHZoeUFpQXF6MjdlX2kybHItejZFQzZYeFowMzNhUVRvNGNlZlZkdldMXzB6M1p3V2l2ZFFlRVoyX0pZTndB?oc=5",
+  "src": "Modern Tire Dealer",
+  "r": "global",
+  "ts": "2026-10-02T01:54",
+  "s": "Bridgestone이 포뮬러 E에 타이어를 공급하기로 했다.",
+  "p": "주요 타이어 제조사의 전기 레이싱 카테고리 진출로 전기차 관련 사업 확대가 진행 중인 것으로 보인다."
+ },
+ {
+  "c": "tire",
+  "o": "Overseas growth lifts Aeolus Tyre’s first-half revenue",
+  "h": "Overseas growth lifts Aeolus Tyre’s first-half revenue",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeElaMmhKMHJPZDJIRUxETncxRllOVk9LZ2x2OVRsRHNtX3BPUTBUWmVqc29KVTJWTlRFNE01TUZ4NzJDZWV2VFlCcXg0QzlFSmhZaXV2Y0VLaDRpaEtMMElJN0luaDZqUFhaS0ZlMzVaTC1PN0VVSmhFaUxYdE5ueXMxUDVnLVZPN1BFaFB5TGxkZw?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-02T01:00",
+  "s": "Aeolus Tyre의 상반기 매출이 해외 성장에 힘입어 증가했다.",
+  "p": "중국 타이어 업체의 국제 시장 확대가 실적 성장으로 이어지고 있는 것으로 보인다."
+ },
+ {
+  "c": "ev",
+  "o": "Battery material producer Vianode seeks partner to fund next phase – report",
+  "h": "Battery material producer Vianode seeks partner to fund next phase – report",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04LVN0eHRMYmdGZVh0MWtoR0gtUXRtNFhWNVVLR2RHbzE1bWxmMy14T2dKdWJxZTFCdmI5SnJuRjhPRWMtNWYyNUZFZTB4ZzhLalVMbHI2cUhOc3ZNYzhFVnduNkwyMVg1cVZWck5pMEJiZERFWXBjVQ?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-02T00:28",
+  "s": "배터리 소재 생산업체 Vianode가 차기 단계 자금 조달을 위한 파트너를 모색 중이다.",
+  "p": "배터리 소재 업계의 성장 단계에서 자금 조달과 전략적 협력의 중요성이 높아지고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "차는 말소됐는데 배터리는 어디에…회수체계 점검 시급",
+  "h": "차는 말소됐는데 배터리는 어디에…회수체계 점검 시급",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XUnNXQy1PbnNXMUJQWjBNellVNDE4dFQ1Ukp3bVIzY0FWeU1Pdkt5Sm8tcFFuUXpoN0pVdDh6VmRCQk5FUHFydzAzMkt2bDg?oc=5",
+  "src": "교통신문",
+  "r": "kr",
+  "ts": "2026-10-02T00:17",
+  "s": "자동차는 폐기되었으나 배터리의 회수 체계가 불명확한 문제가 지적되고 있습니다.",
+  "p": "폐배터리 관리 체계의 미비는 전기차 산업의 지속가능성과 환경 문제를 야기할 수 있습니다."
+ },
+ {
+  "c": "ev",
+  "o": "벤틀리, 첫 전기차 SUV 공개",
+  "h": "벤틀리, 첫 전기차 SUV 공개",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBTZjBNVHJMTFZJYm56UFNFNzhfQnVSQUFEM1BRUmQxeWFrSjVJYlFURDRvbENEdlNoY0tjU0pBNHdBdHpWX2ZwUkdmd0JONEk?oc=5",
+  "src": "애틀랜타 중앙일보",
+  "r": "kr",
+  "ts": "2026-10-01T23:54",
+  "s": "벤틀리가 첫 번째 전기차 SUV를 공개했습니다.",
+  "p": "럭셔리 브랜드의 전기차 진출은 고급 전기차 시장의 확산 추세를 시사합니다."
+ },
+ {
+  "c": "ev",
+  "o": "“미국이 또 뒤집었다”… 현대차-기아, 하이브리드 전략 ‘미소’ 지은 반전은",
+  "h": "“미국이 또 뒤집었다”… 현대차-기아, 하이브리드 전략 ‘미소’ 지은 반전은",
+  "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtZ3hFY01FNjhpRXFqZ1RqVUNBVlpMbmR2b1V5QUxBWkoyVmVHcTljNkVUS1NCdmpNMnl6MURFNmJJXzVWWnhvcDJTa0dQb3VBQm9yUENR0gFWQVVfeXFMUC1neEVjTUU2OGlFcWpnVGpVQ0FWWkxuZHZvVXlBTEFaSjJWZUdxOWM2RVRLU0J2ak0yeXoxREU2YklfNVZaeG9wMlNrR1BvdUFCb3JQQ1E?oc=5",
+  "src": "네이트뷰",
+  "r": "kr",
+  "ts": "2026-10-01T23:03",
+  "s": "현대차·기아의 하이브리드 전략이 미국 시장에서 긍정적인 반응을 얻고 있습니다.",
+  "p": "하이브리드 중심 접근이 완전 전기화 전략의 대안으로 시장 선호도를 획득하고 있습니다."
+ },
+ {
+  "c": "car",
   "o": "JLR and Chery expand Freelander globally With Freelander 8 Launch in Abu Dhabi",
   "h": "JLR and Chery expand Freelander globally With Freelander 8 Launch in Abu Dhabi",
   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVoxZmYybXhhYzJrQ3lFeEtIeHdJcUlUWEZMdXdSemd6bmxJX0EyQTRBM1pQMHFlbjhZMTVWQ3NwemllYTJTMS00UHpQaWcwckotUGtuUzcycGVzTkF5MnNiSS01WEtkQjJ5NE9MOUNyU0thZmVIcUZVYnpaemdCbU91SG42UQ?oc=5",
@@ -9,6 +251,17 @@
   "ts": "2026-10-01T21:59",
   "s": "JLR과 체리가 아부다비에서 프릴랜더 8 출시로 프릴랜더를 글로벌 시장에 확대하고 있다",
   "p": "중국 자동차 제조사의 글로벌 시장 진출 전략이 가속화되고 있음을 시사"
+ },
+ {
+  "c": "trade",
+  "o": "미국 관세 불확실성 낮아지나... 자동차업계가 전략투자 합의를 반긴 배경은?",
+  "h": "미국 관세 불확실성 낮아지나... 자동차업계가 전략투자 합의를 반긴 배경은?",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DSkRMU2sxVmNLb2xwQTZFOWVzVEFCc2RxMVNGd0N5MEdBR0lxSFpnc1lZeTBubEVnM1JiSGxNcWpkTWNDb3hxUEMtOGJhTVZTQ0VOaHpYMTZ1UWlLaERpQTJULVVlN0hWY2NlMC1lMmE?oc=5",
+  "src": "오토트리뷴",
+  "r": "kr",
+  "ts": "2026-10-01T21:52",
+  "s": "미국 관세 불확실성이 낮아지면서 자동차 업계가 전략 투자 합의를 긍정적으로 평가하고 있습니다.",
+  "p": "관세 정책의 안정화는 자동차 업계의 투자 및 경영 계획 수립에 영향을 미칠 수 있습니다."
  },
  {
   "c": "ev",
@@ -42,6 +295,17 @@
   "ts": "2026-10-01T21:25",
   "s": "래런드 폴 상원의원의 우려로 인해 중국 자동차 금지법 승인을 위한 상원의원들의 추진이 중간선거 이후로 연기되었다",
   "p": "중국 자동차 시장 규제 정책의 진행이 지연되면서 업계 불확실성 증대 가능"
+ },
+ {
+  "c": "tire",
+  "o": "Answering Three Common Wheel Balancing Questions",
+  "h": "Answering Three Common Wheel Balancing Questions",
+  "url": "https://www.tirereview.com/wheel-balancing-vibration-questions/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-01T21:00",
+  "s": "휠 밸런싱에 관한 세 가지 일반적인 질문에 대한 답변이다.",
+  "p": "타이어·휠 정비 관련 기술 정보로 업계 종사자를 위한 참고 자료로 활용될 수 있다."
  },
  {
   "c": "car",
@@ -264,6 +528,17 @@
   "p": "전기차 충전 관련 규제가 사용자 불편을 야기하면서 정책 개선 필요성이 제기되고 있다."
  },
  {
+  "c": "ev",
+  "o": "EVN은 전기차 충전소, 충전 기둥 및 배터리 교환 캐비닛 신청 기준을 명확히 합니다.",
+  "h": "EVN은 전기차 충전소, 충전 기둥 및 배터리 교환 캐비닛 신청 기준을 명확히 합니다.",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcnFzWTNseTZDWTBlcEx6TUp2MHdFMmwtN1VwN1VHeHNDVEdfZlFuV1Q2Y0RTMDFHU2JCOWh6V1VETkhITXNzTVhEZHk3cnV2MXBxV2dWR1NsN2JJRmZ4T1ZJa2RjMUdkWTBPTHRDREJ5VEc5MGpLVzVYQjQ4NU80QThzSUdrOGgyM25DSFlORW54Wi00aUhB?oc=5",
+  "src": "Vietnam.vn",
+  "r": "kr",
+  "ts": "2026-10-01T18:34",
+  "s": "EVN이 전기차 충전소, 충전 기둥 및 배터리 교환 캐비닛 신청 기준을 명확히 했습니다.",
+  "p": "베트남의 전기차 충전 인프라 기준 정립은 동남아 전기차 시장 활성화를 촉진할 수 있습니다."
+ },
+ {
   "c": "tire",
   "o": "한국타이어, 부동산 개발회사 설립…보유자산 개발 나선다",
   "h": "한국타이어, 부동산 개발회사 설립…보유자산 개발 나선다",
@@ -306,6 +581,17 @@
   "ts": "2026-10-01T18:05",
   "s": "자동차 애프터마켓의 시장 규모 및 전망에 관한 보고서가 2026~2035년 기간을 대상으로 발표되었다.",
   "p": "애프터마켓 시장의 장기 전망 분석이 부품 산업의 전략 수립에 참고가 될 것으로 보인다."
+ },
+ {
+  "c": "part",
+  "o": "현대차·기아 뺀 자동차 3사 모두 中 손잡았다",
+  "h": "현대차·기아 뺀 자동차 3사 모두 中 손잡았다",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11LWJSNWlGX3BfbzYxLWZHLVAtcDAtLXR3TFQwV193LUpsYkdaM3M3QlZLaThIU1pjdWRhajI2d2V0ZnN5TjRtQTNWUFA5RG1EcDdhamhBY2NhUQ?oc=5",
+  "src": "한국경제",
+  "r": "kr",
+  "ts": "2026-10-01T17:41",
+  "s": "현대차·기아를 제외한 국내 자동차 3사가 모두 중국과 협력하고 있습니다.",
+  "p": "부품 업계의 중국 의존도 심화는 공급망 다각화와 경쟁력 강화 측면에서 주목할 만합니다."
  },
  {
   "c": "part",
