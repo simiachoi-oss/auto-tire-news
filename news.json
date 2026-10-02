@@ -1,5 +1,335 @@
 [
  {
+  "c": "tire",
+  "o": "WTD's Arroyo Brand Launches New Drifting Tire",
+  "h": "WTD's Arroyo Brand Launches New Drifting Tire",
+  "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYk5yTEt0ekRBRHlMSWpqQTdlel9KTVg1TUlPNFdBWDNHSlp0dFFXS213VUxQM3J1RDlBbnljVUVOMEM1OVhuYnZ0NTRvWVRiRWJXX3llUVh1dE40YWF0V0laRHZIMXhnMVFKdmNkWDFXWDlSaXZpOWRCY1dBdGVoZEtGWUxzVzhJMEtuUzVlX1VTSWlYLWpuaG5tZ1NlSHN5X1RGMWh1THdXVVJFWUg0MW9fbUxMWEdLU0ktek5R?oc=5",
+  "src": "Modern Tire Dealer",
+  "r": "global",
+  "ts": "2026-10-03T04:55",
+  "s": "WTD의 아로요 브랜드가 새로운 드리프팅 타이어를 출시했다.",
+  "p": "특수 용도 타이어의 신제품 개발이 계속되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "Chinese auto show debuts in Argentina as sales surge",
+  "h": "Chinese auto show debuts in Argentina as sales surge",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWmZqal9zblhpMHg0a0hoQUx4UkxTZExmZktHblFjcEhaYUt2RG94Y0N2bDR6b0ZzQjRJenFmYkN0MEwwaTZ3SzVGQVk2VkhmNUk2ZnItaXBrTjdKVWNhWExZS3doU1g0dzZyV184ckZRNnBnTUNwdG9mT19KbEFmMjIzSFRvNDhuVEFDcVczVHVnamJlTXJNQmwxa1FKZkNCZWNzRHA1dVBkR0lYM0lzWDI0bnZaZktiQ1E?oc=5",
+  "src": "Reuters",
+  "r": "global",
+  "ts": "2026-10-03T04:37",
+  "s": "중국 자동차 업체들이 아르헨티나에서 자동차쇼를 개최하며 해외 시장 진출을 확대하고 있음",
+  "p": "중국 자동차의 남미 시장 진출 확대 움직임이 글로벌 경쟁 구도에 영향을 미칠 수 있음"
+ },
+ {
+  "c": "car",
+  "o": "Daily 5 report for Oct. 2: AI is changing the way people shop for cars, but trust still gets the deal done",
+  "h": "Daily 5 report for Oct. 2: AI is changing the way people shop for cars, but trust still gets the deal done",
+  "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3ZOeFNXRnFBcm5PSHE3S2FndTNteWFxZmFJYjZIdUpsMjYzWTVudW1Gb2x3ZlMtUW10T2hFeUdBdGtyUkplWWdGU2NvUURidEpURXd3M1pXRmpnbUsySzk0Zllrck0xREdXUDZUVVB0OUZpM1RDenJDMnlDb1BmUE0zdmVmdWlDcUFULW1fZDdROTlQeHdtaQ?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-03T04:00",
+  "s": "AI가 자동차 구매 방식을 변화시키고 있지만 신뢰가 거래 성사의 핵심 요소",
+  "p": "자동차 소매 시장에서 AI 기술 활용이 확대되는 추세를 보여줌"
+ },
+ {
+  "c": "car",
+  "o": "Toyota’s September surge; AI and the retail customer journey",
+  "h": "Toyota’s September surge; AI and the retail customer journey",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb2FOZ1M2Z3FJV29hLVJQNWp0M21KNDNRSUZ3QmtBVkN4SjlweDNNcnl3d2xkVmlQazFiZkp5SmVBekRHakpjT2dPTXI2SW5PYjhVemhPaWtrVnpUQzhyOUhtOUhCcDBkb00xN1Y2ZVhCMTZFRmwzRFoyZDhXSzYtelZpQkczRTQ5QTUteDMtTFRFT1U?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-03T03:56",
+  "s": "토요타의 9월 매출 증가와 소매 고객 여정에서의 AI 역할",
+  "p": "AI 기술이 자동차 소매 및 고객 관계에 미치는 영향이 커지고 있음을 시사"
+ },
+ {
+  "c": "tire",
+  "o": "Tire industry stakeholders say AI is about efficiency — not replacement",
+  "h": "Tire industry stakeholders say AI is about efficiency — not replacement",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUHQ2ZVYxTy1fUG50WnZsYmU2WUZIX09rV3hpTU5HX24yVmF1bW1iQ0g4VFB3ZlF3Mm9Uck1OS0Exb1UwMVBKVWl2RGx3aTYxZWhjck84eXp3Q3NiRi1XQVZtcmJGcUxvNkZLSHVQSmpBX2ZXVVhVR0dybW9xMWI5RzJDaw?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-03T03:40",
+  "s": "타이어 업계 관계자들은 AI가 인력 대체가 아닌 효율성 향상에 관한 기술이라고 말했다.",
+  "p": "타이어 산업에서 AI 기술의 역할이 고용 우려보다는 생산성 개선 중심으로 인식되고 있는 것으로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "First Shift: Automotive execs warn about China",
+  "h": "First Shift: Automotive execs warn about China",
+  "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdmJVM3B1UFltUW82UW52OVlHR2FTeGo1ZE40VWV3SG45RWloUkdueHhzdTA3ekxOakZWdjZqaHAzWkpEUUtwbkUyVFJQOXJnVUVFNWt5M2I4YmUyZHBTc0RkN1VaVURIUDgxZHJqMUUxemE2VER5OXF1bDNkdmp1OGg0UQ?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-03T03:34",
+  "s": "자동차 산업 경영진들이 중국에 대해 경고",
+  "p": "자동차 업계가 중국 시장 및 기업의 영향에 대해 우려를 제기하고 있음"
+ },
+ {
+  "c": "car",
+  "o": "Chinese auto show debuts in Argentina as their sales surge",
+  "h": "Chinese auto show debuts in Argentina as their sales surge",
+  "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNcHZQVnp4bW9jSXplWXhCRUxnRnBjVnlUYU9kZ3F6ZkxqSV9Nd2p2MmRMa3BlNFY1WmQ1SW5yWEpkQVRUeW9oS2JsNnVINzdEb2ZiQjkwZm5ibjh6cHZEX2xoU1pwNW1CM1VkQmllQmNKTXFnVU5vXzRiN2VGR011aFRFT1ZybWhaYlAzcUpOa0hVeW1YdXd6THF5NlVlM0ZGdF9SQllnRUhwdXp6d3dkbERKenJOTnQwTDdMUkhFTFEyM19MQXFYZEVjSVJQQkY1eGVONXZicWtiQ0swNUE?oc=5",
+  "src": "Reuters",
+  "r": "global",
+  "ts": "2026-10-03T03:31",
+  "s": "중국 자동차 업체들이 아르헨티나에서 자동차쇼를 개최하며 해외 시장 진출을 확대하고 있음",
+  "p": "중국 자동차의 남미 시장 진출 확대 움직임이 글로벌 경쟁 구도에 영향을 미칠 수 있음"
+ },
+ {
+  "c": "car",
+  "o": "States, cities sue US agencies over weaker vehicle fuel economy rules",
+  "h": "States, cities sue US agencies over weaker vehicle fuel economy rules",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzFoSDVMWVRwb2x6N2wzZ0xKVnZhZ05vR0pGWFM3ckY1OFpIQjRtdmxESG1EMlQ3Z1R1REpUZVQ0VU96dnE0dkRYRDlrTmlPNW9abnB4aWhObXJGS2Vhd0Mxd0FUbGRWaXFPdEV0eE5aYlNORk01OW9qSFhFX0U0bW5VUmhYRkZDZER0VmNxSm5jOEgxUG1TdFFMR0ZHVndlazRNY3AwUVN5cHM3TTBJ?oc=5",
+  "src": "Reuters",
+  "r": "global",
+  "ts": "2026-10-03T03:12",
+  "s": "여러 주와 도시가 약화된 자동차 연비 규제에 대해 미국 정부 기관을 상대로 소송을 제기",
+  "p": "연비 규제 강화를 둘러싼 법적 분쟁이 자동차 산업 규제 방향에 영향을 줄 수 있음"
+ },
+ {
+  "c": "car",
+  "o": "\"큰 차 좋아\" 옛말?…유가 상승에 '작은 차' 눈 돌리는 美 소비자들 > 시애틀 뉴스/핫이슈",
+  "h": "\"큰 차 좋아\" 옛말?…유가 상승에 '작은 차' 눈 돌리는 美 소비자들 > 시애틀 뉴스/핫이슈",
+  "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1KYlVZTVNRNTNKbkl1OFJZRUM2b0NYZ3l0dEdqUmJ6RUplS0hvdUk2TTRpak90T3hkbTRoMDUzZUVFakk2Zk1UVzh3?oc=5",
+  "src": "SeattleN",
+  "r": "kr",
+  "ts": "2026-10-03T02:51",
+  "s": "유가 상승으로 미국 소비자들이 대형차 구매에서 소형차로 선호도를 바꾸고 있다.",
+  "p": "에너지 가격 변동이 글로벌 자동차 시장의 수요 구조에 영향을 미치고 있는 것으로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "Environmental groups sue Trump administration over eased vehicle fuel economy rules",
+  "h": "Environmental groups sue Trump administration over eased vehicle fuel economy rules",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTGVVck40ZGZvd0tlYzJDZkxGNGNud2k4TG5QRUQ0ZDR6M1JsUWR2YnVoQlRyMmw1eTB2VHR5TnM2RmFITGtIamxySjBsUVRtRHdnT0NvQ3lSblRYM0Y2QzFsZEpMa3VEU1BXOWNNMjh4Y1JySmtKSkhOYWZGLTkxaXAwVzlwUEdBcnBuQ2ViZTM5V19sbzR2Z2JhaUZ2Y3VtUkZwREtZbG80cHphOEJBX3dyQzZtdENG?oc=5",
+  "src": "AP",
+  "r": "global",
+  "ts": "2026-10-03T02:49",
+  "s": "환경 단체들이 약화된 자동차 연비 규제를 둘러싸고 트럼프 행정부를 상대로 소송",
+  "p": "연비 규제 강화를 요구하는 법적 움직임이 자동차 산업의 규제 환경에 영향을 미칠 가능성이 있음"
+ },
+ {
+  "c": "tire",
+  "o": "Goodyear to shutter remaining chemical plants in New York, Texas",
+  "h": "Goodyear to shutter remaining chemical plants in New York, Texas",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYkVHR1Yxc0RPNmVIcGtIZm14QzdrOG5tLVViZHBkWXNKMm4tZlBDYkxnUUVMbXNjZURCY0dlazAxbmpCY3BBTXVoRlNrbDRuU3dHNVdsTHg2ZXoyNEE0bUxYRktrem9td3d6dGhRLU9yM0tpVEsxMm1hUUpOSERlYjh1cF9SemxsVTdkSVlCZDFpbnEwSnIw?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-03T01:24",
+  "s": "굿이어가 뉴욕과 텍사스에 남아있는 화학 공장들을 폐쇄할 예정이다.",
+  "p": "대형 타이어 제조사의 화학 공장 폐쇄가 산업 구조 변화를 반영할 수 있다."
+ },
+ {
+  "c": "part",
+  "o": "US light vehicle market grows in September, but pace slows after red-hot August",
+  "h": "US light vehicle market grows in September, but pace slows after red-hot August",
+  "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOckt6TEt5ekVuMENKX2JCbzFzaEloXzNfclgzcjluMGdwNk1FajI1cEhxLW1BWXdNUFhCdnJjY1gwQVZkYlZZb3hwaGc3Yy16U2g2dHRTNE84UVdYRURzVTNhNUxfcDRPMEdxcUVpbVM0RF9BSUtVWWJRS2xza0RFTWpRWng2VGd5S21rc21iZ1ZzeFdfdHB6WHpURGVFelBWb3JZQ0RtZnd2S2VUcE5FbjE5Y2o5bmc1VEUw?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-03T01:24",
+  "s": "9월 미국 경차 시장이 성장했으나 8월의 급성장 이후 속도가 둔화",
+  "p": "자동차 시장의 판매 모멘텀 변화가 부품·타이어 수요에도 영향을 미칠 수 있음"
+ },
+ {
+  "c": "car",
+  "o": "[美특징주]포드, 미국 자동차 판매 3위 턱걸이…현대차 바짝 추격",
+  "h": "[美특징주]포드, 미국 자동차 판매 3위 턱걸이…현대차 바짝 추격",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTNiVW5vaXJnUDN2WWQ4ZExlbkk2VWozbG9IYkhpNVlXUmdZcVVGdmNJakx4NkdwOW1vMGNEaU5mUzYtQlp4YlFPOEY5ZWZjM1B2YUwwN1JnWGxLb3NTWkF6OFhRdlpqS283Qm4ySW1BTHljMG1nMy14R1o5R1hkdQ?oc=5",
+  "src": "edaily.co.kr",
+  "r": "kr",
+  "ts": "2026-10-03T00:48",
+  "s": "포드가 미국 자동차 판매 3위를 간신히 유지하고 있으며 현대차가 추격하고 있다.",
+  "p": "현대차의 미국 시장 점유율 확대가 글로벌 완성차 업계의 경쟁 구도를 변화시키고 있을 수 있다."
+ },
+ {
+  "c": "tire",
+  "o": "VIP Tires grows again in Northeast, acquires M&M Service Station in Maine",
+  "h": "VIP Tires grows again in Northeast, acquires M&M Service Station in Maine",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdU9WUWJDTloxSVZmYzIyV21GakVvdW9UZU5iMVlFSEM3ckJZWkYwUWRXUTZPeGtpQWV0UzhEY3p4NEtXRW9uakVXeXpGUWhIMjBZUEdKT0JZc0JJT213aUFmT3Q1RUhZdTdGbmM2MkZvTHNEUzRTNUstQmZqNjhOZjBTNE5QU1B6anpieGk5ZEhydWpDS2tN?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-03T00:38",
+  "s": "VIP Tires가 미국 북동부에서 메인 주의 M&M Service Station을 인수하여 사업을 확장했다.",
+  "p": "지역 타이어 유통업체의 인수합병을 통한 시장 확대가 진행 중이다."
+ },
+ {
+  "c": "tire",
+  "o": "Unreal Adventure: Milestar tires debuts Patagonia MT Pro during endurance event",
+  "h": "Unreal Adventure: Milestar tires debuts Patagonia MT Pro during endurance event",
+  "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkMyNDAyQVVGelVNdVowb3dnSlFneGFucW43SHRQbzF6YVFCLWlEd1hUYTY0alNLME4wQ29PQ3QtRGx0bF9ZbTdjZVJyMVIzS0NIZ1Y5UTFJbzcxdGVkZ2tGUVpHaVlxUHg1WEp5SFA1OXp1QjIyUkNVVFVVVWF5Y2NzOVU?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-03T00:36",
+  "s": "마일스타 타이어가 지구력 이벤트 중에 Patagonia MT Pro 신제품을 선보였다.",
+  "p": "타이어 제조사들의 신제품 홍보를 위한 실주행 이벤트 활용이 지속되고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "한국토요타, 소방대원 대상 전기차 안전 구조 지원",
+  "h": "한국토요타, 소방대원 대상 전기차 안전 구조 지원",
+  "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ITGE5cWNEdUlKRjdscmVGVlhQaVJoWEVhNk9iOVRuRDlSbGlQckNQVWZtNWZzdHU3bnk2QnBLazJMUU5EQjFqNFVXYXhBTzdzSkJHMXpCYUpYMjJpUG5DVVJLa3Q?oc=5",
+  "src": "탑라이더",
+  "r": "kr",
+  "ts": "2026-10-02T23:01",
+  "s": "한국토요타가 소방대원을 대상으로 전기차 안전 구조 지원을 하고 있다.",
+  "p": "자동차 업체의 전기차 안전 교육은 신기술 확산과 안전성 강화 노력으로 평가될 수 있다."
+ },
+ {
+  "c": "tire",
+  "o": "Nokian, Doug DeMuro partner to tout new Hakkapeliitta 01 winter tire",
+  "h": "Nokian, Doug DeMuro partner to tout new Hakkapeliitta 01 winter tire",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQy01M05zR2FpRk1ybnpEUGltVzZsX3lzdE5MUnJKb0t6SzltUlEtRm02R1JucTJvX2FHVjdFM2pXUllhdnNOdFJUZ25TSWJQZnBGX2hndktaNnNULXZCMFo5eVNKZ3Rxcy1iOFR6VWllOXQzM1RXdnM3TlhKVTlhMVUyVXl2UQ?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-02T22:53",
+  "s": "노키안이 유명 자동차 리뷰어 Doug DeMuro와 협력하여 새로운 Hakkapeliitta 01 겨울 타이어를 홍보한다.",
+  "p": "타이어 제조사의 마케팅에 유명 인플루언서와의 협업이 활용되고 있다."
+ },
+ {
+  "c": "tire",
+  "o": "한국타이어, 미국 타임지 ‘세계 최고 기업’ 선정",
+  "h": "한국타이어, 미국 타임지 ‘세계 최고 기업’ 선정",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvRlI2a2NUU2xLazhpbG1uUGN1d3lHZU9qOWFLb3hTZmxCTFJtY2ZIMm9tYmFqeWlJSmN2UUMzcG4wbVFQbHJpNzJyQ0toaWZmc0NTcHdTQmdDZXZudUxtZUNrNC10a0ZpdkE?oc=5",
+  "src": "bizwnews.com",
+  "r": "kr",
+  "ts": "2026-10-02T22:26",
+  "s": "한국타이어가 미국 타임지가 선정한 '세계 최고 기업'에 선정되었다.",
+  "p": "한국 타이어 업체의 글로벌 위상 강화를 의미할 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "Volvo Cars issues profit warning on slower sales",
+  "h": "Volvo Cars issues profit warning on slower sales",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRW5DR2w2LUdONWNFT1B0bFNNMi1lSDh3YV84eC1DU29xWVprZXR1Z1lGSDBVS3hnSVItV1lEcl9vMWZUZHJJMHl0dXduTU00eEY2Z19RTFNHeXpjd3ZLS3VnWWI0MXZuWnRBMkxXU3pVV3d0azEtZENNaGw5U080Wnp2UHdXLUE?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-02T21:37",
+  "s": "볼보 자동차가 판매 둔화로 인한 이익 감소 경고를 발표했습니다.",
+  "p": "완성차 업체의 실적 부진이 부품 및 타이어 수급에도 영향을 미칠 수 있습니다."
+ },
+ {
+  "c": "part",
+  "o": "Toyota to start carbon-neutral production at its UK engine plant",
+  "h": "Toyota to start carbon-neutral production at its UK engine plant",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU0h0VzZjbE52cF9LZ01EX1ZmT2xlRXRHczRQNU1ibUtEV3hPejVvWW1XOTVBbExTU19UdU9BRVdiMGR2RTJZUkF3ckk2ZnhBaXVnU3QxaVhTbGZaUmU1QUxvdEQ1UzR2VHB4dmNWQ0E1bHBLdFVlck5NT2U2SE51SG96UWhJak00Yi1iWmd6S2JMd3ZhVTdrV05rOXU?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-02T21:37",
+  "s": "도요타가 영국 엔진 공장에서 탄소 중립 생산을 시작할 예정입니다.",
+  "p": "완성차 업체의 친환경 생산 전환이 부품 공급망의 지속가능성 요구로 이어질 것으로 보입니다."
+ },
+ {
+  "c": "car",
+  "o": "Volkswagen ratchets up restructuring tensions with IG Metall in Germany",
+  "h": "Volkswagen ratchets up restructuring tensions with IG Metall in Germany",
+  "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3VWbEhJbVJuS05OZk5UYmZGaGs0eVVlVmJMUkZabmktcUNhWlZxUnlDa0xqSl8wR0lFX1dfV0ZPYm1BZEFudkNTZmtUZTE3akRmVmdQTEtfNk1hM25faVJOWmEtTTRUUlR0T2N6S0VnaVZDYkF2eVJ2SHprNDlLQTdVaWJXcnM1czQ5RzBYaTgwRlVXMDR3VzNaRWRBdkdzal9ZcWdn?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-02T21:03",
+  "s": "폭스바겐이 독일의 산별노조 IG 메탈과의 구조조정 협상에서 긴장을 고조시키고 있습니다.",
+  "p": "완성차 업체의 대규모 구조조정이 부품 및 타이어 산업의 고용 및 수급에 파급 영향을 미칠 수 있습니다."
+ },
+ {
+  "c": "tire",
+  "o": "한국타이어, 美 타임 ‘세계 최고의 기업’ 선정…매출 첫 10조 돌파",
+  "h": "한국타이어, 美 타임 ‘세계 최고의 기업’ 선정…매출 첫 10조 돌파",
+  "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE90SFlKWjBoNGZ1dEwzdDBadDBxM3FQbnl6SkdfelJVOXdrX0M5OGF1ck1ubmJzR29OSWxhZ3hSdGNiYWVINnVvSGJ2eHBiaTZVRmdDdw?oc=5",
+  "src": "타임뉴스",
+  "r": "kr",
+  "ts": "2026-10-02T20:53",
+  "s": "한국타이어가 미국 타임지가 선정한 '세계 최고의 기업'에 선정되었으며 매출이 처음으로 10조원을 돌파했다.",
+  "p": "한국 타이어 업체의 글로벌 경쟁력 강화와 사업 규모 확대를 보여주는 성과로 평가될 수 있다."
+ },
+ {
+  "c": "ev",
+  "o": "한국토요타, 소방대원 대상 전기차 안전 구조 교육...\"전기차 구조 상황 대비\"",
+  "h": "한국토요타, 소방대원 대상 전기차 안전 구조 교육...\"전기차 구조 상황 대비\"",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5UVRHVlZGY0Z1anVWeUNDclZWNmFFd0lwZUo2WkFPdXBSVG4yeEhIQVVhUXI1dmZEMHhMQTdONTNWd1RNb1NKTTdkdW4waHFaWEloRTc5VTROZEU2OHdSY2xaWnVoVDZ1?oc=5",
+  "src": "팍스경제TV",
+  "r": "kr",
+  "ts": "2026-10-02T20:39",
+  "s": "한국토요타가 소방대원을 대상으로 전기차 안전 구조 교육을 지원하고 있다.",
+  "p": "자동차 업체의 전기차 안전 교육 활동은 신기술 확산과 사회적 책임 이행으로 볼 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "\"포드까지 넘나\"…현대차그룹, 미국 車시장 판 바꾼 하이브리드",
+  "h": "\"포드까지 넘나\"…현대차그룹, 미국 車시장 판 바꾼 하이브리드",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Ddi1KaW5RUndISW5SRUNfNS1CMGhmUWUyYWxjQ1Ixc3hoOGpGUzg4ZzRuN3A2QTQ3T0tieDl2T2NoVk5mU0Y2NW9kS3BaX2tnYnllYVFVeUEtRWM4ZklPVnpmUXhoamxGTmc?oc=5",
+  "src": "지피코리아",
+  "r": "kr",
+  "ts": "2026-10-02T20:23",
+  "s": "현대차그룹의 하이브리드 모델이 미국 자동차 시장의 경쟁 구도를 변화시키고 있다.",
+  "p": "현대차그룹의 하이브리드 기술이 미국 시장 점유율 확대의 주요 요인으로 작용할 수 있다."
+ },
+ {
+  "c": "ev",
+  "o": "벤츠코리아, 전기차 충전 '카드·앱' 없앤다…내년 PnC 국내 도입",
+  "h": "벤츠코리아, 전기차 충전 '카드·앱' 없앤다…내년 PnC 국내 도입",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9zVGZwUzI5WFRRaHUzQ0lvN1dKcWJtb210RlZmakh1Qms0VmRUd083NWFSOVpkSHJzOFhpQ3BmNnlZaDQxelZ3cmVVR2h1NmdGdFdhOVFSeW9ULXN1anA5SGtFNDhRanVEcGfSAW5BVV95cUxOTEs2VnA2blh4UGRvRlRaRHVSSmNhMTJITjhMaG8zZHI0V2NFNzBmbmczRDVjS0YtWmI5QUEweFR2SjY3VjVKVVhlLW8wNEZyREN5aG9ZWG9mSlBaNkphSUUyc2VYOFU3czlhN3lwUQ?oc=5",
+  "src": "지피코리아",
+  "r": "kr",
+  "ts": "2026-10-02T20:19",
+  "s": "벤츠코리아가 내년에 카드나 앱 없이 충전하는 PnC(Plug and Charge) 기능을 국내에 도입한다.",
+  "p": "프리미엄 브랜드의 전기차 충전 편의성 강화는 전기차 사용 경험 개선 추세로 볼 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "\"싼타페보다 낫다\"…현대차 신형 투싼, 뉴욕 공개 호평",
+  "h": "\"싼타페보다 낫다\"…현대차 신형 투싼, 뉴욕 공개 호평",
+  "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GVVRqMkN4LVRaRHNDUzZMclh5OW1uZGh2dS1DTlRPZGNfRWRLanhzUFdaNHhZUnpVczBkaU1IandZWmtWcV9jeUNCc3FsLUhNU2ctdmlBMHFtNk9uZjlXa3NtWUlJSnp6NUE?oc=5",
+  "src": "지피코리아",
+  "r": "kr",
+  "ts": "2026-10-02T20:11",
+  "s": "현대차의 신형 투싼이 뉴욕에서 공개되어 호평을 받았다.",
+  "p": "현대차의 신규 모델이 글로벌 주요 시장에서 긍정적 평가를 받는 것으로 보인다."
+ },
+ {
+  "c": "tire",
+  "o": "Techking and Boonray expand autonomous mining truck cooperation",
+  "h": "Techking and Boonray expand autonomous mining truck cooperation",
+  "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUE02dlNTVkttWURNZ2VZb21LR3RGdllJcEUxRzNhakdxUlNvNWpLaEdvMWhpRkhPLTE4a005WXZ4LVd6dGxyQTRMN2V0RngzbzhKdTYwdzBVdVdOYVRxaXV1eGhfRDJpV2xzZzRuRzYzUjdoOVBsaEc3YnNGQnlCZ2JhU0FGbFZuS2dicWdLSkp1bjVpRXhBcmIzMVBNbVE?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-02T20:10",
+  "s": "텍킹과 분레이가 자율 채광 트럭 타이어 협력을 확대했다.",
+  "p": "타이어 제조사들의 자율주행 채광 차량용 타이어 개발 협력이 심화되고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "소방대원 대상 전기차 안전 구조 현장 교육 지원한 한국토요타자동차",
+  "h": "소방대원 대상 전기차 안전 구조 현장 교육 지원한 한국토요타자동차",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oZ09vTmFHZDF0UmlQNnc5Vjh2eUZURG1UT2IwNDJaRlhkRDY3UGNLd0V3eFNBU1Frc2V4T2hYSE9FNlg3cTFyc2tMWXdpY0hrY2FRVmlRVVFXY2hQS1NhdW90dnAyU3Nv?oc=5",
+  "src": "모터피디",
+  "r": "kr",
+  "ts": "2026-10-02T19:44",
+  "s": "한국토요타자동차가 소방대원을 대상으로 전기차 안전 구조 현장 교육을 지원했다.",
+  "p": "자동차 업체의 전기차 안전 교육은 신기술 확산과 응급 대응 역량 강화를 위한 노력으로 평가될 수 있다."
+ },
+ {
+  "c": "part",
+  "o": "현대위아, 슬로바키아 신공장 가동…유럽 생산거점 구축",
+  "h": "현대위아, 슬로바키아 신공장 가동…유럽 생산거점 구축",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAyMFlKbFlXWVh4ZFdsaGxKME0wUUpDUWtTZGVEYlVEVThOMHZzV2ZWd0VMdDZQT20zUHVKYnFGcThNTjQxX19MeFZIWWp6cF9OWUp0RUtUM19uc1l5WHd4MGFsWQ?oc=5",
+  "src": "쿠키뉴스",
+  "r": "kr",
+  "ts": "2026-10-02T19:24",
+  "s": "현대위아가 슬로바키아 신공장을 가동하며 유럽 생산거점을 구축했다.",
+  "p": "부품 업체의 유럽 지역 생산 거점 확대는 글로벌 공급망 다각화 전략으로 평가될 수 있다."
+ },
+ {
+  "c": "ev",
+  "o": "볼보자동차코리아, 전국 소방 구조대원 대상 전기차 안전 교육 실시",
+  "h": "볼보자동차코리아, 전국 소방 구조대원 대상 전기차 안전 교육 실시",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1NDdLSVZVLU1rSU1wRS1fZnRNcW1meF9PcHhLWkQzbW1MWjBIQkxGbGh5UTcwbjdXa291VzZhaDktZ2d0azJKT0IwaWdQQm9FREl0UjhHRG5vNVViN2pHQmxXOEZMLU9oUDA0R3pWS0M?oc=5",
+  "src": "시장경제신문",
+  "r": "kr",
+  "ts": "2026-10-02T18:57",
+  "s": "볼보자동차코리아가 전국의 소방 구조대원들을 대상으로 전기차 안전 교육을 실시했다.",
+  "p": "완성차 업체의 긴급 상황 대응 인력 교육이 전기차 안전 인식 제고에 기여할 수 있다."
+ },
+ {
   "c": "part",
   "o": "South Korea report: domestic sales plunge 20% in September",
   "h": "South Korea report: domestic sales plunge 20% in September",
@@ -20,6 +350,17 @@
   "ts": "2026-10-02T18:40",
   "s": "중국산 전기차의 가격이 전반적으로 상승할 수 있다는 분석이 있다.",
   "p": "중국 전기차 가격 상승 추세는 글로벌 전기차 시장 경쟁 구도 변화를 시사할 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "9월 완성차 5사 판매실적, 아반떼 7305대 반등에 그랜저 1위",
+  "h": "9월 완성차 5사 판매실적, 아반떼 7305대 반등에 그랜저 1위",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5VXNiaXg3NlFEUFBXOHBVR18wdzBKZW42VjdtSVRsY0N4VDRVZFM1NUVCOFVRSzhmZXc5ejNublhibkE4S1VqeW10OVlCQmQ1VHVMVzc0dHVaVTRlWUNkbENTeTFEN1Rra3RmdG9pa0djUQ?oc=5",
+  "src": "다나와 자동차",
+  "r": "kr",
+  "ts": "2026-10-02T18:39",
+  "s": "9월 완성차 5사 판매실적에서 아반떼가 반등하고 그랜저가 1위를 차지했다.",
+  "p": "국내 완성차 시장에서 모델별 판매 변동이 발생하고 있는 것으로 보인다."
  },
  {
   "c": "trade",
@@ -119,6 +460,17 @@
   "ts": "2026-10-02T17:49",
   "s": "스텔란티스 부품공급사인 니데크가 자동차 전기모터 사업부를 매각하려고 한다.",
   "p": "자동차 부품업체의 구조 조정 움직임이 가속화되고 있을 수 있다."
+ },
+ {
+  "c": "part",
+  "o": "9월 수출 역대 최대에도 품목별 희비…자동차 줄고 선박·배터리 늘었다",
+  "h": "9월 수출 역대 최대에도 품목별 희비…자동차 줄고 선박·배터리 늘었다",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90LU1LM3AxT292V2FOdXJMSktKYlpzSElGOWYtZ2hfRm93M0JyYkdyTUhiRi1BZzZja0lKeG0wUGdHanVIUVJ1MGZ0VDgtblFhdE4zUW1Qc9IBU0FVX3lxTE9HTENueUppVVdqeGZ5bXZ1eEc0d3dkbzRaNW52WjdOUWxVUUNaekk5cWZSWnByazMyLV9IV2NEOXdhN3E1YzBSb0JiVzZuazNiTEk0?oc=5",
+  "src": "KPI뉴스",
+  "r": "kr",
+  "ts": "2026-10-02T17:46",
+  "s": "9월 수출이 역대 최대를 기록했으나 품목별로는 자동차 수출은 감소하고 선박·배터리 수출은 증가했다.",
+  "p": "한국 자동차 업계의 수출 부진 속에서 배터리 등 신산업 수출 성장의 시장 변화가 진행 중인 것으로 보인다."
  },
  {
   "c": "tire",
@@ -724,6 +1076,17 @@
   "ts": "2026-10-01T23:03",
   "s": "현대차·기아의 하이브리드 전략이 미국 시장에서 긍정적인 반응을 얻고 있습니다.",
   "p": "하이브리드 중심 접근이 완전 전기화 전략의 대안으로 시장 선호도를 획득하고 있습니다."
+ },
+ {
+  "c": "tire",
+  "o": "Wold Rim & Wheel Releases Five-Clamp Wheel for Oliver Tractors",
+  "h": "Wold Rim & Wheel Releases Five-Clamp Wheel for Oliver Tractors",
+  "url": "https://www.tirereview.com/oliver-tractor-wheel/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-01T22:00",
+  "s": "Wold Rim & Wheel이 올리버 트랙터용 5클램프 휠을 출시했다.",
+  "p": "농업용 차량용 타이어 및 휠 부품의 신제품 개발이 진행 중이다."
  },
  {
   "c": "car",
