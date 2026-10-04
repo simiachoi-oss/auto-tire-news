@@ -1,6 +1,171 @@
 [
  {
   "c": "tire",
+  "o": "금호 SLM, 뉘르부르크링 내구시리즈 SP10클래스에 BMW M4 GT4 EVO로 도전",
+  "h": "금호 SLM, 뉘르부르크링 내구시리즈 SP10클래스에 BMW M4 GT4 EVO로 도전",
+  "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFAzaHowcF9kbTFfbTZmYUEzMVkxaUhMeGJkYmxaSlBpNGo4T2hvUDRCVDR4bEdfaW1NMTd2TGV1QQ?oc=5",
+  "src": "웨이브진",
+  "r": "kr",
+  "ts": "2026-10-04T11:23",
+  "s": "금호 SLM이 BMW M4 GT4 EVO를 이용해 뉘르부르크링 내구시리즈 SP10클래스에 참전한다.",
+  "p": "타이어 제조사의 레이싱 활동을 통한 기술 검증 및 브랜드 가치 강화 기회로 보인다."
+ },
+ {
+  "c": "ev",
+  "o": "'10분 만에 300km' 주유하듯 충전...중국 전기차가 온다",
+  "h": "'10분 만에 300km' 주유하듯 충전...중국 전기차가 온다",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YcGlWcGFMeTBTbXd1dUJDdHg1U2liZzlBMGRkbTZ6cVRETi1UMko3blF5NkQ2T2Z5RF9fd3FIeXY4YmNnVWVyZURaUDl3RjBORFdoRGhQWjhjaEtVMTFCMERMVlhvQU52WmxjRUtfMA?oc=5",
+  "src": "YTN",
+  "r": "kr",
+  "ts": "2026-10-04T10:48",
+  "s": "중국 전기차가 10분 만에 300km 주행 거리를 충전할 수 있는 기술로 시장에 진입하고 있다.",
+  "p": "중국 전기차의 급속 충전 기술 발전이 글로벌 EV 시장 경쟁을 심화시킬 것으로 보인다."
+ },
+ {
+  "c": "ev",
+  "o": "中 전기차 황금기 끝났나…생존게임 시작 [차이나 워치]",
+  "h": "中 전기차 황금기 끝났나…생존게임 시작 [차이나 워치]",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85UXRSQzhIUzhFSlg4bnk1Q1htSEZFdnFSYWFHQWZidlJXV2tjX19GalNmVjZfc1J0M1NRTHVhbjRidmpsZVZtUFFTdXAtTUJrMktUeFJFd1lxQQ?oc=5",
+  "src": "한국경제",
+  "r": "kr",
+  "ts": "2026-10-04T10:18",
+  "s": "중국 전기차 산업의 황금기가 끝나고 생존경쟁이 시작되었다는 분석이다.",
+  "p": "글로벌 전기차 시장의 경쟁 심화로 업계 재편 가능성이 높아지고 있다."
+ },
+ {
+  "c": "car",
+  "o": "“78만원 찍더니”…현대차 주가 반토막, 판매 부진까지 덮쳤다",
+  "h": "“78만원 찍더니”…현대차 주가 반토막, 판매 부진까지 덮쳤다",
+  "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE82Q3Fjekg1T0Z6OGNDY1J3cjlaS01xYW9aRDQ2alNzZmJhWU1JS3dPRzdpNmZESHFZMWNGeURsTkhRR2xVS0Nkei15ZmFpZ3pWYUVTS0hZQzN0ZEk?oc=5",
+  "src": "에너지경제신문",
+  "r": "kr",
+  "ts": "2026-10-04T10:14",
+  "s": "현대차의 주가가 크게 하락했고 판매 부진까지 겹치고 있다.",
+  "p": "국내 완성차업체의 경영 악화가 주가와 판매에 동시에 반영되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "美 187만대 베스트셀러의 귀환…현대차, 신형 투싼으로 북미 SUV 왕좌 굳힌다",
+  "h": "美 187만대 베스트셀러의 귀환…현대차, 신형 투싼으로 북미 SUV 왕좌 굳힌다",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HWlF6S3ZXWWdmX1JHRnRVeElHNVB1cFVLYktYNHBxS1RSZF9mb1R6U3ZfWlFqR180aGRmek9oTHVWY3ZXdUh5ZFBSSTZ5Vm01TGNSb04yTTlrUQ?oc=5",
+  "src": "파이낸셜뉴스",
+  "r": "kr",
+  "ts": "2026-10-04T09:57",
+  "s": "현대차가 신형 투싼으로 북미 SUV 시장에서 베스트셀러 지위를 강화한다.",
+  "p": "현대차의 북미 시장 경쟁력 강화가 글로벌 실적 개선에 기여할 것으로 예상된다."
+ },
+ {
+  "c": "part",
+  "o": "현대모비스, 램프사업 분할·매각…“사업 효율화에 투자여력 확보”",
+  "h": "현대모비스, 램프사업 분할·매각…“사업 효율화에 투자여력 확보”",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRSFFJWnBpb3pTYzdSZVZRaVBqdEt0VUpCUl9FaEVqVkN6S0RiU2xWRnVFX1pMeENJelZxT3dZQkxWWEVBOVFQMTM4VFpDOWJibkxqYXNaVFpVOXJ6WXozeDQwMVFwQnR1T2hsZmVLN19LamfSAXdBVV95cUxNNE9mZ1JHaUhZRUpOT3Nja1ZiRTNoeTZxSU8zUzJuVVhTQ2FIOUpxRE1hblE1VnVHS2ZCMjlhTjNiZUNWOUJDNkVGLW42dm5hZW44M0QtdFp3WmdsaUUwN3lyd19DOUZVbkMwMUstSFdabEVWaFotaw?oc=5",
+  "src": "핀포인트뉴스",
+  "r": "kr",
+  "ts": "2026-10-04T09:30",
+  "s": "현대모비스가 램프사업을 분할·매각하여 사업 효율화를 추진하고 투자여력을 확보한다.",
+  "p": "자동차 부품사의 사업 포트폴리오 재편으로 경쟁력 강화 전략이 진행 중이다."
+ },
+ {
+  "c": "car",
+  "o": "KGM·현대차·르노, 전년 比 완성차 판매량 저조… 국내 소비심리 위축",
+  "h": "KGM·현대차·르노, 전년 比 완성차 판매량 저조… 국내 소비심리 위축",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSLUNDRG43ek5rZllLWlFRTy1VOG9fX0hOU0cxN1ROcGp0MWNNVDA2X2xzZGhpczZMS2RJUkVZNXgwZW5QM0l3S0dCX0N2T01aOEhLYzhmQUhlUFRNYjJKa1RkN3dWSExfc2drUQ?oc=5",
+  "src": "굿모닝경제",
+  "r": "kr",
+  "ts": "2026-10-04T09:07",
+  "s": "KGM, 현대차, 르노의 완성차 판매량이 전년 대비 저조하며 국내 소비심리 위축이 반영되고 있다.",
+  "p": "국내 자동차 업계 전반의 판매 부진이 심화되면서 시장 회복에 시간이 걸릴 것으로 보인다."
+ },
+ {
+  "c": "ev",
+  "o": "\"이래서 길에서 안보였나?\"... 현대 스타리아 전기차, 속 터지는 출고 일정",
+  "h": "\"이래서 길에서 안보였나?\"... 현대 스타리아 전기차, 속 터지는 출고 일정",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9NVHpuVDROVDg3TEZhUm5sVFI1THpRVXVUX0U3UGx5NVpNZWttRm4wb2E3MnJJTmo5bkhOa1lyaVZOSUhwTEJoV0R2NUVwck11TS01TEZUVHluYWhta3ZBSlV3V0tNMnowRWk1cHFfenE?oc=5",
+  "src": "오토트리뷴",
+  "r": "kr",
+  "ts": "2026-10-04T09:00",
+  "s": "현대의 스타리아 전기차가 판매 부진으로 출고 일정이 지연되고 있다.",
+  "p": "현대의 전기차 판매 부진이 전기차 시장 수요 약세를 시사한다."
+ },
+ {
+  "c": "car",
+  "o": "中자동차, ‘수출’ 넘어 해외생산 공세…현대차 안방까지 파고든다",
+  "h": "中자동차, ‘수출’ 넘어 해외생산 공세…현대차 안방까지 파고든다",
+  "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DcFhfOTBVYm9XX284dE9KdUppa3AtanpkTkRiek5OVUxzOWZ4alJqNkE0bG1nemIydkxLVUxWN0ZXa0JJZEU0SFNnWmRUVE9jZlVSZ0NjN1EwcFE1aGlhUW5qYjZBQkV3T3RlX2JR?oc=5",
+  "src": "아시아투데이",
+  "r": "kr",
+  "ts": "2026-10-04T08:54",
+  "s": "중국 자동차 업체들이 수출을 넘어 해외에서 현지 생산을 진행하고 있으며 현대차 국내 시장까지 위협하고 있다.",
+  "p": "중국 자동차의 공략이 강화되면서 국내 업체들의 시장 방어 필요성이 커지고 있다."
+ },
+ {
+  "c": "part",
+  "o": "LG화학, 글로벌 엘라스토머 핵심 기업 10위…2034년 203조 시장 정조준",
+  "h": "LG화학, 글로벌 엘라스토머 핵심 기업 10위…2034년 203조 시장 정조준",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5vTGVubzFfOWVKLWVwdU44TW93eVZxUktfbFE5YzlGT3V5a2NWcGpoUGt1TTFyenRwU0U2aE92bUhIMEZMdy12YVpES2JZZEtZU3ZDY01fS0swX21qOEtoVQ?oc=5",
+  "src": "mydaily.co.kr",
+  "r": "kr",
+  "ts": "2026-10-04T08:00",
+  "s": "LG화학이 글로벌 엘라스토머 업계에서 10위권에 진입했으며 2034년 시장을 목표로 하고 있다.",
+  "p": "자동차 부품 소재 기업의 글로벌 경쟁력 확대 추세를 시사한다."
+ },
+ {
+  "c": "car",
+  "o": "“韓에도 나왔으면”… 美서 만난 ‘투싼 XRT 프로’, 뭐가 다를까?",
+  "h": "“韓에도 나왔으면”… 美서 만난 ‘투싼 XRT 프로’, 뭐가 다를까?",
+  "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mTmcxQmVCcEdwblNudlNacEdzUExrMjJyV2pFZFRMTWp4S09vRXZtbHJoU1MxbkFDU0gzSmlWZEpHeElLc0hkZF9zekdLekRuamFKTlV2eE9faHZMNG9BZ25rS3FRdXlLN3FfS0Q2VUdJTEIx0gF0QVVfeXFMTmZOZzFCZUJwR3BuU252U1pwR3NQTGsyMnJXakVkVExNanhLT29Fdm1scmhTUzFuQUNTSDNKaVZkSkd4SUtzSGRkX3N6R0t6RG5qYUpOVXZ4T19odkw0b0FnbmtLcVF1eUs3cV9LRDZVR0lMQjE?oc=5",
+  "src": "IT조선",
+  "r": "kr",
+  "ts": "2026-10-04T07:05",
+  "s": "미국에서 출시된 투싼 XRT 프로의 차별화된 특징을 소개한다.",
+  "p": "현대차의 해외 시장 적응형 차량 전략 실행으로 지역별 수요 대응 강화를 보여준다."
+ },
+ {
+  "c": "car",
+  "o": "현대차, 코로나 빼면 16년만 최소 판매…내수는 금융위기후 최악",
+  "h": "현대차, 코로나 빼면 16년만 최소 판매…내수는 금융위기후 최악",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xd1JtcGFkanZ4NnlnLWljVWtySW9lR0l1QUJ4ZW5TWExzZzBTWG56NzFKQkxfU1ZRTEVBcG10QXk1YmpzbzR2UXlnRllMSDh4UGZGQU1nQ2xFOXhaaFhvTdIBYEFVX3lxTE9xd1JtcGFkanZ4NnlnLWljVWtySW9lR0l1QUJ4ZW5TWExzZzBTWG56NzFKQkxfU1ZRTEVBcG10QXk1YmpzbzR2UXlnRllMSDh4UGZGQU1nQ2xFOXhaaFhvTQ?oc=5",
+  "src": "yna.co.kr",
+  "r": "kr",
+  "ts": "2026-10-04T06:01",
+  "s": "현대차의 판매량이 코로나 이후 16년 만에 최저이며 국내 판매는 금융위기 이후 최악 수준이다.",
+  "p": "현대차의 판매 악화가 국내외 시장 부진을 반영하면서 구조적 조정 가능성을 시사한다."
+ },
+ {
+  "c": "ev",
+  "o": "유럽 공략 나선 지리차 CEO의 선언…전기차만이 답 아니다",
+  "h": "유럽 공략 나선 지리차 CEO의 선언…전기차만이 답 아니다",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYUJ1MEtTNHhJVy1CaVYtTGhuN0xGVXhXZ3dpWGJMS2YxSTBqUjBON19UVFFiUFd1enhDTF84UDV1aElvam9lNzE1anpxT3dHNGl2LVlGMFpPcFRtRndfN2gyclVEZTBmYkhISC1nLWEydEdqXzlfN0ZSNmlqTEo0aWstQUl0bjA?oc=5",
+  "src": "글로벌이코노믹",
+  "r": "kr",
+  "ts": "2026-10-04T04:30",
+  "s": "지리차 CEO가 유럽 시장 진출을 선언하면서 전기차만이 유일한 해답이 아니라는 입장을 밝혔다.",
+  "p": "중국 자동차의 다각화 전략 추진으로 글로벌 시장에서의 경쟁 방식이 다양해지고 있다."
+ },
+ {
+  "c": "car",
+  "o": "Renault to invest $11 billion in France in EVs, affordable cars, CEO says",
+  "h": "Renault to invest $11 billion in France in EVs, affordable cars, CEO says",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBranRtNlNYbkRsQjNvLUdwSjBFREtuWUtiSjJyMDh1QzJzUXBJVmo4SGx4RTBmN05LbVNvLUNTU2Z3X0l6S0RxTjgyWVNpc2M0VkxpMzZFeXoxRmZQQ1MtVmxsbWVRRjhqT0QzQ0hITzg?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-03T22:55",
+  "s": "르노가 프랑스에 110억 달러를 투자하여 전기차와 저가 자동차를 개발할 계획.",
+  "p": "르노의 대규모 투자를 통한 전기차 및 경제형 차량 개발이 유럽 완성차 시장에 미칠 영향을 시사"
+ },
+ {
+  "c": "trade",
+  "o": "中, 유럽산 화학물질 반덤핑 조사…무역 긴장 고조",
+  "h": "中, 유럽산 화학물질 반덤핑 조사…무역 긴장 고조",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVTZiWXhhSDdOdjhVNEItdDV4SFF5bV84Rk9QUm50Zzk1SC10WkItb0tVMmZqcGxENWplbUk5aDVnUGNOLTl3eDNBR2k3RzVGbnk2dzRSdWtTeHBMRFZKVkN0NzlJUzFzUUhBekhXM0VtN3RpY0tzLTlRbVdsd3JwdA?oc=5",
+  "src": "edaily.co.kr",
+  "r": "kr",
+  "ts": "2026-10-03T17:36",
+  "s": "중국이 유럽산 화학물질에 대한 반덤핑 조사를 시작하면서 양측 간 무역 긴장이 높아지고 있다.",
+  "p": "자동차·타이어 산업의 주요 원자재인 화학물질 관련 무역 분쟁이 심화될 수 있다는 신호로 보인다."
+ },
+ {
+  "c": "tire",
   "o": "완주율 51%의 레이스…한국타이어의 세번째 녹색지옥 정복기",
   "h": "완주율 51%의 레이스…한국타이어의 세번째 녹색지옥 정복기",
   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lVnR4cnhVNUNHT1ZaN3lfZ3BicThReHBZeHZGWENLSk1lV3JwMUgyRW13X0I3S1hETFdpZnJJSEhkc0FESGlWYm1vVkJ4QzdQVU45OXhB?oc=5",
@@ -9,6 +174,17 @@
   "ts": "2026-10-03T14:31",
   "s": "한국타이어가 뉘르부르크링 레이스에서 완주율 51%의 험난한 조건 속에 세 번째로 도전했다.",
   "p": "타이어 업체의 극한 성능 테스트 참여는 제품 신뢰성 검증과 브랜드 가치 상승에 기여할 수 있다."
+ },
+ {
+  "c": "tire",
+  "o": "Hunter adds Bosch remote diagnostics to ADASLink",
+  "h": "Hunter adds Bosch remote diagnostics to ADASLink",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNT25MV0lVMXhOV2FMMHhXdEExSVZwNXU0bjVPajg4SUlZcERycGQtQUhqM0pRMmpFTFg2Y1I2ZHlJRUNnS24tdS1hcE9mSkwwZzJjWUJEM2FNWm92eHRXX1RQS3Y5ejAxTGdqbE9PRC1pTVVkUk5oc0lWZWUwZl93aE9wWmRKeUNYSkxj?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-03T12:59",
+  "s": "Hunter가 Bosch의 원격 진단 기술을 ADASLink에 추가했다.",
+  "p": "타이어 진단 및 정렬 서비스의 디지털화 추세가 확대되고 있음을 시사한다."
  },
  {
   "c": "car",
@@ -715,6 +891,17 @@
   "p": "주요 선진국 시장의 부진이 글로벌 완성차업체의 실적 전망에 영향을 미치고 있는 것으로 보인다."
  },
  {
+  "c": "tire",
+  "o": "GT Radial Clinches Formula DRIFT Tire Cup Championship",
+  "h": "GT Radial Clinches Formula DRIFT Tire Cup Championship",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdXM0VHFCb2tqTTZ3allsVGV5bkhMaTFudDhONWZwblVUencwLTFIbXRJRVdtMnlMTmRsN1VESl9idTVTVjBjRFUwbEJ0MUpObmJ2MFZ5M2FGNF9FWnIydXcxQ2wyVTNVYUw5eUhGZm1PSTZjUzZuZXJvYjZtUzhobGVFNmlWdVRXekY2MHd6OGFaY2VIRUdKaGxMTkJzLVM2Q3U1YThJLWlOWWFCUXUxU25aRExFMGpNRzg4Q3RyRQ?oc=5",
+  "src": "Modern Tire Dealer",
+  "r": "global",
+  "ts": "2026-10-02T18:16",
+  "s": "GT Radial이 Formula DRIFT 타이어 컵 챔피언십에서 우승했다.",
+  "p": "고성능 레이싱 타이어 분야에서의 기술력과 브랜드 인지도 상승을 의미할 수 있다."
+ },
+ {
   "c": "car",
   "o": "현대차·기아, 美 3분기 첫 50만대… 하이브리드 견인",
   "h": "현대차·기아, 美 3분기 첫 50만대… 하이브리드 견인",
@@ -922,6 +1109,17 @@
   "ts": "2026-10-02T16:09",
   "s": "중견 완성차 3사가 플랫폼부터 공동개발까지 중국 기술을 활용하고 있다.",
   "p": "국내 완성차업체의 중국 기술 협력 확대는 원가 절감 및 개발 속도 가속화 전략의 표현으로 보일 수 있다."
+ },
+ {
+  "c": "tire",
+  "o": "Tireco's Milestar Tires Endure 1,000+ Miles Off-Road",
+  "h": "Tireco's Milestar Tires Endure 1,000+ Miles Off-Road",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmt2ZHl1elR0NUZlRHQtU1MweHRESFNjMGFFZlZpRGtOckw0cmNvWHotYThBcmJWX0FEamo2eTlsY3h1ZGxZc0wxdVQzT0plcEtHdVgza2tnOUJmc2syTDZSS05yeDFwbUxUMl9nWjdzeUt4U3lmN2p1YVY2X3hGenZZREl6d0dqS3o5c3Axc1FUOXhTd250U2hTVVN3M3NKbUg3RzhBWHlNMVhLMXpnVEFVZmJGdlZF?oc=5",
+  "src": "Modern Tire Dealer",
+  "r": "global",
+  "ts": "2026-10-02T16:00",
+  "s": "Tireco의 Milestar 타이어가 1,000마일 이상의 오프로드 주행을 견뎌냈다.",
+  "p": "극한 환경에서의 타이어 내구성 성능이 입증되면서 제품 신뢰도 강화에 기여할 수 있다."
  },
  {
   "c": "part",
