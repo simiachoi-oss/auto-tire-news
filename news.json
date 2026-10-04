@@ -1,5 +1,203 @@
 [
  {
+  "c": "trade",
+  "o": "UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says",
+  "h": "UK Expected to Follow EU With Tariffs on Chinese EVs, Times Says",
+  "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMVRFZ2liSUUtX0ctTU1RbzA3V0ZKRU0wZ1lUUXh5bmp5ODljRVJwb2NmUHdHd2lyZEtIQVZFclVHWm9URzg5WGJzd3B5eEVkSi11WlFBQk1mYWVCVl9KTmdiSjI2UHBXOXgwSEdTS3ZLVzlscVJ5TzU3dlpLY2U3VE9vbXRzMmRwRmNYb2JsYmR0Y2hEMGhNcEtVQkFwTDBWWmZWcnJYdzJwZ0tqWmNyRWk3Zk4?oc=5",
+  "src": "Bloomberg",
+  "r": "global",
+  "ts": "2026-10-05T06:22",
+  "s": "영국이 EU를 따라 중국 전기차에 관세를 부과할 것으로 예상된다.",
+  "p": "중국 전기차에 대한 관세 정책이 주요 선진국으로 확산될 가능성을 시사한다."
+ },
+ {
+  "c": "car",
+  "o": "판매부진 현대차, 신차 투입 반등 노린다",
+  "h": "판매부진 현대차, 신차 투입 반등 노린다",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50Z0lfNE5VbGMyVm1BWll4TTJONldmRHFvOHF2ekxjMklmNGFIa0JJY3FfblF1bFRDQjVWT1NBNlBHZDNaUWVaLTNFMGF2Nzg?oc=5",
+  "src": "v.daum.net",
+  "r": "kr",
+  "ts": "2026-10-05T06:05",
+  "s": "판매 부진을 겪고 있는 현대차가 신차 투입으로 판매량 반등을 노리고 있다.",
+  "p": "신차 라인업 강화가 현대차의 시장 점유율 회복 전략의 핵심이 되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "PHEV 효율 가르는 충전 환경…현대차·기아, HEV·EREV로 선택지 넓힌다",
+  "h": "PHEV 효율 가르는 충전 환경…현대차·기아, HEV·EREV로 선택지 넓힌다",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE02TGExbl9vcktCVHJQc3JDd1RYVE0tYnp4TzFDTDdUVHFTbWw0Uk8wUWFVbVZWaTI5RF95dlViem5BNjdVcEdPTUt1Z2hXNUE?oc=5",
+  "src": "v.daum.net",
+  "r": "kr",
+  "ts": "2026-10-05T06:02",
+  "s": "PHEV의 효율이 충전 환경에 따라 결정되며, 현대차와 기아가 HEV와 EREV로 소비자의 선택지를 넓히고 있다.",
+  "p": "충전 인프라 환경에 따른 파워트레인 다변화 전략이 완성차 업체들의 경쟁 방식으로 부상하고 있다."
+ },
+ {
+  "c": "car",
+  "o": "'싼타페' 부분변경 모델 12월 출시 가능성, 확 달라진 디자인으로 현대차 SUV 자존심 되찾는다",
+  "h": "'싼타페' 부분변경 모델 12월 출시 가능성, 확 달라진 디자인으로 현대차 SUV 자존심 되찾는다",
+  "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1iNFFGSVotZThGYUtxd0I5N25Ud1RRMXhXZ0xJREl4djhVNG5pRnJOdFB5MzhGME1Nb0JrTUpQREhFYXZHaFprMjdhLXAzTWRaYV8xQzFJZkk0WjM0a2ctclFtTXdyRUdyUGhGQ0dDQk1hYTQ?oc=5",
+  "src": "비즈니스포스트",
+  "r": "kr",
+  "ts": "2026-10-05T06:00",
+  "s": "'싼타페'의 부분변경 모델이 12월 출시될 가능성이 있으며, 디자인 변경을 통해 현대차의 SUV 라인업 경쟁력을 회복하려 하고 있다.",
+  "p": "기존 모델의 리프레시를 통한 시장 대응이 완성차 업체의 판매 전략으로 빠르게 추진되고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "중국, 2030년 전고체 배터리 양산 공식화…지리·니오 동맹 출범",
+  "h": "중국, 2030년 전고체 배터리 양산 공식화…지리·니오 동맹 출범",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Dem5TV09hbFhxdG54UjZWSU5WSnBsMXh0TmtVeFFvWkFEaFZTa0RfQmdpQ2ZQTXRUc3U3UlRMVlVuUDB3MkdONUwwQ3lZU25kSjdLSXoyd3VTMUlRUXdpV29menh3bms?oc=5",
+  "src": "초이스스탁US",
+  "r": "kr",
+  "ts": "2026-10-05T05:59",
+  "s": "중국이 2030년 전고체 배터리 양산을 공식화했으며, 지리와 니오 기업들이 동맹을 출범했다.",
+  "p": "중국의 차세대 배터리 기술 선점이 글로벌 전기차 시장에서 경쟁 우위를 강화할 가능성이 있다."
+ },
+ {
+  "c": "ev",
+  "o": "[단독] 전기차 전환 빨라지면 경제 부담?…“GDP·소비·수출 모두 증가”",
+  "h": "[단독] 전기차 전환 빨라지면 경제 부담?…“GDP·소비·수출 모두 증가”",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CTmVZc2FCOVFmRS0zSF9ka0toRENZY2otOXlvQWg4VEZFNWdyTnQ1d2JCYzR2UUdTTFVtcDhwbVhIQ2ZsYXdkMS1ETzh5Qkk?oc=5",
+  "src": "v.daum.net",
+  "r": "kr",
+  "ts": "2026-10-05T05:06",
+  "s": "전기차 전환이 빨라져도 GDP, 소비, 수출이 모두 증가할 수 있다는 분석이 제시되고 있다.",
+  "p": "전기차 전환의 경제적 긍정 효과가 정책 추진의 근거로 제시되고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "[단독] 전기차 420만대 목표 ‘빨간불’…배출규제 특례에 목표 70% 못 미쳐",
+  "h": "[단독] 전기차 420만대 목표 ‘빨간불’…배출규제 특례에 목표 70% 못 미쳐",
+  "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBiUHJLRE5XMmQ4RlV2ejdKaTctMG9DdlotN0YwMW1WbjdBVm9sZDJPcGpjNTVWYjhoeVRZWno0SjFKdk9KVGc3cjNHeXA1VzA?oc=5",
+  "src": "v.daum.net",
+  "r": "kr",
+  "ts": "2026-10-05T05:06",
+  "s": "전기차 420만 대 목표 달성이 어려운 상황으로, 배출규제 특례로도 목표의 70% 수준에 못 미치고 있다.",
+  "p": "국내 전기차 보급 목표 달성의 현실적 한계가 드러나며 정책 재검토의 필요성이 제기될 수 있다."
+ },
+ {
+  "c": "ev",
+  "o": "러시아서 중국 전기차 인기…우크라 공격에 연료 부족",
+  "h": "러시아서 중국 전기차 인기…우크라 공격에 연료 부족",
+  "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nNGFJTEtWZmRlbGlObzdwSWRFa0JIUnJzclI3ODZhQV82aEdvSEhBN0FWTGRMSEI0WTM3T0pPZUZ6bEtTSEJZWkhLTnZZRFR1Ym9ob2NmNlBmQdIBWEFVX3lxTE50Q1dmTXR3Sjk2d3ZXYkw5Mlo5c3pWdmRtR0VMVTdiOTViTUlHeUo3THZUeUlfNTVyTW5razBxVTllOGhybXlkaDMtd2sxcmdaaUFtM0VlcXQ?oc=5",
+  "src": "아주경제",
+  "r": "kr",
+  "ts": "2026-10-05T05:00",
+  "s": "우크라이나 공격으로 연료 부족이 심화되면서 러시아에서 중국 전기차에 대한 수요가 증가하고 있다.",
+  "p": "에너지 위기 상황에서 전기차의 수요 변화가 지역별로 달라질 수 있음을 보여준다."
+ },
+ {
+  "c": "trade",
+  "o": "미국 車관세의 역설…완성차 웃을 때 부품업계 '비명'",
+  "h": "미국 車관세의 역설…완성차 웃을 때 부품업계 '비명'",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNb0VmSEhsTXhoemVuc0kxMURLWHRJYXJjb2ZqbDNmVGZBand5cjNYSzlxWWNyNDdCR0MzUEhkRjl4SUtWbFFHbFhZc01FdlRsY1BvU2EyNmF0LWJsMUZhazNtUWR4eTVZRVhwOUYzb3J0M3M2bnhQc3U4VVpkZ1dGYk93cDhjeTQ?oc=5",
+  "src": "글로벌이코노믹",
+  "r": "kr",
+  "ts": "2026-10-05T03:30",
+  "s": "미국 자동차 관세 정책의 역설로 완성차 제조사는 이익을 보는 반면 부품업계는 어려움을 겪고 있다.",
+  "p": "글로벌 공급망 구조 속에서 관세 정책이 부품업체와 완성차 업체에 미치는 영향이 상이하다는 점을 드러낸다."
+ },
+ {
+  "c": "car",
+  "o": "中내수 급감에, 현지 생산 車 ‘해외로 밀어내기’ 가속",
+  "h": "中내수 급감에, 현지 생산 車 ‘해외로 밀어내기’ 가속",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOMXJqTnFfdHpLUlNCWjUxQlFZazdFWEFYLWZKeGpLVEplYU9VMUNQRzczU000ZEh4Y243bWhPMjdwaUFaYnNyNnFmVmJmOWxLSXZnbnEzOTVxVzVIS0p0QndIcjlFN2pxNTZzWEI2Z2hiMVM4MkHSAWZBVV95cUxPUXpMR211ZThKYWtlS19PY09FNC1hcFZiTEczR1o0VnpwTWdLRlZhUWVubU5Xa1kwYjBEUEM0MU50cEJtS000WjdRbl9JdjdrSWxYUnlHUlpuQS04dDdLdWhsc0J4cEE?oc=5",
+  "src": "donga.com",
+  "r": "kr",
+  "ts": "2026-10-05T01:40",
+  "s": "중국 내수 판매가 급감하자 현지에서 생산된 자동차를 해외 시장으로 수출하려는 움직임이 가속화되고 있다.",
+  "p": "중국 자동차 기업들의 공격적인 수출 확대가 글로벌 자동차 시장의 경쟁 구도를 재편할 가능성이 있다."
+ },
+ {
+  "c": "tire",
+  "o": "Maxam Adds Non-Marking MS705 NM Solid Skid Steer Tire",
+  "h": "Maxam Adds Non-Marking MS705 NM Solid Skid Steer Tire",
+  "url": "https://s19532.pcdn.co/maxam-non-marking-skid-steer-tire/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-05T01:00",
+  "s": "Maxam이 비마킹 MS705 NM 솔리드 스키드 스티어 타이어를 추가했다.",
+  "p": "특수 용도 타이어 제품 라인업이 확대되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "“영국 9월 판매 1위 충격적” 유럽 안방까지 뚫어버린 SUV",
+  "h": "“영국 9월 판매 1위 충격적” 유럽 안방까지 뚫어버린 SUV",
+  "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VcUxKeFZ3aEl5QzJzcklELV9jSFNzS2w0S2g2QkJTUnFfU09XQzNOSTk0SlRGa0txUWUyLU9RLWJhbzBIM3V6SnQ1MnNPeUpjajRXSFhLZUNuVmNRYldz0gFfQVVfeXFMT1VxTEp4VndoSXlDMnNySUQtX2NIU3NLbDRLaDZCQlNScV9TT1dDM05JOTRKVEZrS3FRZTItT1EtYmFvMEgzdXpKdDUyc095SmNqNFdIWEtlQ25WY1FiV3M?oc=5",
+  "src": "dotkeypress.kr",
+  "r": "kr",
+  "ts": "2026-10-05T00:38",
+  "s": "유럽 시장에까지 진출한 SUV 모델이 영국 9월 판매에서 1위를 차지하며 충격을 주고 있다.",
+  "p": "SUV의 글로벌 확산이 기존 완성차 업체들의 시장 점유에 새로운 위협 요소가 되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "“2028년 3만 대, 노조 멸망급 소식” 현대차 이 갈고 만드는 ‘이것’",
+  "h": "“2028년 3만 대, 노조 멸망급 소식” 현대차 이 갈고 만드는 ‘이것’",
+  "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJOHJpNDUtdHNza3k3RlIyaThHRzQyRERDeklDN09zQWxLUE40WjJZXzRoTWlheFlkbHJ1ZVZzTnZVNDdZRklLTURNVGhCZU1HX2NoM2hsS2pJLWRL0gFiQVVfeXFMTVBSc1VVeWFNMFBVV0FkNXRmdGxnb1NTbl9wOWxKNGlLdDZmb09RTkxvdFQ3S2tSTFZycVQwZGtjOFZHRG1LQ0dSZlg0cDFrV2x6MVAtTEtzQTVmaGpPYXlMTUE?oc=5",
+  "src": "dotkeypress.kr",
+  "r": "kr",
+  "ts": "2026-10-05T00:33",
+  "s": "현대차가 2028년 3만 대 생산을 목표로 하는 신규 제품을 개발 중이며, 노조에서 이를 '노조 멸망급 소식'으로 평가하고 있다.",
+  "p": "현대차의 신규 사업 추진이 국내 노조와의 갈등 요소로 작용할 수 있음을 시사한다."
+ },
+ {
+  "c": "part",
+  "o": "[(주)동보] 60년 자동차 부품 외길, 전동화·로봇으로 성장축 넓힌다",
+  "h": "[(주)동보] 60년 자동차 부품 외길, 전동화·로봇으로 성장축 넓힌다",
+  "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9tMThJYTZnN1VHUmVJTTFEQXQ4S01HSENtM3hpQ0RsSXB2ZUJuOGtGZjRTX1Bid2JBcEdlX042Rl94dmdEWDlLaVdIME5EUEowX1JoM2xabw?oc=5",
+  "src": "technovalue.com",
+  "r": "kr",
+  "ts": "2026-10-05T00:10",
+  "s": "동보가 60년간 자동차 부품 사업을 지속해 온 가운데 전동화와 로봇 사업으로 성장축을 넓히고 있다.",
+  "p": "전통 부품업체의 전동화·로봇화 전환이 업계 생존 전략으로 본격화하고 있다."
+ },
+ {
+  "c": "tire",
+  "o": "F1 바레인 GP 세팡 서킷 경기서 Max Verstappen 역전승, Mercedes 따돌리고 2026 시즌 첫 정상",
+  "h": "F1 바레인 GP 세팡 서킷 경기서 Max Verstappen 역전승, Mercedes 따돌리고 2026 시즌 첫 정상",
+  "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM01lOUNVRFFGWTIxVk1TWnZXN01SRFdEYUlhei1aWXB0Vmd6NzhQbmVmTUFBSG82S2xSVmNCMF9TczU1MTZRZXF5VDFVa1l1NnJrSlZTQlN3WlRqS3QtcjFwelFvMWVlMVp4V0tEbEhoMWRLZkdNWlpKWmJ3NER1X01vbWJNQlNld19taGpjaTgzeVdLRFBkdm1zdEU2LU8zd3pQMlNhTkFURWdPclNwaFQ1bXhiU0w0NkxoWlFaY9IBvwFBVV95cUxPM01lOUNVRFFGWTIxVk1TWnZXN01SRFdEYUlhei1aWXB0Vmd6NzhQbmVmTUFBSG82S2xSVmNCMF9TczU1MTZRZXF5VDFVa1l1NnJrSlZTQlN3WlRqS3QtcjFwelFvMWVlMVp4V0tEbEhoMWRLZkdNWlpKWmJ3NER1X01vbWJNQlNld19taGpjaTgzeVdLRFBkdm1zdEU2LU8zd3pQMlNhTkFURWdPclNwaFQ1bXhiU0w0NkxoWlFaYw?oc=5",
+  "src": "Mix Vale",
+  "r": "kr",
+  "ts": "2026-10-04T22:40",
+  "s": "F1 바레인 GP 세팡 서킷에서 Max Verstappen이 역전승을 거두며 Mercedes를 따돌리고 2026 시즌 첫 정상에 올랐다.",
+  "p": "레이싱 타이어의 성능이 극한의 경기 상황에서 드라이버의 역전 승리에 미치는 영향을 보여주는 사례로 볼 수 있다."
+ },
+ {
+  "c": "tire",
+  "o": "F1 페르스타펜, 바레인GP서 폭우 뚫고 시즌 첫 승…레드불-포드 첫 우승",
+  "h": "F1 페르스타펜, 바레인GP서 폭우 뚫고 시즌 첫 승…레드불-포드 첫 우승",
+  "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVd2lQcGd3UkpWOGp6WllmWEVfRGJ2Y2pEaTlBRzJOc1ZOOXZLUV9peGJYZGVoVXA4bjJTZG5ZeHEwLVppZFE?oc=5",
+  "src": "v.daum.net",
+  "r": "kr",
+  "ts": "2026-10-04T21:52",
+  "s": "F1 페르스타펜이 바레인GP에서 폭우 속 경기를 거쳐 시즌 첫 승리를 거두며 레드불-포드의 첫 우승을 이끌었다.",
+  "p": "악천후 레이싱 조건에서 타이어 그립감과 안정성이 레이싱 성적에 결정적 역할을 하고 있음을 시사한다."
+ },
+ {
+  "c": "car",
+  "o": "With gas-powered vehicles, hybrids and EVs, how can automakers keep costs down?",
+  "h": "With gas-powered vehicles, hybrids and EVs, how can automakers keep costs down?",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZmxCY1kyZy14ZW85ZHBuNE41RktPd0pwYjhqQ1BYSHZmbkZGTEthUmhDakVjWUFvSHpUalV3MmJTd1AyZHBvLW1PRXMwVS1jMFZBSEdwclNVaXR3T0hLejBRTE01ZjdCZzZ2a1QyNm1PQVJOazU4eURia1BULTQ?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-04T19:00",
+  "s": "휘발유 자동차, 하이브리드, 전기차 등 다양한 파워트레인을 갖춘 상황에서 자동차 제조사들이 원가를 절감할 수 있는 방법에 대한 질문.",
+  "p": "다양한 파워트레인 동시 운영에 따른 제조 비용 증가가 자동차 제조사들의 수익성 관리 과제로 대두되고 있을 가능성이 있음."
+ },
+ {
+  "c": "car",
+  "o": "Why GMC is betting on Denali and AT4 to drive sales and sustainable profits",
+  "h": "Why GMC is betting on Denali and AT4 to drive sales and sustainable profits",
+  "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTldrUF83OWF2NFV1cUVvXzlJUzlobGktN25KQVppcE43TGdSeXloZHdkcWNsZkV1R0piZVBxeG1aR1IzNXplcWc4ZzVHSG9yV21jWWtrVFBYQ3RMRWZPMWpBZEthTzl4bzJFRjZNWW9hVWhVZHRsbEp2NFBtNEFnT0ZZeC1acDQ?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-04T19:00",
+  "s": "GMC가 Denali와 AT4 모델에 베팅하여 판매량 증대와 지속 가능한 수익을 추구하고 있다.",
+  "p": "GMC의 프리미엄 SUV 라인업 강화 전략이 브랜드 수익성 개선 및 시장 포지셔닝에 영향을 미칠 수 있을 것으로 보임."
+ },
+ {
   "c": "tire",
   "o": "금호 SLM, 뉘르부르크링 내구시리즈 SP10클래스에 BMW M4 GT4 EVO로 도전",
   "h": "금호 SLM, 뉘르부르크링 내구시리즈 SP10클래스에 BMW M4 GT4 EVO로 도전",
@@ -42,6 +240,17 @@
   "ts": "2026-10-04T10:14",
   "s": "현대차의 주가가 크게 하락했고 판매 부진까지 겹치고 있다.",
   "p": "국내 완성차업체의 경영 악화가 주가와 판매에 동시에 반영되고 있다."
+ },
+ {
+  "c": "trade",
+  "o": "제네시스 미국 질주 이어갈까... 글로벌 경쟁국들 긴장시킨 '한미 담판'",
+  "h": "제네시스 미국 질주 이어갈까... 글로벌 경쟁국들 긴장시킨 '한미 담판'",
+  "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DNlRFcHhuWmtKQ0RYNU1lS1ZDZHVSUVczT3dlOU44XzUwbTY1cXV5NEtsSnlEMXl5eWdKZno0RXJzdHF6SDVLcDlFc1dIeUpHSUMyRzhBVFdDaEQ2QkdvcDAzOXE2YXdaVm90VHBKMGtJbzQ3YzRFc3g0b9IBe0FVX3lxTE1DNlRFcHhuWmtKQ0RYNU1lS1ZDZHVSUVczT3dlOU44XzUwbTY1cXV5NEtsSnlEMXl5eWdKZno0RXJzdHF6SDVLcDlFc1dIeUpHSUMyRzhBVFdDaEQ2QkdvcDAzOXE2YXdaVm90VHBKMGtJbzQ3YzRFc3g0bw?oc=5",
+  "src": "이콘밍글",
+  "r": "kr",
+  "ts": "2026-10-04T10:00",
+  "s": "제네시스의 미국 시장 성공이 글로벌 경쟁사들을 긴장시키는 가운데 한미 간 무역 협상이 진행 중이다.",
+  "p": "한국 프리미엄 자동차의 미국 시장 입지 강화와 관련 국가 간 통상 협상이 연결되어 있는 것으로 보인다."
  },
  {
   "c": "car",
@@ -416,6 +625,17 @@
   "ts": "2026-10-03T04:20",
   "s": "ATD가 'Road to SEMA' 프로그램을 출범했다.",
   "p": "타이어 및 자동차 부품 유통업계의 주요 행사 연계 프로그램으로 시장 활성화를 도모하는 것으로 보인다."
+ },
+ {
+  "c": "tire",
+  "o": "GreatWater Adds 20 Shops in Q3 of 2026",
+  "h": "GreatWater Adds 20 Shops in Q3 of 2026",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNlZJUG0tbi1vb3BNSHlvZVBMQUJjeEFiSnJvcTVUQ2ZYMURPWVl1WVhqd1h3dDF0d243QjFvTVdwT3U2cFNjWGFFbDZiS3ZCZ0kxaFpIN1Q0QmwxVExLYkRiMjM2NTEzNS00cExjZlJLYkJ2cEZGdVVRV0E1LVExYkJ1bTl0aEo2MjNxd1g2T1VpSHVIVGpDU2xXeEdRSFM2Rl9DNUpmZ2JlUQ?oc=5",
+  "src": "Modern Tire Dealer",
+  "r": "global",
+  "ts": "2026-10-03T04:10",
+  "s": "GreatWater가 2026년 3분기에 20개의 매장을 추가했다.",
+  "p": "타이어 유통업체의 점포 확장이 진행되고 있다."
  },
  {
   "c": "car",
