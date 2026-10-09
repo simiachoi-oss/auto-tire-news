@@ -1,5 +1,368 @@
 [
  {
+  "c": "ev",
+  "o": "유럽 최대 자동차쇼 막오른다…친환경차 패권 경쟁 본격 돌입 [파리모터쇼 2026]",
+  "h": "유럽 최대 자동차쇼 막오른다…친환경차 패권 경쟁 본격 돌입 [파리모터쇼 2026]",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fdVlzRjgtMmZSRkdHamtzVHFxYUFFMENqOVlWbnZIeFlLeWk1X01Zd3Rrb0h3RzBfb3J3aDBmTUVvRWlhcHBSUEVydVFiUXEydXlTamFPM0NBRmY4NDZUY9IBeEFVX3lxTE1qTFBFTHE3bHdTOFptTEFJY3lfU3lQTjRMT3gyWDROMFRNNkNyajJ1OHlKNzd0TTI2YVhQajZuT3R1cmJMMnQzLWNmb2RQek5RcUlvRUpiczhYczBiNzJlNkFnWDU5TUVrQ2tRU1JaQ1pjeEVhUWh5dg?oc=5",
+  "src": "뉴시스",
+  "r": "kr",
+  "ts": "2026-10-10T06:00",
+  "s": "2026년 파리모터쇼에서 유럽 최대 자동차쇼가 개최되며 친환경차의 패권 경쟁이 본격화된다",
+  "p": "주요 국제 자동차쇼에서 전기차·친환경차 중심의 산업 재편이 심화될 것으로 예상"
+ },
+ {
+  "c": "car",
+  "o": "First Shift: Trump rollback on fuel economy and emissions",
+  "h": "First Shift: Trump rollback on fuel economy and emissions",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0RhNjBVU1lvMlBrZWk3MDZOXzI4TVlJSDdMLTR3eWdoN2F2Vzd1ZWNCZTZHVEEtZlhpMndTY0U5MVQwRl9neXRFNFBOSUREdE1HT3NMLTRpc053UXpyZVRqQ0tHMWVZSEY2d2FYOUtoNFREcm55TTJnTVA0aW1xa0NLb3B6WFFGOUdtT1g4MEhBZw?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-10T04:43",
+  "s": "트럼프가 연비 및 배출가스 규제를 후퇴시키고 있습니다.",
+  "p": "미국의 자동차 규제 정책 변화로 완성차 산업의 개발 전략에 영향을 미칠 수 있을 것으로 보입니다."
+ },
+ {
+  "c": "ev",
+  "o": "유가 불안에 美 전기차 시장 회복세…판매 호조·재고 정상화",
+  "h": "유가 불안에 美 전기차 시장 회복세…판매 호조·재고 정상화",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBub0daSlFwbHc3dWp5dF9ycDc2NmVjWmRGV200ejd2YWc0Z0dZaVlEdWZabkJvOUlkVzJENEpXVWxNZnliS2hnV2lHSHBDamdBZE0td250NGMyQi1ETExqMW1ZNA?oc=5",
+  "src": "더구루",
+  "r": "kr",
+  "ts": "2026-10-10T04:17",
+  "s": "유가 불안 속에서도 미국 전기차 시장이 회복세를 보이며 판매가 호조이고 재고가 정상화되고 있다",
+  "p": "전기차 시장의 수급 균형 개선으로 업계의 구조적 안정성이 향상되는 신호로 해석 가능"
+ },
+ {
+  "c": "car",
+  "o": "Daily 5 report for Oct. 9: FTC drops Asbury case, but dealers aren’t off the hook",
+  "h": "Daily 5 report for Oct. 9: FTC drops Asbury case, but dealers aren’t off the hook",
+  "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOT3R3THkxanBqVnltWFVFanVkb1A3SUw2eEZTRGpVb3c5YllHV251Z1E4N2psdktNV0dLeVhjTmpxTmQyS283VHpZRU1tUTZDT0FrNjQ1SjhyYndaV3NvYlRaTDVjMmdnbFhSSUIwQ1lOZ25ZS1ljNXZUUUF5cGpiR1puZ2syMnBqYTdpd2wtaGxMMmR5UTNkSGI4emxHeXU5R2M4ajN4VmxpSVdP?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-10T04:00",
+  "s": "10월 9일 일일 5대 뉴스: FTC가 애즈버리 사건을 종료했지만 딜러들의 문제는 계속되고 있습니다.",
+  "p": "자동차 딜러 규제 및 경쟁 문제가 계속 이슈가 되고 있음을 시사합니다."
+ },
+ {
+  "c": "tire",
+  "o": "At 100, VIP Tires doesn’t plan to slow down",
+  "h": "At 100, VIP Tires doesn’t plan to slow down",
+  "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EaGlzOGM4VktOOVJVUGE1TW96ZFpVb01IandiNUxiYnJsQ3hqZlctZVE1S0RXeFhQQS16WWh4NVAyTUZEMjlSTmc4a3FhSUtLeUVVaWxRSmhlTExzaHBiakZ0RWFUemVUcjlF?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-10T03:57",
+  "s": "VIP Tires가 100주년을 맞아 계속 성장할 계획을 밝혔다.",
+  "p": "장수 타이어 기업이 시장에서의 입지를 지속적으로 확대하려는 의지를 드러낸다."
+ },
+ {
+  "c": "tire",
+  "o": "Falken adds four sizes to Wildpeak portfolio",
+  "h": "Falken adds four sizes to Wildpeak portfolio",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTZETnIxVXJLNW5GMlpkNXlNXzBERmlWamFyTXNfS1VWNEdHOVp2bWVNM2tCajNCZGtGOF9ZeWZXWlJOVnR6anJQVnJzNFRyNjU2RTZ0MGFCNGx1b2ZxdEp4RXdFZGE4ekd3am5zSXBBQlpwaFRmcTVfTUFjXzBVdTE3Y1dJVmh0MTZfbzdsWQ?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-10T03:55",
+  "s": "Falken이 Wildpeak 타이어 라인에 4가지 사이즈를 추가했다.",
+  "p": "타이어 제조사들이 제품 포트폴리오를 확대하여 시장 수요에 대응하고 있다."
+ },
+ {
+  "c": "tire",
+  "o": "DTNA Adds Sizes to Wildpeak Tire Line",
+  "h": "DTNA Adds Sizes to Wildpeak Tire Line",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZGc1WGFqb0J0ektCc0Y1eWVRSkpIQjE1X0p2d3ZteXJ3RUtWLW0tbG1LZkJsb0IwOWxtUFJfM05tLXBqUUR6Wm5OaVp6U25tQkRqQWZMNmhqa3JZakFEbV9JNUdDbklkRUJKakxCYl9jaXFTTXNNVUQ2NTM2UDRkc25YdjhuN2Q5b05MQ0RRcUhwUnZIVG1NV2lPSkd4eWdLTlBubTJ3eW9wczRDX3daN3VMYw?oc=5",
+  "src": "Modern Tire Dealer",
+  "r": "global",
+  "ts": "2026-10-10T03:55",
+  "s": "DTNA가 Wildpeak 타이어 라인에 사이즈를 추가했다.",
+  "p": "주요 타이어 유통사들이 인기 제품 라인의 다양성을 확대하여 시장 점유율을 강화하고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "\"잘 팔리는데 왜 할인까지?\"... 영국 전기차, 신기록 뒤에 남은 압박",
+  "h": "\"잘 팔리는데 왜 할인까지?\"... 영국 전기차, 신기록 뒤에 남은 압박",
+  "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMaDA3ZFBzSEI0a3ZJSTE4THhqNWhNTFRmd3dmRmtud0F3d0ZVeEI0YkVlbjlmbXdwQ3FyRl9QTG1Gb3RYakk1WVBWWmtrcEd5OC1rYTNDYVRUNl9yZElKOG9qVXpiZHJ0ci1OdmhtWHA?oc=5",
+  "src": "오토트리뷴",
+  "r": "kr",
+  "ts": "2026-10-10T03:49",
+  "s": "영국 전기차 시장이 신기록을 세웠지만 할인 압박이 계속되고 있는 상황.",
+  "p": "전기차 수요 증가에도 가격 경쟁력 유지의 어려움이 업계 과제로 보인다."
+ },
+ {
+  "c": "car",
+  "o": "5 stories shaping Canadian auto this week: Nissan’s return, China’s dealer need, and more",
+  "h": "5 stories shaping Canadian auto this week: Nissan’s return, China’s dealer need, and more",
+  "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUGplM25QckdBV09ab3hOX0ZDM05IdlRBYm5VNGhnNWM0cHJabGFkcFJOS0lWVlh1ek5aMFBBU00wMlFHdVp1WXczN2hHdEpJSHRoOUh5Tmg4cGk3bUdZazE1SXVpbHZ4dmZibENxRDV6ZlBDalR1cWNWcVFsbTBGR3IxMW13a25DU1hkZVl6MHBYNGpST1pv?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-10T03:45",
+  "s": "캐나다 자동차 업계를 형성하는 5가지 소식: 닛산의 복귀, 중국의 딜러 수요 등이 있습니다.",
+  "p": "캐나다 자동차 시장에서 닛산의 시장 재진입 및 중국 제조사의 유통 확대 움직임이 주목받고 있습니다."
+ },
+ {
+  "c": "car",
+  "o": "What DIY repair boom means for dealers; Chevy invests in its small crossovers",
+  "h": "What DIY repair boom means for dealers; Chevy invests in its small crossovers",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaVM0UkVsdU0zQUJRSGVMRkdJRGdMTUJLZ1lSeTNxVWNTOGc0ZEh0X00wX0dlYXFmRGRxQkg5eTJ2LUZGOHpoY1NDMkF3TzU0emxtUkl4N0tMVmpwckhuOUtIdjlQSmRhbmZaejV4ZnF1dnZ0WjVmcndyTW5wN0F0YWZMVlMtYlBwbHlrV25ZWmJmY0EzQW5vOEVuQVg?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-10T03:35",
+  "s": "DIY 수리 붐이 딜러들에게 미치는 영향과 시보레가 소형 크로스오버에 투자하는 내용입니다.",
+  "p": "소비자의 자동차 직접 정비 증가 추세와 완성차 업체의 소형 차량 라인업 강화 전략이 주목됩니다."
+ },
+ {
+  "c": "part",
+  "o": "잉크젯 착색제 시장 2035년 전망: 자동차 디지털 인쇄 수요가 성장 가속 - 뉴스 및 통계",
+  "h": "잉크젯 착색제 시장 2035년 전망: 자동차 디지털 인쇄 수요가 성장 가속 - 뉴스 및 통계",
+  "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ3hyNGNKTU5rWWxGa0NSSnhNT2RkSThsbDlxOThubENyWDVkVTdwS1lyOUhRbkFkcDVfSmctY0VLbGFpX1ZzLXZYSDBLM2xmOUdwSG11MzZldndBNmEtUU5ZdkxoWU5QMlBZNDZOVkZSLWdBQXNpY3l0ejdaOEo2UkRTcUR1ZUtpY2ZYeDU5OTdDUmUzbmo4bmgtWGtFNklnSkRkUnNBMlhQdUFCcF81bkZaUW9wcHZjT1llVVJFalRGcnpzdGFmMnRrNDVWYjJ2cWJITQ?oc=5",
+  "src": "IndexBox",
+  "r": "kr",
+  "ts": "2026-10-10T03:11",
+  "s": "자동차 디지털 인쇄 수요로 인한 잉크젯 착색제 시장의 2035년 전망",
+  "p": "자동차 생산 공정의 디지털화 추세가 부품·소재 산업에 새로운 수요를 창출하는 기회 제시"
+ },
+ {
+  "c": "tire",
+  "o": "빗길에선 더 위험한 마모 타이어…제동거리 1.7배 늘어[짤막영상]",
+  "h": "빗길에선 더 위험한 마모 타이어…제동거리 1.7배 늘어[짤막영상]",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MTzI2dF9jR3UxTkpkZGcxelFPcURpMjBuN1oyVHBsRmVZMTZOcUItOUhkTkxNRWRTdXdlRWc2d055bWt0b190ZnhlOVBINUtaR2lmUEhYTjFCSHJWREpEVDZZd0lpaGZsazJJRjNTS05QbHVPazFEMNIBeEFVX3lxTE5MTzI2dF9jR3UxTkpkZGcxelFPcURpMjBuN1oyVHBsRmVZMTZOcUItOUhkTkxNRWRTdXdlRWc2d055bWt0b190ZnhlOVBINUtaR2lmUEhYTjFCSHJWREpEVDZZd0lpaGZsazJJRjNTS05QbHVPazFEMA?oc=5",
+  "src": "뉴시스",
+  "r": "kr",
+  "ts": "2026-10-10T03:05",
+  "s": "마모된 타이어가 빗길 제동거리를 크게 늘려 안전성을 떨어뜨린다는 내용",
+  "p": "타이어 상태가 주행 안전에 중요한 영향을 미치는 실증 자료로 제품 관리의 중요성 부각"
+ },
+ {
+  "c": "tire",
+  "o": "Petlas celebrates 50 years and looks forward to future growth",
+  "h": "Petlas celebrates 50 years and looks forward to future growth",
+  "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGRReXByTVVvakctMGdnZzFFRjBRSGs3djNUamJjenZLSmFGeHpyS1BuVkRKMmdEaHZIejhHdlU4M2NuZG5hWndERjFCRlFaR2ZMV3Z1aDdnanl6R01adlE5TzljcEYwUDEya1NGR2trdnZobEo0SmRFQ19aQVFzM0lqU1VTT3E0VENLUHIwTzhRaVlZdVd5MXpMWUw?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-10T02:07",
+  "s": "Petlas가 50주년을 맞아 미래 성장을 기대하고 있다.",
+  "p": "중견 타이어 제조사의 장기적 사업 지속성과 시장 확대 의지를 보여준다."
+ },
+ {
+  "c": "trade",
+  "o": "China, EU strike deal to halve Chinese hybrid exports",
+  "h": "China, EU strike deal to halve Chinese hybrid exports",
+  "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTHg5eDd4SHlldjU0OVlpTEVOaHB0QVpIOGhaTm9CSVN2WmE2RUtobThWUkpGM1NrMFVxeVFKMnctbEF4aV9JQnZIT0RjaXlWVHBhb3Noam5HemZnd0ZRTy1TSEJjUFljMl9md29ESGFUeVFha29xaWd0a050VjVjV2pFRS1qUWVJVm04SDJJUjRGcXBQUzE3TzhDaV9SWHR6TndZaGhMRUlib0NSekZFenBpUUtuTnZZSy1JekRHaDZoLTA?oc=5",
+  "src": "Reuters",
+  "r": "global",
+  "ts": "2026-10-10T01:58",
+  "s": "중국과 EU가 중국산 하이브리드 수출을 절반으로 줄이는 협상에 합의했습니다.",
+  "p": "중국산 하이브리드 차량의 수출 제한으로 국제 자동차 시장의 경쟁 구도 변화가 예상됩니다."
+ },
+ {
+  "c": "tire",
+  "o": "Dunlop riders dominate Motocross of Nations as Team Belgium claims victory",
+  "h": "Dunlop riders dominate Motocross of Nations as Team Belgium claims victory",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjVnZnVUT240RzJyQlVMWXlaQjVlV1l4ZkZtelRqR0JfVmc0ZnEwRkJ5NXlkTm04TnFpQUsxRUNWV0kxbXdrTmVjOENuTDBMeFlpYTlzbmdWX3dZTktsYmpLSENJdUFwQjkyZlM1WFRHc3ZVZ3NmR0ltSFlPOWhZREhFbENvLTNEUjRIOXZyWlB0dzNpbDVqM0swNjRaTm5GVVVFZEFJVjBwX0dzSkE?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-10T01:31",
+  "s": "Dunlop 타이어를 사용한 라이더들이 모토크로스 나이션스에서 우승하며 벨기에 팀이 승리를 거두었다.",
+  "p": "모토스포츠 분야에서의 타이어 성능 입증이 브랜드 가치 강화에 기여한다."
+ },
+ {
+  "c": "tire",
+  "o": "Delphi to showcase diagnostics and braking campaign at Auto Trade Expo 2026",
+  "h": "Delphi to showcase diagnostics and braking campaign at Auto Trade Expo 2026",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVUwzODRXMlF6ZDZuNmFxTlFnQUktV0lxSGFpMktaQzU4RHRUcFlUZ3VJeUZRRnFZbjNEbTJvMWdIT1hBSzJBaHFtamRjSmNsNE4ta3hCU2FMUUxWVHZZa0NpaUNCQ3Q3ZEpBVFRJMnVpSDdCamxpbTlJVmhINmxkZV9sU2ZBYzNxc2xfVm41clN1N19UQ3VNQ0pnZWJHM3RUb0hnXzR6YjlROFV0Mm9J?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-10T00:37",
+  "s": "Delphi가 2026년 Auto Trade Expo에서 진단 기술과 브레이킹 캠페인을 선보일 예정이다.",
+  "p": "자동차 부품 및 서비스 업체들이 전문 전시회를 통해 신기술을 홍보하고 있다."
+ },
+ {
+  "c": "car",
+  "o": "차체 강성·승차감·정숙성 모두 개선…현대차 신형 투싼에 담긴 기술",
+  "h": "차체 강성·승차감·정숙성 모두 개선…현대차 신형 투싼에 담긴 기술",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9aZXFCa2VJblRpTE51d1NfbWhleXRCYUhhVzBiMkNBTWhDU0VuWndjSm14WVVvcnZud3pqVXZkVnZGT3ZDa3JHRC1CVDF1NnFUSmhZS3NyQUZuU2tZNFhBQ1hTTXpQb0FL?oc=5",
+  "src": "IT타임스",
+  "r": "kr",
+  "ts": "2026-10-10T00:27",
+  "s": "현대차 신형 투싼의 차체 강성, 승차감, 정숙성이 개선되었다",
+  "p": "완성차의 기술 개선으로 제품 경쟁력 강화를 보여주는 사례"
+ },
+ {
+  "c": "ev",
+  "o": "지리자동차의 10월 프로모션: 휘발유 차량 등록비 지원, 전기차 구매 시 무료 충전기 제공.",
+  "h": "지리자동차의 10월 프로모션: 휘발유 차량 등록비 지원, 전기차 구매 시 무료 충전기 제공.",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGJnRXgxbklwQWJYbTVBSFJLNEZuSFFLeWZFYmcwaTNYV1RJZXVHSXVfMjJnVFJNVU9WRGlkWi1GSGM5LWtfRDBRQy1Ka0pob1FrVGxOczhHQi12bEZWbmdzcXJPNnUxdG5pcEFJeVY1UExEOXFXSHdMamc0Yy1xcUJwNzZFbGs1ZDNmbFpMRjRmWWI4VnNjVEgxZjgzak0z?oc=5",
+  "src": "Vietnam.vn",
+  "r": "kr",
+  "ts": "2026-10-10T00:08",
+  "s": "지리자동차가 10월에 휘발유 차량 등록비 지원과 전기차 구매 시 무료 충전기 제공 프로모션을 실시.",
+  "p": "제조사들이 전기차 판매 촉진을 위해 다양한 인센티브 전략을 펼치고 있음을 시사한다."
+ },
+ {
+  "c": "trade",
+  "o": "중국산 자동차 막으려던 EU, 중국과 합의…한국차 경쟁구도 변수",
+  "h": "중국산 자동차 막으려던 EU, 중국과 합의…한국차 경쟁구도 변수",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE96WVBrX1p6TC1MT2cweUVja2dMaDdKcC04WjlGMnhfVzJ4SVY0X3JQTDZmWHc2TEFnSDZUb3AyUWx4WnNzWDR0NG5DZkkyWnQxN3c3NVctQkZkNy1EeHZpUUZ2eDJmZVNKZ3g5NXFxZUFfUQ?oc=5",
+  "src": "TopStarNews",
+  "r": "kr",
+  "ts": "2026-10-09T23:41",
+  "s": "중국산 자동차 규제를 추진하던 EU가 중국과 합의를 도출했으며 이는 한국차의 경쟁 구도에 영향을 줄 수 있다",
+  "p": "국제 통상 환경의 변화가 한국 자동차 산업의 시장 경쟁 지형을 재편할 수 있는 요인"
+ },
+ {
+  "c": "tire",
+  "o": "VMI opens service facility in León, Mexico",
+  "h": "VMI opens service facility in León, Mexico",
+  "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSGx1cnFLNnctLWw1eF91SUpHcWRNVXNKRkRyS3phUkwxSU5YSzZlRnhTZElXdXdkOEQ3aVFYeHNDOGdqcWpid1I2N1RQLTA0TFYza1Z4UVlqM3BpUkgxd1YyT013VmRId2N3QWU1UHlweDZCN1Z4Vng3ZUZQQnlNRTFn?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-09T23:21",
+  "s": "VMI가 멕시코 레온에 서비스 시설을 개설했다.",
+  "p": "타이어 관련 기업들의 지역 확장이 진행 중이며 라틴 아메리카 시장 강화 추세이다."
+ },
+ {
+  "c": "tire",
+  "o": "Autel In-Shop: How Scotty’s Automotive Delivers Dealer-Level Diagnostics",
+  "h": "Autel In-Shop: How Scotty’s Automotive Delivers Dealer-Level Diagnostics",
+  "url": "https://s19532.pcdn.co/autel-scottys-automotive-dealer-diagnostics/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-09T23:00",
+  "s": "Autel In-Shop 솔루션을 통해 Scotty's Automotive이 딜러 수준의 진단 기능을 제공하고 있다.",
+  "p": "독립 정비점들이 고급 진단 기술을 활용하여 서비스 경쟁력을 높이고 있다."
+ },
+ {
+  "c": "tire",
+  "o": "Sailun and Linglong amongst Asia’s 500 Most Influential Brands 2026",
+  "h": "Sailun and Linglong amongst Asia’s 500 Most Influential Brands 2026",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFJ0d1QtdXlvSjBTSnZYanFSblFKWkZfeFA0eTZpV2hRR1FJQnJGb2ljRTNqUExSVmx5aXQxNnpxd205MnFEWVZsLWRacmZKS0ZlMzBYQUtfNjExMlBxMk5kX082TFhJc001SUNsYUpZei1WdjFCV2JSZEdjUUxHWlhvejhYRThRRU9QMHZRSTdITmFyWkwydG83Z2RMYk5aU1Zv?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-09T22:56",
+  "s": "Sailun과 Linglong이 아시아 500대 영향력 있는 브랜드 2026에 선정되었다.",
+  "p": "아시아 타이어 브랜드들의 글로벌 영향력과 경쟁력이 증가하고 있음을 보여준다."
+ },
+ {
+  "c": "tire",
+  "o": "FixMyCar partners with PayItMonthly",
+  "h": "FixMyCar partners with PayItMonthly",
+  "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mTXpYNXctN1Fkb1dGdS1PUFhBYzRPaGt5bkFhTEpONVExYm9ScWdoYmNoTVRDVmRYZE9Ed3RoYnZkcVhINzJpQkVsRTJzZl9DVE5nTEVKU3gxWXdtMVVPQUlGTTNBWHNFSGxTOVZGMXpLZEpQaUoxTEJn?oc=5",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-09T22:56",
+  "s": "FixMyCar가 PayItMonthly와 파트너십을 체결했다.",
+  "p": "자동차 정비 서비스 분야에서 결제 옵션 다양화를 통한 고객 접근성 강화가 이루어지고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "“전기차 이제 끝물인가”… 세계 1위 BYD도 흔들리는 진짜 이유",
+  "h": "“전기차 이제 끝물인가”… 세계 1위 BYD도 흔들리는 진짜 이유",
+  "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16ODNZTDM4Q2hzTTAwUkFOdGMwVjVDSVJMSUZ5WUVrTm94RHAwUk9rT1ppcnBWbElYVnBmLVZmODBvbFNBanRfNGFFZnpTYUpK0gFWQVVfeXFMTjBnYmFEQ09FNC1CSE95NDFTd3lqSktpdTRRa3QwNVVMWnJIZnp0U3VvVlRqVzlYeHZMc2FDSnVwVG90V1Ntc01jNmhjb3JkRERuX0JhTlE?oc=5",
+  "src": "네이트뷰",
+  "r": "kr",
+  "ts": "2026-10-09T22:51",
+  "s": "세계 1위 전기차 업체 BYD도 시장 변화의 영향을 받고 있는 상황.",
+  "p": "글로벌 전기차 시장의 성장세가 둔화되고 있을 가능성이 제기된다."
+ },
+ {
+  "c": "part",
+  "o": "2035년 MEMS 센서 시장 전망: 자동차 안전 규제와 산업용 사물인터넷이 성장 견인 - 뉴스 및 통계",
+  "h": "2035년 MEMS 센서 시장 전망: 자동차 안전 규제와 산업용 사물인터넷이 성장 견인 - 뉴스 및 통계",
+  "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOXVOWm02UFdvX1FDSVZwRHg3czkzSEdnMkl0TGdrcElTbUJZRHN6cEFYMDY5d1BBQXJhYjJNWm0xSHZCZGxneXUwTWxqajZJVjZSYXpaMGZVN0ZkOVhpUWtlVm53NTY5UmcwTEZydjc3X1NPdjZDeGRodmFJMXoya1p4dm5pbHYxN1g2WG5tWEYxanFMWFRvY0Y5Z0JCUUxBSkdfZENfZDMxNmxoUnhZT1dPSmpiTkJlY3dObUVSemIzVjcxSUlCdFhFb3lGdVVsSm5r?oc=5",
+  "src": "IndexBox",
+  "r": "kr",
+  "ts": "2026-10-09T22:46",
+  "s": "자동차 안전 규제와 산업용 사물인터넷이 2035년 MEMS 센서 시장 성장을 견인할 것으로 전망",
+  "p": "규제 강화와 디지털 전환이 자동차 부품 수요를 증가시키는 구조적 성장 요인으로 작용 가능"
+ },
+ {
+  "c": "tire",
+  "o": "금호타이어 곡성 공장서 화재...인명피해 없이 완진",
+  "h": "금호타이어 곡성 공장서 화재...인명피해 없이 완진",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE05aVlSWlFXbjh5VldWaUphb2Y4eUQtbGRFN05LVTN2OGQ5YzlEWEdEUXZlNm1tenl2RnBVZVhxRXJxV2dvZDZCbEhLbGZ0S3lGbzlPVzV2eGlVZ0NTUTdxVA?oc=5",
+  "src": "KBC광주방송",
+  "r": "kr",
+  "ts": "2026-10-09T21:32",
+  "s": "금호타이어 곡성 공장에서 화재가 발생했으나 인명피해는 없었다",
+  "p": "타이어 제조사의 생산 거점에서 발생한 사건으로 생산 차질 가능성 검토 필요"
+ },
+ {
+  "c": "car",
+  "o": "Honda launches production of new City Hatchback in Malaysia",
+  "h": "Honda launches production of new City Hatchback in Malaysia",
+  "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcG5iSmRQRjA3RUphOWYxR05lbGdCYWZsVXhDbjhwTFFBUDhxNVk2enZROWZwOEw3dmRILXA3X2hyeVJ2ekVJMHAtYmlXd1VXeHNOQzg2NzB2SXBzWEU5U2czYjJzRDZNcy1HQS12NmFKVUhkemRsZUJ0bWRQZktjb1RqSS1CS0pLMlpkZ3pUeC1Id0FpM0E?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-09T20:07",
+  "s": "혼다가 말레이시아에서 새로운 City Hatchback의 생산을 시작했습니다.",
+  "p": "혼다가 동남아 시장에서 소형 해치백 모델의 현지 생산을 확대하는 전략으로 보입니다."
+ },
+ {
+  "c": "ev",
+  "o": "Indonesia exports its first EV batteries",
+  "h": "Indonesia exports its first EV batteries",
+  "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5zVTk2VjJPQTg2cUdWTG45cFJjTktyTHFaYmIxanBOX05pOENMODBrQkVsR1BVdktGYU9iTGF6SHVRc21tQnRZQTFiVm5KQS1PbW1RU1dIRVUtdFUwNGhkWUpjRjdMNUlyZzViaW1iam5EZ0ZTcHJYSXVVZTI?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-09T20:07",
+  "s": "인도네시아가 처음으로 전기차 배터리를 수출했습니다.",
+  "p": "인도네시아의 EV 배터리 수출 시작이 동남아시아의 배터리 공급망 확대 가능성을 시사합니다."
+ },
+ {
+  "c": "tire",
+  "o": "Double Coin’s REM-2 Delivers Traction in Demanding Job-Site Conditions",
+  "h": "Double Coin’s REM-2 Delivers Traction in Demanding Job-Site Conditions",
+  "url": "https://www.tirereview.com/double-coin-rem-2/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-09T20:00",
+  "s": "Double Coin의 REM-2 타이어가 어려운 작업 환경에서 우수한 그립력을 제공한다.",
+  "p": "상용 타이어 제품의 성능 강화가 특수 용도 시장에서의 경쟁력 향상을 의미한다."
+ },
+ {
+  "c": "car",
+  "o": "Nissan launches Frontier Pro in Mexico, first outside China",
+  "h": "Nissan launches Frontier Pro in Mexico, first outside China",
+  "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcU1KT0J2QWVBR3FBS2o5eWlTMUR2VUtrbzVRS3V3bEUyWmN2c1hyQ0RsdEZDLXY0RU94YkxaWndZMGdheXdWeDBteGdpUzVMa1VmSmN2d3EwNWwtRVJRb3N5YUlqaDR5VndIQWJZX2VFNmNJbGc?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-09T19:57",
+  "s": "닛산이 멕시코에서 Frontier Pro를 출시했으며, 이는 중국 외 지역에서의 첫 출시입니다.",
+  "p": "닛산의 멕시코 출시는 중국 외 시장으로의 모델 확대 전략을 보여줍니다."
+ },
+ {
+  "c": "car",
+  "o": "Volkswagen shows new ID. Tiguan",
+  "h": "Volkswagen shows new ID. Tiguan",
+  "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE02RF8zUk43YlpyOHVGQzNjTGNJQTJtZFI1VUZRM2hmUXQ3WDZRaUpwRkNyMUpmN3g0VGppUk9VTWNMMkJXOWh0ZTg2ZHNKMzJSSVJWLVlPU0txLWZrWHMxUmtjS3dsVGtJMzh4ZTNlNA?oc=5",
+  "src": "Just Auto",
+  "r": "global",
+  "ts": "2026-10-09T19:45",
+  "s": "폭스바겐이 새로운 ID. Tiguan을 공개했습니다.",
+  "p": "폭스바겐의 신형 ID. Tiguan 공개는 전기차 SUV 라인업 강화 움직임을 반영합니다."
+ },
+ {
+  "c": "ev",
+  "o": "Tesla Will Sell More Robots Than Cars “Within Two Years,” Predicts Former Stability AI CEO",
+  "h": "Tesla Will Sell More Robots Than Cars “Within Two Years,” Predicts Former Stability AI CEO",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQURkRmMwRnZsWEJtMFBCUW5pTmpfYkhZUGJnVDhlSE9QdE01MnBxWGNPOWxNQ2lnX3lpOGJDclNRb3hIcEs5cGZ2NjJyVHVBNHVOdl84NWVFWEp6Ni00UEVWZGFvQjF4cnVYWldiVEhaTENtcFlObURrLXZzSmNUb3Y5UEllWjhGMGdzcm1aTDBqdmpDNllUdUFJbG5tMjBTZ3Z3d2M2VzFKWUwwMWpYNks5UEdzMWM?oc=5",
+  "src": "TIKR.com",
+  "r": "kr",
+  "ts": "2026-10-09T18:45",
+  "s": "전 Stability AI CEO가 테슬라가 2년 내 자동차보다 로봇을 더 많이 판매할 것으로 예측했다",
+  "p": "전기차 제조사의 로봇 사업 확대 방향에 대한 업계 전망으로 향후 사업 구조 변화 시사"
+ },
+ {
+  "c": "car",
+  "o": "현대차 디 올 뉴 넥쏘 일본 출시 직후 두 자릿수 점유율 달성",
+  "h": "현대차 디 올 뉴 넥쏘 일본 출시 직후 두 자릿수 점유율 달성",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MUElpZ2pjT3lDdjRqTkpCXzJzVFB4RXZKR3QyTlM0anVpc1JJQ09jY21NcFNqYjdyOUU4X1VHcjNTTU9sak9ESHJRUGJCNTIxbVdYRjZGeXdWYVBtSGNkWmQwWnE1RVpMM3NkTw?oc=5",
+  "src": "모터그래프",
+  "r": "kr",
+  "ts": "2026-10-09T17:04",
+  "s": "현대차의 신형 넥쏘가 일본 출시 직후 시장점유율 두 자릿수를 기록했다",
+  "p": "완성차의 신모델이 해외 시장에서 빠른 성과를 거두며 수소연료전지차 경쟁력 입증"
+ },
+ {
   "c": "car",
   "o": "'제네시스'와 함께 달리는 현대차·기아…'제값 받는 브랜드' 만든 뚝심[정의선 회장 취임 6년 변화·혁신①]",
   "h": "'제네시스'와 함께 달리는 현대차·기아…'제값 받는 브랜드' 만든 뚝심[정의선 회장 취임 6년 변화·혁신①]",
@@ -220,6 +583,17 @@
   "p": "CEAT Specialty가 농용 타이어의 보증 기간 연장으로 제품 신뢰성 강화를 시도하는 것으로 보인다."
  },
  {
+  "c": "tire",
+  "o": "CEAT Specialty Extends Ag Radial Tire Warranty to 10 Years",
+  "h": "CEAT Specialty Extends Ag Radial Tire Warranty to 10 Years",
+  "url": "https://www.tirereview.com/ceat-ag-tire-warranty/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-09T01:00",
+  "s": "CEAT Specialty가 농업용 래디얼 타이어의 워런티를 10년으로 연장했습니다.",
+  "p": "농업용 타이어의 장기 워런티 확대로 고객 신뢰도 강화 움직임으로 보입니다."
+ },
+ {
   "c": "car",
   "o": "“30년 일본 아성 무너졌다”…중국, 호주 자동차시장 점유율 1위",
   "h": "“30년 일본 아성 무너졌다”…중국, 호주 자동차시장 점유율 1위",
@@ -264,6 +638,17 @@
   "p": "미쉐린이 특화된 오프로드 트레일러 타이어 라인업을 강화하는 움직임으로 보인다."
  },
  {
+  "c": "tire",
+  "o": "Tire, auto repair shop owners among 2026 Franchisees of Year",
+  "h": "Tire, auto repair shop owners among 2026 Franchisees of Year",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yd0ZyRFRNV0d2dVR4d0JKZ2VoLTRVX0p1cWJEbXU5U3RXMUpLbGFBaVNZWHBxWnZDWkdTTXhBQThoZG8xeVNHUUZTUDhIeW9CQXV6Vzh4bzdjY3o0cXc5N010QlpNNUl6blNseXg1eWNTUQ?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-08T22:43",
+  "s": "타이어 및 자동차 수리점 운영자들이 2026년 올해의 프랜차이지로 선정되었다.",
+  "p": "타이어 및 정비 서비스 산업의 프랜차이즈 사업 성장을 보여주는 사례이다."
+ },
+ {
   "c": "ev",
   "o": "독일 마일레, 전기차 전용 ‘MEYLE HD 브레이크 디스크’ 공개",
   "h": "독일 마일레, 전기차 전용 ‘MEYLE HD 브레이크 디스크’ 공개",
@@ -273,6 +658,17 @@
   "ts": "2026-10-08T22:39",
   "s": "독일 마일레가 전기차 전용으로 개발한 MEYLE HD 브레이크 디스크를 새로 공개했습니다.",
   "p": "전기차 특성에 맞춘 브레이크 부품 개발이 늘어나는 추세로 보입니다."
+ },
+ {
+  "c": "tire",
+  "o": "Tire Pros conference focuses on business growth, customer loyalty",
+  "h": "Tire Pros conference focuses on business growth, customer loyalty",
+  "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNVl4NzhLWlB0RUNESEt2Nk1JMmxFdjJFTVRUX1ViZ1RhUFlTOUYzMXVkU0ZDS0h1N3hxbzJtWHZ3RFkwQUpYUmNrU2lSZ0hYcFVIejBZNFFFYlhmcmY3dWRfMUFySFNiS1FIcUE5OE00QU9GQ3phY2c5QzRueWpwbQ?oc=5",
+  "src": "Tire Business",
+  "r": "global",
+  "ts": "2026-10-08T22:25",
+  "s": "Tire Pros 컨퍼런스에서 사업 성장과 고객 충성도에 중점을 두고 있다.",
+  "p": "타이어 업계가 고객 관리와 사업 경영 전략에 집중하고 있음을 반영한다."
  },
  {
   "c": "tire",
@@ -295,6 +691,17 @@
   "ts": "2026-10-08T22:14",
   "s": "현대차의 수소차 넥쏘가 1014㎞의 주행거리와 510ℓ의 트렁크 용량을 갖추고 일본 택시 시장에 진출했다.",
   "p": "장거리 주행과 실용성을 갖춘 수소차의 상용화는 택시 시장 등 상업용 차량 분야 확산 가능성을 보여준다."
+ },
+ {
+  "c": "tire",
+  "o": "K&M’s Yokohama Boost Program",
+  "h": "K&M’s Yokohama Boost Program",
+  "url": "https://www.tirereview.com/yokohama-boost-program/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-08T21:54",
+  "s": "K&M이 요코하마 부스트 프로그램을 진행하고 있습니다.",
+  "p": "요코하마 타이어의 판매 촉진 프로그램으로 유통채널 활성화를 시도하는 것으로 보입니다."
  },
  {
   "c": "ev",
