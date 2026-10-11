@@ -1,5 +1,258 @@
 [
  {
+  "c": "ev",
+  "o": "스텔란티스, 1만 5000유로 저가 전기차로 유럽 재도전 선언",
+  "h": "스텔란티스, 1만 5000유로 저가 전기차로 유럽 재도전 선언",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JRUlqUjlISmFWV1otbEJJaWx0MTczMVBDbzBpbkxsWDl1UFd4S2hubmtIdl8xRENzcnlFYlJQM3Vfdm9UbF9tVUlncUVlcGVWS3g3T3FURFdwTG9ZOFViZnlxWk84aE0?oc=5",
+  "src": "초이스스탁US",
+  "r": "kr",
+  "ts": "2026-10-12T05:53",
+  "s": "스텔란티스가 1만 5,000유로의 저가 전기차를 출시하여 유럽 시장에 재도전할 계획을 밝혔다.",
+  "p": "완성차 업체들이 저가 전기차 시장 공략을 강화하면서 가격 경쟁이 심화될 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "\"14억 인구·세계 3위 車시장\"…현대차가 인도에 공들이는 이유",
+  "h": "\"14억 인구·세계 3위 車시장\"…현대차가 인도에 공들이는 이유",
+  "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XR0JnZzI5T3JXWFdrZ055T21lSnhyQllqQk4tTF9JN202WldTUkg3NGh6V0tXOTV1ZEFKSEtPdlFxRElRQi1XWE0tT01xdFJKZmtQcmVnbHNUMW1MbGhTSNIBeEFVX3lxTE0zQjhwSFBFa1RzU0VyVWJxZHZKWEdTbTZrVXV2MmZMeGVSQ0pqZFpVWnh1UGxYY3JEc1NxNFpPaXRRNHdHNnJ6c25JM2owNmVmeVVqUDRhb3dnaHBYdHpOalBlUU1MVUc3ZHhGaHhXVWo0TzhaZmRFcw?oc=5",
+  "src": "뉴시스",
+  "r": "kr",
+  "ts": "2026-10-12T05:30",
+  "s": "현대차가 인도 시장에 관심을 기울이고 있으며, 인도는 14억 인구와 세계 3위의 자동차 시장 규모를 갖추고 있다.",
+  "p": "신흥시장 공략이 글로벌 완성차 업체의 성장 전략에서 중요한 역할을 하고 있음을 시사한다."
+ },
+ {
+  "c": "car",
+  "o": "현대차, 인도 누적 판매 1,000만 대 눈앞…SUV 성장 견인",
+  "h": "현대차, 인도 누적 판매 1,000만 대 눈앞…SUV 성장 견인",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41bXlnclp4LTZJMG1CMExZczFrd3pQT1M1Y1V5ZkVuSjlUczlfeFlIcHhxVU9ab0FYTzVYczNMV1lyMUc5THFyYlNjWk96QnJIU0NJbDA4aDlyMkR5OWVjcjdNeGVsUTdqMmFjTw?oc=5",
+  "src": "교통뉴스",
+  "r": "kr",
+  "ts": "2026-10-12T05:30",
+  "s": "현대차가 인도에서 누적 판매 1,000만대에 근접하며, SUV 성장이 판매를 견인하고 있다.",
+  "p": "신흥시장에서 SUV 선호도가 높아지고 있으며 이것이 완성차 업체의 판매 성장 동력이 되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "At Paris show, Stellantis seeks to prove its revival in Europe is real",
+  "h": "At Paris show, Stellantis seeks to prove its revival in Europe is real",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMmtMbDhwYzRvMlpmYlIweVZvT3pEckRwbzFjTmp0RUNLM1EtVGNENE9LUXRfa000cHFNWUd1U1hLZjQ0QnRYLXpvUTdoWko3dHdKV0JHX3hEd0wxVUJrdFJJdjFIUlFLcmRTanFSNGxYSFR0X0tVX2pjZjljWTZ4WVI4ZUNoV1dGd2c?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-12T05:26",
+  "s": "스텔란티스가 파리 쇼에서 유럽 내 경영 회복이 실제로 이루어지고 있음을 증명하려 하고 있다.",
+  "p": "유럽 시장에서의 스텔란티스의 실적 개선 노력이 완성차 업계의 지역별 전략 재편 흐름을 반영할 수 있다."
+ },
+ {
+  "c": "part",
+  "o": "EU, 자율주행 트럭 규제 완화 시동…유럽 물류 시장 재편과 한국 기업의 대응 과제",
+  "h": "EU, 자율주행 트럭 규제 완화 시동…유럽 물류 시장 재편과 한국 기업의 대응 과제",
+  "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9HTHpHLTlkekNQRGVoa1Rsd1phTVo3eF96WU50dkVLMlVlZzd2eklTTWdFdmljYmtNbENuLU03d2VFdmc?oc=5",
+  "src": "한국공공정책신문",
+  "r": "kr",
+  "ts": "2026-10-12T05:10",
+  "s": "EU가 자율주행 트럭에 대한 규제를 완화하려는 움직임을 보이고 있다.",
+  "p": "자율주행 기술 규제 완화가 유럽 물류 시장 구조 변화로 이어질 수 있으며 한국 업체들의 대응 전략이 필요할 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "Stellantis bets on small affordable EVs for European comeback",
+  "h": "Stellantis bets on small affordable EVs for European comeback",
+  "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ3Vnc21nNnBpSEFHQW5rSEIweVpPVHU1aHNfLXhscElQQ3NZU21kOGNOMXlVVWdiTE1raXhHdjhKMDJpYUhqZURGM2NyS21MVjdzQVl1ckVJdkk2U3MzcVFLX05QU05rUG1VNWZMcDBFYmd4NVNoNzF6aVk2QVNyMjhEYk9xb0d1bnlsZkpKdFJBaGYxamd3QVB1Z25BVGFhQjM4Wkw1Y1NCUktQVHJWMWljZlVDNld3UlUyNw?oc=5",
+  "src": "Reuters",
+  "r": "global",
+  "ts": "2026-10-12T04:42",
+  "s": "Stellantis가 유럽 시장 재진출을 위해 소형 저가 전기차에 베팅하고 있다.",
+  "p": "완성차 업계의 가성비 중심 전기차 전략이 시장 경쟁 심화와 가격 압박으로 이어질 수 있다."
+ },
+ {
+  "c": "ev",
+  "o": "현대차, 일본에 수소전기차 출시...시장 점유율 11% 기록",
+  "h": "현대차, 일본에 수소전기차 출시...시장 점유율 11% 기록",
+  "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HN3NKNjZkQ2VnT2JBaV9IUFJwNGotRjJiZHlGSWNuOXVpeXpVNFFzUkl3Zm9sRXE3Z3loZUxRVmI2OE5BM2tuZjJTbXVOSmtOYXNMREJzVFdYOWZWdGw5SGVQc0pucC1LZGlXaw?oc=5",
+  "src": "교통뉴스",
+  "r": "kr",
+  "ts": "2026-10-12T04:30",
+  "s": "현대차가 일본 시장에 수소전기차를 출시하여 11%의 시장 점유율을 기록했다.",
+  "p": "수소연료전지차가 특정 지역 시장에서 의미 있는 점유율을 확보하고 있으며, 완성차 업체의 다원화된 전동화 전략이 지역별로 차별적으로 적용되고 있다."
+ },
+ {
+  "c": "car",
+  "o": "정의선 취임 6년, 현대차 글로벌 '빅3' 넘어 피지컬 AI 선도기업으로",
+  "h": "정의선 취임 6년, 현대차 글로벌 '빅3' 넘어 피지컬 AI 선도기업으로",
+  "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CbTNFV3NpQzluSXQ5TndIZGY0SnJEMlZuZlRtSmNXNE9vTTdsZXJPMTF2c0ZRbURJOGQ2NDg4M0FTSjRPbGQ0ODVyZGptWkltTC1PbUMzaVRVSnJYM1JKQVpDVQ?oc=5",
+  "src": "조세금융신문",
+  "r": "kr",
+  "ts": "2026-10-12T04:10",
+  "s": "정의선 회장 취임 이후 6년간 현대차가 글로벌 빅3을 넘어 피지컬 AI 선도기업으로 성장했다.",
+  "p": "완성차 업계의 경쟁 패러다임이 전통적 판매량에서 기술 혁신 리더십으로 이동하고 있음을 반영한다."
+ },
+ {
+  "c": "car",
+  "o": "Fiat unveils Multiplay concept that turns from family minivan into pickup",
+  "h": "Fiat unveils Multiplay concept that turns from family minivan into pickup",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdnRXOGlrMVFmT19ULUNmeFFJNmx3eFQ0d2haaEl2Y2FicUlXeTFBb2hBbFRmdW55Z1RwWGpvMEZzdFFacWlmaWl4QWcxNFEwcURDd09FUVNuQzZkR0E2T1hVcnZESWZCOGQ2ZlRUZ0ZSQW1XbVBXVTNzQUdUMXVzR1YwSWJRZTVIMFg1TWVHY1I3OXhIV252UUEzVGgzSXVPYTcwWVFwRHJKdi1OY25fcg?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-12T03:43",
+  "s": "피아트가 패밀리 미니밴에서 픽업트럭으로 변형 가능한 멀티플레이 컨셉트를 공개했다.",
+  "p": "다목적 차량 개념의 제시로 소비자 수요 다양화에 대응하려는 완성차 업체의 제품 전략 방향을 보여줄 수 있다."
+ },
+ {
+  "c": "ev",
+  "o": "2030년 1300만대 전기자동차 목표, 반소에트가 수입 부품 의존도를 조사하다",
+  "h": "2030년 1300만대 전기자동차 목표, 반소에트가 수입 부품 의존도를 조사하다",
+  "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5jdUwzVnNGOUlRejAwOW50Um1VTUJUeXI5anFxUXM4bFRwUXJySVhBU3o0WkJBemRQNDFkeVZyRU9rQjJn0gFCQVVfeXFMT1RKRkZUb2VZa0J6MmhoZ2JZdFVVbHM2LWJiVzJCLUJKZXNxdzNELUQ5TUtpSU9JTlVERnlPMVhSWm9n?oc=5",
+  "src": "VOI.ID",
+  "r": "kr",
+  "ts": "2026-10-12T03:37",
+  "s": "2030년 1,300만대의 전기자동차 목표와 관련하여 수입 부품 의존도를 조사하고 있다.",
+  "p": "전기자동차 확대 목표 달성 과정에서 부품 공급망의 해외 의존도 문제가 검토되고 있음을 보여준다."
+ },
+ {
+  "c": "car",
+  "o": "쌍트로로 출발한 현대차 인도 판매 988만대",
+  "h": "쌍트로로 출발한 현대차 인도 판매 988만대",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QOWJRU1Rkb1RKX3RGekEyemsyYVJlUnBEYnJSZDZldDdNRlhiaXl0SnJqdEgyM3pId1p5TTJFcS1BRzQxRmJ0YVpUNmIxZXp4RkZHdDZ6dUp1WnZPWFBDMHhCcThpdw?oc=5",
+  "src": "비건뉴스",
+  "r": "kr",
+  "ts": "2026-10-12T03:12",
+  "s": "현대차가 인도 시장에서 988만대의 누적 판매를 기록했다.",
+  "p": "인도 시장이 현대차의 주요 성장 거점으로 자리매김하고 있음을 보여준다."
+ },
+ {
+  "c": "car",
+  "o": "로봇·AI로… 현대차 진화, 경계를 넘다 - 머니투데이",
+  "h": "로봇·AI로… 현대차 진화, 경계를 넘다 - 머니투데이",
+  "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmWFFNbzJKQkVVTlZLaW4yNWp5cWFPUUtNaHBJb3hrTUhsMWY1NWo1ZHZCNjNkdWVnOE55WkFFeWdrRjRGRnVDczZxMlVTTElWWVlTd0FWOGZ5bWZpcXM4SDlnaUJyN0NWb25IWlU1VU9rQdIBckFVX3lxTFBmWFFNbzJKQkVVTlZLaW4yNWp5cWFPUUtNaHBJb3hrTUhsMWY1NWo1ZHZCNjNkdWVnOE55WkFFeWdrRjRGRnVDczZxMlVTTElWWVlTd0FWOGZ5bWZpcXM4SDlnaUJyN0NWb25IWlU1VU9rQQ?oc=5",
+  "src": "머니투데이",
+  "r": "kr",
+  "ts": "2026-10-12T03:00",
+  "s": "현대차가 로봇과 AI 기술로 기업의 경계를 넘어 진화하고 있다.",
+  "p": "완성차 업체들이 전통적 자동차 제조를 벗어나 다양한 기술 영역으로 사업 범위를 확장하는 추세를 보여준다."
+ },
+ {
+  "c": "car",
+  "o": "Alfa Romeo concept previews midsize design for Stellantis brand that seeks partners for model",
+  "h": "Alfa Romeo concept previews midsize design for Stellantis brand that seeks partners for model",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMWUtNDNfcFMwUkI5RFpKVGQzdnBVNzdVNExvREdUWk5Ld1FTZVd0czN3ZHhmdmJIMGNVVlZ3SFN3ZlRQdlpCZ0NrbjVMOFJtdFlBdHJoRHBXVkFVbUYxMTA3YlRFdTV4YXh6TGs0NlZ4VXhPUE5qVldoeDFZQjlDMVh0c19Ub3Q2UWQtczdGVDhVUF9QWkZ4ZmxFTQ?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-12T02:41",
+  "s": "알파로메오가 스텔란티스 브랜드의 중형급 디자인을 미리 보여주는 컨셉트를 공개하고 파트너 모색 중이다.",
+  "p": "플랫폼 공유 및 제휴를 통한 개발 비용 효율화가 글로벌 완성차 업체들의 생존 전략으로 강화되는 추세를 나타낼 수 있다."
+ },
+ {
+  "c": "ev",
+  "o": "영남대 미래자동차공학과 ‘YUSAE’, 자작자동차대회 금상…내연기관 부문 1위",
+  "h": "영남대 미래자동차공학과 ‘YUSAE’, 자작자동차대회 금상…내연기관 부문 1위",
+  "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuOEpwOXRKcHlWRXJHWm5UOWlEYmtFT3RZMFQ5V291NGFsTDBsVjRJbGd6WTRjTW5HSjMxSXVyaWYzbFJ6X2pqYmN0MjctNkVRa2JpWFl2ay0?oc=5",
+  "src": "경북신문",
+  "r": "kr",
+  "ts": "2026-10-12T02:17",
+  "s": "영남대 미래자동차공학과 학생팀이 자작자동차대회에서 금상을 수상하고 내연기관 부문에서 1위를 차지했다.",
+  "p": "대학 수준의 자동차 개발 역량이 대회를 통해 입증되는 사례로, 미래 인재 양성과 산업 기술력 발전의 의미를 가질 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "Citroen 2 CV Concept nods to original, previews €15,000 minicar made in Europe",
+  "h": "Citroen 2 CV Concept nods to original, previews €15,000 minicar made in Europe",
+  "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0E5R29EMlJNMUYyYkl5aHV6b2xOOWNGakdkSDI0MldPNVBRb2F3QVlIT2NEdldvdThXb29vczFSUEw1UThTYU1fWUtlOGlXNTFlLS0zWjBpYWhvVTd4bng2UHQyTGlnb3U5VW5reTVGUUdmMFVFcXZZQ2JrbGVaYWJmSVpOMmxSUENN?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-12T02:01",
+  "s": "시트로엥이 오리지널을 오마주한 2CV 컨셉트를 공개했으며, 유럽 내 생산으로 €15,000 수준의 미니카 출시를 예정하고 있다.",
+  "p": "저가 차량 시장에서 유럽 현지 생산 기지 확보 움직임이 지역별 공급망 재구성 흐름을 반영할 수 있다."
+ },
+ {
+  "c": "car",
+  "o": "Peugeot RCZ and E-T16 concepts focus on performance in glimpse of next-generation lineup",
+  "h": "Peugeot RCZ and E-T16 concepts focus on performance in glimpse of next-generation lineup",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWjVzenpHZlF6NXZ2LWI5R2VOQmJsOXZFNE9UVjRLUGhWVUFxWXNvYVFpelVoNXAwVURINEd0WTIwdk5DV2VaUTJYbnY4czY5ZnIyMnRlLWZPZlBYLTdqdmhCSVlMRHFKZFc2MHdqRUtJZFVJOE9wUnJUYmI2NjBENmRQN1BhcGxmZUVwZA?oc=5",
+  "src": "Automotive News",
+  "r": "global",
+  "ts": "2026-10-12T02:01",
+  "s": "푸조가 성능에 초점을 맞춘 RCZ와 E-T16 컨셉트를 통해 차세대 라인업을 보여준다.",
+  "p": "완성차 업체들의 성능과 전기화를 결합한 차세대 제품 개발 방향이 시장 경쟁 심화를 예고하는 신호로 작용할 수 있다."
+ },
+ {
+  "c": "tire",
+  "o": "Car and Driver Names Radar Renegade-X Best Mud-Terrain Tire",
+  "h": "Car and Driver Names Radar Renegade-X Best Mud-Terrain Tire",
+  "url": "https://s19532.pcdn.co/radar-renegade-x-mud-terrain-tire/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-12T01:00",
+  "s": "Radar Renegade-X 타이어가 Car and Driver로부터 최고의 머드 테레인 타이어로 선정되었다.",
+  "p": "오프로드 타이어의 성능 평가와 소비자 신뢰도 형성에 자동차 전문 매체의 평가가 영향을 미친다."
+ },
+ {
+  "c": "car",
+  "o": "현대차는 ‘데스 밸리’ 진입… “앞으로 2년 힘겹게 버텨야”",
+  "h": "현대차는 ‘데스 밸리’ 진입… “앞으로 2년 힘겹게 버텨야”",
+  "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRWUxV2FGd09UWEk1NEEzUDRaQ1hDeDlrOHg5NFJVQW0zcDVjQjZMM0d2QTNDNEtNMUphTVhYOFJ4S21ldXZLQ3hkRXg1VjY0RjZmZF84WWxmUFB6WmtoNEVGXzRIMnhvQ2FycHBKbkc5aHRORW8yVFVBeVZPcFUtZXk4YnBWbzhOVXRwVTNzYw?oc=5",
+  "src": "조선일보",
+  "r": "kr",
+  "ts": "2026-10-12T00:42",
+  "s": "현대차가 '데스 밸리'에 진입했으며, 향후 2년간 어려운 상황을 견뎌야 할 것으로 전망된다.",
+  "p": "완성차 업계가 구조적 전환기에서 단기적 경영 위기에 직면할 수 있음을 시사한다."
+ },
+ {
+  "c": "part",
+  "o": "재고 쌓인 중국차… 美·유럽 대신 한국에 ‘초저가 밀어내기’ 예고",
+  "h": "재고 쌓인 중국차… 美·유럽 대신 한국에 ‘초저가 밀어내기’ 예고",
+  "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96NjNwUl9PaFZRbmlTT0hpa091VDFWUl9JS3ZyZkV6VEZNMnc5ZEJXYVZqZU5Wb1ZoVkdhUDc0Y1l6Q2xXQllQTDllbWtUNFVwRlRfSUxkcmJkaWxqSmExdjdJenFyLU1YR1Zzclg2V21QVVE3UllxSTJyVENycUE?oc=5",
+  "src": "조선일보",
+  "r": "kr",
+  "ts": "2026-10-12T00:42",
+  "s": "재고가 쌓인 중국 자동차가 미국과 유럽 대신 한국 시장에 초저가로 수입될 가능성이 예고되고 있다.",
+  "p": "중국산 저가 자동차의 한국 시장 유입 가능성이 국내 자동차 업계에 새로운 경쟁 압력을 가할 수 있다."
+ },
+ {
+  "c": "part",
+  "o": "2035년 리드 센서 시장 전망: 자동차 안전과 산업 자동화 수요가 성장 견인",
+  "h": "2035년 리드 센서 시장 전망: 자동차 안전과 산업 자동화 수요가 성장 견인",
+  "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMGUxOUhoakUyMlNwMjVRcDZqdDdBaVFKU0ExTlgwNmlhczBLYmhHWGNTQmpSWk1mTnNzTmlUWHg4UjV5RVF6eUVmOFBScUM3VVNRZDZEOVZVY29QZVVZakRWRFkzb21BeWpPcEkxNWkyWjhUSzdZOFktS1c3V0VZMnYtQjRYblhtUER6NjVZcXk1b3VfTnlvX1pBd2FBbjZfbHAxQWVGTzlBbnFhbEtWTzVhR1NWcWc5UVNiRnRqdzJxUzFsMGRsN3B0VDJmeDN0?oc=5",
+  "src": "IndexBox",
+  "r": "kr",
+  "ts": "2026-10-11T23:51",
+  "s": "2035년 리드 센서 시장이 자동차 안전과 산업 자동화 수요에 의해 성장할 것으로 전망된다.",
+  "p": "자동차 부품 시장이 안전 기능 고도화와 자동화 기술 수요에 따라 성장 기회를 갖고 있다."
+ },
+ {
+  "c": "ev",
+  "o": "Ford Killed Its Electric Truck. Then Demand Surged",
+  "h": "Ford Killed Its Electric Truck. Then Demand Surged",
+  "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWlZpVHhvWm9KRjZZUnNTZ2NQVnJpcUFEbmt4MW9EOU02YVVGc0dweEhXd0V0OTBDb2xiM0lFNVl1N3lvRWdrRGFVYlAyX0x0R042WHZVWFJCaGFXWUVlOXhhSWxlSzhLTTJLdng3Nmh0QmtuYmR4enhSQV90WUJ1V2lhM3dzQ0ZJMldFVmtOZXVpZGVJbHN0R0pVQW5GbFhWZjdVRnpudWd0VXpMS29yN1R1Yw?oc=5",
+  "src": "Bloomberg",
+  "r": "global",
+  "ts": "2026-10-11T23:00",
+  "s": "포드가 중단했던 전기 트럭에 대한 수요가 이후 급증했다.",
+  "p": "전기 트럭 시장의 수요 회복이 완성차 업체의 전기차 전략 재검토를 촉발할 수 있을 것으로 보인다."
+ },
+ {
+  "c": "part",
+  "o": "2035년 소형 카트리지 퓨즈 시장 전망: 소형화와 자동차 전자 부품이 성장 견인 - 뉴스 및 통계",
+  "h": "2035년 소형 카트리지 퓨즈 시장 전망: 소형화와 자동차 전자 부품이 성장 견인 - 뉴스 및 통계",
+  "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaGFPdGp4ZGtFSVNyUjRwVDhfc1BicTEydk50X201X1UyeC01Zl84bVpkZ3h0bGdIb1Z6Njg1al9ncVZUUVJJUmh3TXNjSjVkM2N4a0V0Vl9vYktKRzFvd3VISGo5REExc25MWWEyUHVCWFhVZmNjQzZlRTFIeG5PbkZZQW1hN1k0SkVPRW9Db3JJRkl1QjZ0NHJIeGthdm1fdmdWM0tHeTFIY2c0U0VQMFFxcUYwYzdFZDNITzdzY0VQME9Z?oc=5",
+  "src": "IndexBox",
+  "r": "kr",
+  "ts": "2026-10-11T22:16",
+  "s": "2035년 소형 카트리지 퓨즈 시장이 소형화와 자동차 전자 부품 수요 증가로 성장할 것으로 전망된다.",
+  "p": "자동차 전자화 추세에 따라 소형 전기 부품의 수요가 증가할 것으로 예상된다."
+ },
+ {
+  "c": "car",
+  "o": "인도 누적 판매 1,000만대 돌파 초읽기 중인 현대자동차",
+  "h": "인도 누적 판매 1,000만대 돌파 초읽기 중인 현대자동차",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBkLUoyRTlDdzJsbzg1U2FoTFI5QnhFQnRoVjZ0czhJbHpONmpOWk0xVWJXc3MzSGQ0d3lPREdjNGpHam5EY3Y1UDFQamtpMDI3RmZQbTBjV3ZCTGh4cGhaVWNVMWRGQ1Rn?oc=5",
+  "src": "모터피디",
+  "r": "kr",
+  "ts": "2026-10-11T21:14",
+  "s": "현대자동차가 인도 시장에서 누적 판매 1,000만대 달성을 앞두고 있다.",
+  "p": "신흥시장 공략의 성공 사례로 글로벌 완성차 업체의 지역별 전략 차별화 중요성을 시사한다."
+ },
+ {
   "c": "car",
   "o": "현대차그룹, 동남아 ‘현대점프스쿨’ 확대…배움 선순환 체계 구축",
   "h": "현대차그룹, 동남아 ‘현대점프스쿨’ 확대…배움 선순환 체계 구축",
@@ -77,6 +330,17 @@
   "p": "장기간 낮은 판매 수준이 타이어 업계 수요에 영향을 미칠 수 있다."
  },
  {
+  "c": "tire",
+  "o": "U.S. Light-Vehicle Sales to Stay Below Pre-Pandemic Levels Through 2030",
+  "h": "U.S. Light-Vehicle Sales to Stay Below Pre-Pandemic Levels Through 2030",
+  "url": "https://www.tirereview.com/us-light-vehicle-sales-forecast-2026/",
+  "src": "Tire Review",
+  "r": "global",
+  "ts": "2026-10-10T23:00",
+  "s": "미국 경승용차 판매가 2030년까지 팬데믹 이전 수준 이하로 유지될 것으로 전망된다.",
+  "p": "저조한 자동차 판매 전망이 타이어 수요와 시장 성장에 부정적인 영향을 줄 수 있음을 시사한다."
+ },
+ {
   "c": "car",
   "o": "VW gives ID Tiguan a premium makeover with upscale cabin, new tech",
   "h": "VW gives ID Tiguan a premium makeover with upscale cabin, new tech",
@@ -152,6 +416,17 @@
   "ts": "2026-10-10T20:56",
   "s": "2035년 GNSS 칩 시장이 자동차 자율주행과 IoT 수요에 의해 성장할 것으로 전망된다.",
   "p": "자율주행차 보급 확대에 따른 위치 인식 칩 소재 시장의 성장 가능성을 보여준다."
+ },
+ {
+  "c": "tire",
+  "o": "타이어 체인 시장 2035년 전망: 겨울철 안전 규제와 상업용 차량 증가로 수요 가속",
+  "h": "타이어 체인 시장 2035년 전망: 겨울철 안전 규제와 상업용 차량 증가로 수요 가속",
+  "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOTBfUkM5eU1MUFAzTXlXY19lTm9jZHNRTWo4TnR2cVhudnZQZHh2ZzZ0c0JJaTN4ekM1dFoyLVExNGVuTW5vcTdMYndpcXlTQlNId2UwQTNvdmZHQ1dVYzFPVHRyU1p6MEZOWVpIWVVHWmdmaUJPMkpzWnZGRDJIUkJfTDJ4Q19jd0hpZlNSMTNfMVYzVUFldG8tbFZ6dllwVFBLYlJZUkhmSHBUQWRjanlIREVxbzYxUTBhRWQtb1BhVnBmTGF2aEZLNUNGZHFobjB4SHJweWdBOEk?oc=5",
+  "src": "IndexBox",
+  "r": "kr",
+  "ts": "2026-10-10T20:21",
+  "s": "타이어 체인 시장이 2035년에 겨울철 안전 규제와 상업용 차량 증가로 인해 수요가 증가할 것으로 전망된다.",
+  "p": "규제 강화와 운송 수요 확대가 타이어 체인 시장의 성장 동력으로 작용할 수 있음을 시사한다."
  },
  {
   "c": "car",
@@ -386,6 +661,17 @@
  },
  {
   "c": "tire",
+  "o": "DMACK achieves EUDR compliance and plans industry-first RFID bicycle tyres",
+  "h": "DMACK achieves EUDR compliance and plans industry-first RFID bicycle tyres",
+  "url": "https://www.tyrepress.com/2026/10/dmack-achieves-eudr-compliance-and-plans-industry-first-rfid-bicycle-tyres/",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-10T01:34",
+  "s": "DMACK가 EUDR 규정 준수를 달성했으며 업계 최초의 RFID 자전거 타이어를 계획하고 있다.",
+  "p": "타이어 업계에서 환경 규제 대응과 추적 기술 도입이 차별화 전략으로 확대되는 추세로 보인다."
+ },
+ {
+  "c": "tire",
   "o": "Dunlop riders dominate Motocross of Nations as Team Belgium claims victory",
   "h": "Dunlop riders dominate Motocross of Nations as Team Belgium claims victory",
   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMjVnZnVUT240RzJyQlVMWXlaQjVlV1l4ZkZtelRqR0JfVmc0ZnEwRkJ5NXlkTm04TnFpQUsxRUNWV0kxbXdrTmVjOENuTDBMeFlpYTlzbmdWX3dZTktsYmpLSENJdUFwQjkyZlM1WFRHc3ZVZ3NmR0ltSFlPOWhZREhFbENvLTNEUjRIOXZyWlB0dzNpbDVqM0swNjRaTm5GVVVFZEFJVjBwX0dzSkE?oc=5",
@@ -394,6 +680,39 @@
   "ts": "2026-10-10T01:31",
   "s": "Dunlop 타이어를 사용한 라이더들이 모토크로스 나이션스에서 우승하며 벨기에 팀이 승리를 거두었다.",
   "p": "모토스포츠 분야에서의 타이어 성능 입증이 브랜드 가치 강화에 기여한다."
+ },
+ {
+  "c": "tire",
+  "o": "Dunlop riders dominate Motocross of Nations as Team Belgium claims victory",
+  "h": "Dunlop riders dominate Motocross of Nations as Team Belgium claims victory",
+  "url": "https://www.tyrepress.com/2026/10/dunlop-riders-dominate-motocross-of-nations-as-team-belgium-claims-victory/",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-10T01:26",
+  "s": "Dunlop 타이어를 사용한 라이더들이 모토크로스 오브 네이션스에서 우승하여 벨기에 팀의 승리를 주도했다.",
+  "p": "모토스포츠 경쟁에서 타이어 성능이 경기 결과에 중요한 역할을 한다는 점을 보여주는 사례이다."
+ },
+ {
+  "c": "tire",
+  "o": "Goodyear gears up for ELMS Portimão finale ahead of 2027 sustainable tyre transition",
+  "h": "Goodyear gears up for ELMS Portimão finale ahead of 2027 sustainable tyre transition",
+  "url": "https://www.tyrepress.com/2026/10/goodyear-gears-up-for-elms-portimao-finale-ahead-of-2027-sustainable-tyre-transition/",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-10T01:02",
+  "s": "Goodyear가 2027년 지속가능 타이어 전환을 앞두고 ELMS 포르티마오 최종전에 참여할 준비를 하고 있다.",
+  "p": "친환경 타이어 개발이 모터스포츠 파트너십을 통해 실제 성능 검증 및 홍보 기회로 활용되고 있다."
+ },
+ {
+  "c": "tire",
+  "o": "Continental targets young driver knowledge gaps for Tyre Safety Month",
+  "h": "Continental targets young driver knowledge gaps for Tyre Safety Month",
+  "url": "https://www.tyrepress.com/2026/10/continental-targets-young-driver-knowledge-gaps-for-tyre-safety-month/",
+  "src": "Tyrepress",
+  "r": "global",
+  "ts": "2026-10-10T00:48",
+  "s": "Continental이 타이어 안전의 달을 맞아 젊은 운전자들의 지식 격차 해소를 목표로 활동을 전개하고 있다.",
+  "p": "타이어 업계가 소비자 안전 교육을 통해 브랜드 신뢰도를 높이고 장기적 고객 기반을 구축하려는 시도로 볼 수 있다."
  },
  {
   "c": "tire",
